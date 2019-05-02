@@ -19,12 +19,17 @@ https://www.aaai.org/ocs/index.php/ICWSM/09/paper/viewPaper/184
 - Community Detection en el grafo en cuestion (qué grafo?)
 - Distribuión de grados
 - Analizar un grafo dinamico en el tiempo? Un grafo por cada t=i
+- Si vamos a hacer una presentación, podemos hacer que la intro sea el pulso de la ciudad. Re cheto.
+
 
 ***En particular (¿qué grafos usamos?)***
 - Inferencia sobre alguna caracteristica de los nodos (ejemplo genero)
 - Hacer topological data analysis para ver la "forma" de los grafos.
 - Estudiar el grafo cuyo nodo son las estaciones, y las aristas dirigidas con peso son, tal vez, la cantidad de bicicletas que fluyen (entran y salen).
--- Calcular la cantidad de bicicletas por estación a partir del flujo (a través del tiempo), haciendo que cada estación empiece en cero, y cada vez que hay un movimiento se lo cuenta.
 
-- Hacer un grafo bipartito (nodos = personas, nodos = estaciones), y luego proyectar.
+Borrador:
+-- Calcular la cantidad de bicicletas por estación a partir del flujo (a través del tiempo), haciendo que cada estación empiece en cero, y cada vez que hay un movimiento se lo cuenta.
+-- ¿Hay agentes invisibles del gobierno que mueven bicicletas sin estar registrados? ¿Se roban bicicletas? ¿Se agregan bicicletas sin registrarlas?
+
+- Hacer un grafo bipartito (nodos = personas, nodos = estaciones), y luego proyectar
 
