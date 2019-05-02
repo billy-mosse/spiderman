@@ -33,3 +33,7 @@ Borrador:
 
 - Hacer un grafo bipartito (nodos = personas, nodos = estaciones), y luego proyectar
 
+**Preguntas sueltas**
+
+- ¿Hay gente que deja una bici y la vuelve a sacar por el límite de tiempo? ¿Cuántos, dónde?
+
