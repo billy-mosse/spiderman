@@ -20,7 +20,7 @@ https://www.aaai.org/ocs/index.php/ICWSM/09/paper/viewPaper/184
 - Distribuión de grados
 - Analizar un grafo dinamico en el tiempo? Un grafo por cada t=i
 - Si vamos a hacer una presentación, podemos hacer que la intro sea el pulso de la ciudad. Re cheto.
-
+- Coeficiente de clustering (ejemplo: qué estaciones son importantes en el grafo dirigido de estaciones? Estas deberían tener más bicicletas, tal vez.)
 
 ***En particular (¿qué grafos usamos?)***
 - Inferencia sobre alguna caracteristica de los nodos (ejemplo genero)
