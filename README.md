@@ -34,9 +34,10 @@ https://www.aaai.org/ocs/index.php/ICWSM/09/paper/viewPaper/184
 - Hacer topological data analysis para ver la "forma" de los grafos.
 - Estudiar el grafo cuyo nodo son las estaciones, y las aristas dirigidas con peso son, tal vez, la cantidad de bicicletas que fluyen (entran y salen).
 
-Borrador:
--- Calcular la cantidad de bicicletas por estación a partir del flujo (a través del tiempo), haciendo que cada estación empiece en cero, y cada vez que hay un movimiento se lo cuenta. Update: ya tenemos info de cantidad de bicis y espacios vacíos.
--- ¿Hay agentes invisibles del gobierno que mueven bicicletas sin estar registrados? ¿Se roban bicicletas? ¿Se agregan bicicletas sin registrarlas?
+Sarasa:
+- Calcular la cantidad de bicicletas por estación a partir del flujo (a través del tiempo), haciendo que cada estación empiece en cero, y cada vez que hay un movimiento se lo cuenta. Update: ya tenemos info de cantidad de bicis y espacios vacíos.
+
+- ¿Hay agentes invisibles del gobierno que mueven bicicletas sin estar registrados? ¿Se roban bicicletas? ¿Se agregan bicicletas sin registrarlas?
 
 - Hacer un grafo bipartito (nodos = personas, nodos = estaciones), y luego proyectar
 
