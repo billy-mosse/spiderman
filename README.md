@@ -37,3 +37,4 @@ Borrador:
 
 - ¿Hay gente que deja una bici y la vuelve a sacar por el límite de tiempo? ¿Cuántos, dónde?
 
+- Mutual information: para comparar redes parecidas. Para ver cómo va cambiando la red a través del tiempo
