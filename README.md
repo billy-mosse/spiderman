@@ -46,3 +46,5 @@ Sarasa:
 - ¿Hay gente que deja una bici y la vuelve a sacar por el límite de tiempo? ¿Cuántos, dónde?
 
 - Mutual information: para comparar redes parecidas. Para ver cómo va cambiando la red a través del tiempo
+
+- Usar topological data analysis (https://arxiv.org/abs/1707.04041) para predecir género (https://arxiv.org/abs/1101.3291) de las personas en base a patrones de movimiento. Tal vez tratar de entender por qué se predice esto? Comparar topological data analysis con redes neuronales.
