@@ -47,4 +47,5 @@ Sarasa:
 
 - Mutual information: para comparar redes parecidas. Para ver cómo va cambiando la red a través del tiempo
 
-- Usar topological data analysis (https://arxiv.org/abs/1707.04041) para predecir género (https://arxiv.org/abs/1101.3291) de las personas en base a patrones de movimiento. Tal vez tratar de entender por qué se predice esto? Comparar topological data analysis con redes neuronales.
+- Usar topological data analysis (https://arxiv.org/abs/1707.04041) para predecir género (https://arxiv.org/abs/1101.3291) de las personas en base a patrones de movimiento de cada persona. Tal vez tratar de entender por qué se predice esto? Comparar topological data analysis con redes neuronales. Pensar otros grafos posibles para esto.
+Alternativa: comparar data de distintos días/meses usando TDA para entender...cosas.
