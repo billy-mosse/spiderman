@@ -1,0 +1,11 @@
+Sobre predecir dias de marcha:
+	Hay varias opciones. Podemos estudiar la topología de la red, por ejemplo, donde un eje mide la cantidad de personas que fueron de una estación a la otra. Para eso, lo más fácil tal vez es calcula el PI1. Este se calcula cocientando por el AGM y contando los ejes que sobreviven. Buscar referencia.
+	Otra opción es estudiar la homología del grafo, tal vez con TDA, pero no sé cómo.
+	Otra opción es tomar los ejes como el tiempo promedio que se tarda en ir de una estación a la otra. Si los nodos los fijamos sobre el mapa de la ciudad, entonces los ejes (luego de normalizar, tal vez) necesariamente se curvan. Podemos estudiar la curvatura en cada nodo. La curvatura es más alta si hay más tránsito, probablemente.
+	Notar que podemos definir una métrica según la inducida por:
+	- Distancia entre 2 nodos cualesquiera = suma de valores de ejes de un camino mínimo. 
+
+
+Pregunta: se puede computar la curvatura en un punto? En primer lugar, está unívocamente determinada?
+Podemos calcular algo que se relacione con la curvatura?
+Hay alguien que sepa de esto?
