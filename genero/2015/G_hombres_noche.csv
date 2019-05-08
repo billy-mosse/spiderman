@@ -1,1756 +1,2446 @@
-Parque Centenario nan {'cant': 29}
-Parque Centenario Parque Centenario {'cant': 276}
-Parque Centenario Once {'cant': 14}
-Parque Centenario Plaza Italia {'cant': 22}
-Parque Centenario Parque Las Heras {'cant': 25}
-Parque Centenario Diagonal Norte {'cant': 2}
-Parque Centenario Plaza Almagro {'cant': 99}
-Parque Centenario Facultad de Derecho {'cant': 6}
-Parque Centenario Plaza Boedo {'cant': 50}
-Parque Centenario Urquiza {'cant': 5}
-Parque Centenario Pacífico {'cant': 11}
-Parque Centenario Ecoparque {'cant': 4}
-Parque Centenario Parque Patricios {'cant': 18}
-Parque Centenario Parque Lezama {'cant': 25}
-Parque Centenario Tribunales {'cant': 3}
-Parque Centenario Plaza Houssay {'cant': 18}
-Parque Centenario Plaza Güemes {'cant': 20}
-Parque Centenario Plaza Palermo Viejo {'cant': 6}
-Parque Centenario Ayacucho {'cant': 3}
-Parque Centenario Rivarola {'cant': 0}
-Parque Centenario Distrito Audiovisual {'cant': 17}
-Parque Centenario Congreso {'cant': 15}
-Parque Centenario Peña {'cant': 14}
-Parque Centenario Coronel Díaz {'cant': 0}
-Parque Centenario Legislatura {'cant': 1}
-Parque Centenario Instituto Leloir {'cant': 0}
-Parque Centenario Plaza Vicente López {'cant': 1}
-Parque Centenario Chile {'cant': 1}
-Parque Centenario Plaza Roma {'cant': 0}
-Parque Centenario Piedras {'cant': 0}
-Parque Centenario Facultad de Medicina {'cant': 2}
-Parque Centenario Obelisco {'cant': 2}
-Parque Centenario Retiro {'cant': 0}
-Parque Centenario Independencia {'cant': 10}
-Parque Centenario Galerías Pacífico {'cant': 0}
-Parque Centenario Suipacha {'cant': 1}
-Parque Centenario Arenales {'cant': 1}
-Parque Centenario Montevideo {'cant': 6}
-Parque Centenario Santiago del Estero {'cant': 7}
-Parque Centenario Plaza San Martín {'cant': 0}
-Parque Centenario Alsina {'cant': 0}
-Parque Centenario Cochabamba {'cant': 3}
-Pacífico Plaza Palermo Viejo {'cant': 3}
-Pacífico Pacífico {'cant': 242}
-Pacífico Plaza Italia {'cant': 60}
-Pacífico Parque Centenario {'cant': 41}
-Pacífico Distrito Audiovisual {'cant': 29}
-Pacífico Congreso {'cant': 14}
-Pacífico Parque Las Heras {'cant': 85}
-Pacífico Plaza Roma {'cant': 4}
-Pacífico Plaza Almagro {'cant': 22}
-Pacífico Peña {'cant': 53}
-Pacífico Ecoparque {'cant': 21}
-Pacífico Facultad de Derecho {'cant': 90}
-Pacífico Plaza Güemes {'cant': 41}
-Pacífico Plaza Vicente López {'cant': 14}
-Pacífico nan {'cant': 10}
-Pacífico Facultad de Medicina {'cant': 13}
-Pacífico Julián Álvarez {'cant': 3}
-Pacífico Alsina {'cant': 2}
-Pacífico Parque Lezama {'cant': 14}
-Pacífico Arenales {'cant': 3}
-Pacífico Plaza Libertad {'cant': 10}
-Pacífico Plaza Houssay {'cant': 19}
-Pacífico Parque Patricios {'cant': 22}
-Pacífico Ministro Carranza {'cant': 3}
-Pacífico Madero UCA {'cant': 4}
-Pacífico Plaza Boedo {'cant': 15}
-Pacífico Coronel Díaz {'cant': 0}
-Pacífico Suipacha {'cant': 9}
-Pacífico Once {'cant': 14}
-Pacífico Montevideo {'cant': 5}
-Pacífico Ingeniero Butty {'cant': 2}
-Pacífico Emilio Mitre {'cant': 1}
-Pacífico Juana Manso {'cant': 1}
-Pacífico Tribunales {'cant': 3}
-Pacífico Retiro {'cant': 7}
-Pacífico Galerías Pacífico {'cant': 0}
-Pacífico Plaza San Martín {'cant': 1}
-Pacífico Obelisco {'cant': 3}
-Plaza Palermo Viejo Plaza Palermo Viejo {'cant': 13}
-Plaza Palermo Viejo Parque Las Heras {'cant': 3}
-Plaza Palermo Viejo Plaza Italia {'cant': 8}
-Plaza Palermo Viejo Parque Lezama {'cant': 7}
-Plaza Palermo Viejo Plaza Boedo {'cant': 2}
-Plaza Palermo Viejo Ecoparque {'cant': 1}
-Plaza Palermo Viejo Plaza Almagro {'cant': 4}
-Plaza Palermo Viejo Plaza Güemes {'cant': 20}
-Plaza Palermo Viejo Congreso {'cant': 1}
-Plaza Palermo Viejo Coronel Díaz {'cant': 2}
-Plaza Palermo Viejo Plaza Houssay {'cant': 3}
-Plaza Palermo Viejo Peña {'cant': 5}
-Plaza Palermo Viejo Parque Centenario {'cant': 3}
-Plaza Palermo Viejo Pacífico {'cant': 1}
-Plaza Palermo Viejo Ayacucho {'cant': 0}
-Plaza Palermo Viejo Facultad de Derecho {'cant': 1}
-Plaza Palermo Viejo Julián Álvarez {'cant': 3}
-Plaza Palermo Viejo Madero UCA {'cant': 1}
-Plaza Palermo Viejo Plaza Vicente López {'cant': 1}
-Plaza Palermo Viejo Independencia {'cant': 1}
-Plaza Palermo Viejo nan {'cant': 2}
-Plaza Palermo Viejo Distrito Audiovisual {'cant': 0}
-Plaza Palermo Viejo Suipacha {'cant': 0}
-Plaza Almagro Plaza Houssay {'cant': 12}
-Plaza Almagro Congreso {'cant': 9}
-Plaza Almagro Distrito Audiovisual {'cant': 3}
-Plaza Almagro Parque Centenario {'cant': 62}
-Plaza Almagro Plaza Güemes {'cant': 61}
-Plaza Almagro Plaza Almagro {'cant': 155}
-Plaza Almagro Parque Las Heras {'cant': 60}
-Plaza Almagro Plaza Boedo {'cant': 39}
-Plaza Almagro Galerías Pacífico {'cant': 2}
-Plaza Almagro Coronel Díaz {'cant': 1}
-Plaza Almagro Ayacucho {'cant': 0}
-Plaza Almagro Facultad de Derecho {'cant': 14}
-Plaza Almagro Plaza Palermo Viejo {'cant': 7}
-Plaza Almagro Plaza Italia {'cant': 26}
-Plaza Almagro nan {'cant': 9}
-Plaza Almagro Parque Lezama {'cant': 8}
-Plaza Almagro Facultad de Medicina {'cant': 4}
-Plaza Almagro Peña {'cant': 42}
-Plaza Almagro Plaza Vicente López {'cant': 3}
-Plaza Almagro Once {'cant': 11}
-Plaza Almagro Independencia {'cant': 24}
-Plaza Almagro Urquiza {'cant': 7}
-Plaza Almagro Arenales {'cant': 2}
-Plaza Almagro Chile {'cant': 2}
-Plaza Almagro Julián Álvarez {'cant': 0}
-Plaza Almagro Madero UCA {'cant': 2}
-Plaza Almagro Plaza Libertad {'cant': 0}
-Plaza Almagro Pacífico {'cant': 14}
-Plaza Almagro Ecoparque {'cant': 2}
-Plaza Almagro Diagonal Norte {'cant': 0}
-Plaza Almagro Alsina {'cant': 5}
-Plaza Almagro Plaza Roma {'cant': 0}
-Plaza Almagro Obelisco {'cant': 1}
-Plaza Almagro Tribunales {'cant': 6}
-Plaza Almagro Parque Patricios {'cant': 1}
-Plaza Almagro Cochabamba {'cant': 0}
-Plaza Almagro Montevideo {'cant': 3}
-Plaza Almagro Santiago del Estero {'cant': 0}
-Plaza Almagro Legislatura {'cant': 0}
-Plaza Almagro Catedral {'cant': 0}
-Plaza Houssay Plaza Palermo Viejo {'cant': 3}
-Plaza Houssay Ecoparque {'cant': 6}
-Plaza Houssay Urquiza {'cant': 15}
-Plaza Houssay Juana Manso {'cant': 5}
-Plaza Houssay Independencia {'cant': 9}
-Plaza Houssay Plaza Houssay {'cant': 49}
-Plaza Houssay Esmeralda {'cant': 0}
-Plaza Houssay Congreso {'cant': 42}
-Plaza Houssay Tucumán {'cant': 2}
-Plaza Houssay Facultad de Medicina {'cant': 9}
-Plaza Houssay Peña {'cant': 29}
-Plaza Houssay Plaza San Martín {'cant': 4}
-Plaza Houssay Parque Lezama {'cant': 5}
-Plaza Houssay Plaza Boedo {'cant': 6}
-Plaza Houssay Parque Las Heras {'cant': 29}
-Plaza Houssay Once {'cant': 10}
-Plaza Houssay Plaza Italia {'cant': 9}
-Plaza Houssay Plaza Almagro {'cant': 22}
-Plaza Houssay Montevideo {'cant': 4}
-Plaza Houssay Plaza Güemes {'cant': 16}
-Plaza Houssay Madero UCA {'cant': 1}
-Plaza Houssay Suipacha {'cant': 2}
-Plaza Houssay Plaza Libertad {'cant': 7}
-Plaza Houssay nan {'cant': 2}
-Plaza Houssay Parque Centenario {'cant': 19}
-Plaza Houssay Coronel Díaz {'cant': 0}
-Plaza Houssay Pacífico {'cant': 10}
-Plaza Houssay Legislatura {'cant': 2}
-Plaza Houssay Ministro Carranza {'cant': 0}
-Plaza Houssay Facultad de Derecho {'cant': 4}
-Plaza Houssay Alsina {'cant': 1}
-Plaza Houssay Chile {'cant': 0}
-Plaza Houssay Aduana {'cant': 0}
-Plaza Houssay Ayacucho {'cant': 0}
-Plaza Houssay Tribunales {'cant': 7}
-Plaza Houssay Plaza Roma {'cant': 2}
-Plaza Houssay Plaza Vicente López {'cant': 6}
-Plaza Houssay Distrito Audiovisual {'cant': 5}
-Plaza Houssay Galerías Pacífico {'cant': 1}
-Plaza Houssay Obelisco {'cant': 1}
-Plaza Houssay Retiro {'cant': 10}
-Plaza Houssay Arenales {'cant': 2}
-Plaza Houssay Emilio Mitre {'cant': 0}
-Plaza Houssay Cochabamba {'cant': 0}
-Parque Las Heras Parque Las Heras {'cant': 305}
-Parque Las Heras Ecoparque {'cant': 30}
-Parque Las Heras Plaza Vicente López {'cant': 72}
-Parque Las Heras Pacífico {'cant': 90}
-Parque Las Heras Congreso {'cant': 33}
-Parque Las Heras Parque Centenario {'cant': 87}
-Parque Las Heras Plaza Palermo Viejo {'cant': 5}
-Parque Las Heras Plaza Boedo {'cant': 21}
-Parque Las Heras Plaza Almagro {'cant': 143}
-Parque Las Heras Peña {'cant': 126}
-Parque Las Heras Plaza Houssay {'cant': 33}
-Parque Las Heras Plaza Güemes {'cant': 111}
-Parque Las Heras Facultad de Derecho {'cant': 74}
-Parque Las Heras Julián Álvarez {'cant': 3}
-Parque Las Heras Plaza Italia {'cant': 61}
-Parque Las Heras Ministro Carranza {'cant': 4}
-Parque Las Heras Once {'cant': 13}
-Parque Las Heras Distrito Audiovisual {'cant': 35}
-Parque Las Heras Montevideo {'cant': 18}
-Parque Las Heras Chile {'cant': 1}
-Parque Las Heras Parque Patricios {'cant': 1}
-Parque Las Heras Coronel Díaz {'cant': 7}
-Parque Las Heras Emilio Mitre {'cant': 4}
-Parque Las Heras Tribunales {'cant': 73}
-Parque Las Heras Retiro {'cant': 9}
-Parque Las Heras Juana Manso {'cant': 4}
-Parque Las Heras nan {'cant': 11}
-Parque Las Heras Suipacha {'cant': 17}
-Parque Las Heras Facultad de Medicina {'cant': 13}
-Parque Las Heras Legislatura {'cant': 1}
-Parque Las Heras Córdoba {'cant': 3}
-Parque Las Heras Arenales {'cant': 19}
-Parque Las Heras Plaza San Martín {'cant': 3}
-Parque Las Heras Maipú {'cant': 1}
-Parque Las Heras Rivarola {'cant': 0}
-Parque Las Heras Parque Lezama {'cant': 9}
-Parque Las Heras Ayacucho {'cant': 0}
-Parque Las Heras Plaza Libertad {'cant': 9}
-Parque Las Heras Independencia {'cant': 7}
-Parque Las Heras Urquiza {'cant': 1}
-Parque Las Heras Plaza Roma {'cant': 8}
-Parque Las Heras Obelisco {'cant': 1}
-Parque Las Heras Alsina {'cant': 1}
-Parque Las Heras Santiago del Estero {'cant': 1}
-Parque Las Heras Plaza Vicente Lopez {'cant': 0}
-Peña Parque Las Heras {'cant': 118}
-Peña Ecoparque {'cant': 11}
-Peña Peña {'cant': 118}
-Peña Plaza Houssay {'cant': 45}
-Peña Rivarola {'cant': 1}
-Peña Pacífico {'cant': 22}
-Peña Urquiza {'cant': 22}
-Peña Tribunales {'cant': 4}
+Aduana Tribunales {'cant': 22}
+Aduana Plaza Güemes {'cant': 9}
+Aduana Diagonal Norte {'cant': 6}
+Aduana Galerías Pacífico {'cant': 2}
+Aduana Plaza Boedo {'cant': 7}
+Aduana Madero UCA {'cant': 46}
+Aduana Juana Manso {'cant': 14}
+Aduana Facultad de Derecho {'cant': 14}
+Aduana Plaza Libertad {'cant': 9}
+Aduana Aduana {'cant': 38}
+Aduana Montevideo {'cant': 14}
+Aduana Parque Las Heras {'cant': 19}
+Aduana Parque Lezama {'cant': 55}
+Aduana Independencia {'cant': 25}
+Aduana Plaza Roma {'cant': 27}
+Aduana Facultad de Medicina {'cant': 4}
+Aduana nan {'cant': 5}
+Aduana Catedral {'cant': 24}
+Aduana Congreso {'cant': 30}
+Aduana Peña {'cant': 12}
+Aduana Legislatura {'cant': 23}
+Aduana Retiro {'cant': 73}
+Aduana Alsina {'cant': 31}
+Aduana Plaza Almagro {'cant': 16}
+Aduana Urquiza {'cant': 2}
+Aduana Once {'cant': 24}
+Aduana Ayacucho {'cant': 0}
+Aduana Parque Centenario {'cant': 13}
+Aduana Plaza Vicente López {'cant': 14}
+Aduana Suipacha {'cant': 15}
+Aduana Pacífico {'cant': 12}
+Aduana Plaza Houssay {'cant': 13}
+Aduana Maipú {'cant': 3}
+Aduana Obelisco {'cant': 8}
+Aduana Plaza Italia {'cant': 11}
+Aduana Distrito Audiovisual {'cant': 0}
+Aduana Sarmiento {'cant': 2}
+Aduana Emilio Mitre {'cant': 2}
+Aduana Plaza San Martín {'cant': 11}
+Aduana Ingeniero Butty {'cant': 5}
+Aduana Piedras {'cant': 3}
+Aduana Chile {'cant': 1}
+Aduana Santiago del Estero {'cant': 4}
+Aduana Cochabamba {'cant': 1}
+Aduana Arenales {'cant': 5}
+Tribunales Pacífico {'cant': 40}
+Tribunales Retiro {'cant': 80}
+Tribunales Peña {'cant': 48}
+Tribunales Once {'cant': 68}
+Tribunales Alsina {'cant': 19}
+Tribunales nan {'cant': 16}
+Tribunales Parque Las Heras {'cant': 72}
+Tribunales Facultad de Derecho {'cant': 20}
+Tribunales Montevideo {'cant': 40}
+Tribunales Congreso {'cant': 58}
+Tribunales Parque Centenario {'cant': 26}
+Tribunales Plaza Houssay {'cant': 41}
+Tribunales Córdoba {'cant': 4}
+Tribunales Tribunales {'cant': 85}
+Tribunales Rivarola {'cant': 2}
+Tribunales Arenales {'cant': 27}
+Tribunales 25 de Mayo {'cant': 6}
+Tribunales Coronel Díaz {'cant': 1}
+Tribunales Ecoparque {'cant': 6}
+Tribunales Parque Lezama {'cant': 24}
+Tribunales Plaza Libertad {'cant': 21}
+Tribunales Plaza Boedo {'cant': 44}
+Tribunales Plaza Almagro {'cant': 29}
+Tribunales Plaza Güemes {'cant': 77}
+Tribunales Madero UCA {'cant': 17}
+Tribunales Suipacha {'cant': 34}
+Tribunales Plaza Vicente López {'cant': 62}
+Tribunales Legislatura {'cant': 17}
+Tribunales Diagonal Norte {'cant': 3}
+Tribunales Juana Manso {'cant': 13}
+Tribunales Independencia {'cant': 49}
+Tribunales Chile {'cant': 6}
+Tribunales Plaza Italia {'cant': 28}
+Tribunales Julián Álvarez {'cant': 0}
+Tribunales Ayacucho {'cant': 3}
+Tribunales Obelisco {'cant': 8}
+Tribunales Urquiza {'cant': 11}
+Tribunales Parque Patricios {'cant': 5}
+Tribunales Facultad de Medicina {'cant': 20}
+Tribunales Galerías Pacífico {'cant': 12}
+Tribunales Plaza Palermo Viejo {'cant': 1}
+Tribunales Ministro Carranza {'cant': 4}
+Tribunales Guzmán {'cant': 0}
+Tribunales Sarmiento {'cant': 7}
+Tribunales Plaza San Martín {'cant': 8}
+Tribunales Tucumán {'cant': 3}
+Tribunales Distrito Audiovisual {'cant': 23}
+Tribunales Catedral {'cant': 3}
+Tribunales Caseros {'cant': 2}
+Tribunales Plaza Roma {'cant': 24}
+Tribunales Aduana {'cant': 21}
+Tribunales Ingeniero Butty {'cant': 1}
+Tribunales Piedras {'cant': 1}
+Tribunales Emilio Mitre {'cant': 3}
+Tribunales Maipú {'cant': 1}
+Tribunales Santiago del Estero {'cant': 9}
+Tribunales Cochabamba {'cant': 7}
+Retiro Aduana {'cant': 22}
+Retiro Independencia {'cant': 59}
+Retiro Retiro {'cant': 54}
+Retiro Peña {'cant': 80}
+Retiro Plaza Italia {'cant': 78}
+Retiro Urquiza {'cant': 15}
+Retiro Parque Lezama {'cant': 59}
+Retiro Plaza Vicente López {'cant': 169}
+Retiro Facultad de Derecho {'cant': 142}
+Retiro Sarmiento {'cant': 32}
+Retiro Parque Centenario {'cant': 10}
+Retiro Plaza Güemes {'cant': 46}
+Retiro Plaza Roma {'cant': 61}
+Retiro Ricardo Rojas {'cant': 2}
+Retiro Parque Las Heras {'cant': 141}
+Retiro Catedral {'cant': 12}
+Retiro Congreso {'cant': 66}
+Retiro Pacífico {'cant': 131}
+Retiro Plaza San Martín {'cant': 35}
+Retiro Alsina {'cant': 55}
+Retiro Plaza Palermo Viejo {'cant': 2}
+Retiro Plaza Almagro {'cant': 30}
+Retiro Plaza Houssay {'cant': 16}
+Retiro Plaza Boedo {'cant': 22}
+Retiro Rivarola {'cant': 7}
+Retiro Arenales {'cant': 30}
+Retiro Ministro Carranza {'cant': 3}
+Retiro Montevideo {'cant': 39}
+Retiro Chile {'cant': 25}
+Retiro Ecoparque {'cant': 15}
+Retiro Galerías Pacífico {'cant': 14}
+Retiro Juana Manso {'cant': 17}
+Retiro Suipacha {'cant': 50}
+Retiro Tribunales {'cant': 27}
+Retiro Plaza Libertad {'cant': 16}
+Retiro Madero UCA {'cant': 80}
+Retiro Emilio Mitre {'cant': 12}
+Retiro Ayacucho {'cant': 1}
+Retiro Belgrano {'cant': 3}
+Retiro Córdoba {'cant': 6}
+Retiro Legislatura {'cant': 33}
+Retiro 25 de Mayo {'cant': 6}
+Retiro Coronel Díaz {'cant': 1}
+Retiro Parque Patricios {'cant': 3}
+Retiro Perón {'cant': 1}
+Retiro Facultad de Medicina {'cant': 14}
+Retiro Once {'cant': 49}
+Retiro Plaza Vicente Lopez {'cant': 0}
+Retiro Distrito Audiovisual {'cant': 6}
+Retiro Ingeniero Butty {'cant': 16}
+Retiro nan {'cant': 13}
+Retiro Diagonal Norte {'cant': 1}
+Retiro Obelisco {'cant': 42}
+Retiro Maipú {'cant': 7}
+Retiro Tucumán {'cant': 1}
+Retiro Piedras {'cant': 6}
+Retiro Santiago del Estero {'cant': 0}
+Retiro Cochabamba {'cant': 1}
+Peña Retiro {'cant': 73}
+Peña Chile {'cant': 14}
+Peña Peña {'cant': 261}
+Peña Parque Las Heras {'cant': 390}
+Peña Plaza Vicente López {'cant': 232}
+Peña Once {'cant': 79}
+Peña Arenales {'cant': 138}
+Peña Catedral {'cant': 2}
+Peña Pacífico {'cant': 121}
+Peña Facultad de Derecho {'cant': 78}
+Peña Plaza Houssay {'cant': 172}
+Peña Plaza San Martín {'cant': 34}
+Peña Facultad de Medicina {'cant': 39}
+Peña Plaza Italia {'cant': 81}
+Peña Congreso {'cant': 70}
+Peña Montevideo {'cant': 78}
+Peña Madero UCA {'cant': 23}
+Peña nan {'cant': 24}
+Peña Plaza Libertad {'cant': 46}
 Peña Parque Centenario {'cant': 44}
-Peña Facultad de Medicina {'cant': 15}
-Peña Plaza Libertad {'cant': 19}
-Peña Arenales {'cant': 26}
-Peña Plaza Vicente López {'cant': 73}
-Peña Coronel Díaz {'cant': 3}
-Peña Galerías Pacífico {'cant': 2}
-Peña Plaza Palermo Viejo {'cant': 11}
+Peña Parque Patricios {'cant': 6}
+Peña Independencia {'cant': 36}
+Peña Plaza Boedo {'cant': 17}
+Peña Ecoparque {'cant': 25}
+Peña Coronel Díaz {'cant': 2}
+Peña Plaza Güemes {'cant': 161}
+Peña Ministro Carranza {'cant': 4}
+Peña Juana Manso {'cant': 5}
 Peña Julián Álvarez {'cant': 1}
-Peña Plaza Italia {'cant': 12}
-Peña Plaza Almagro {'cant': 33}
-Peña Distrito Audiovisual {'cant': 9}
-Peña Congreso {'cant': 15}
-Peña Emilio Mitre {'cant': 0}
-Peña Facultad de Derecho {'cant': 24}
-Peña Parque Patricios {'cant': 0}
-Peña Once {'cant': 2}
-Peña Plaza Güemes {'cant': 41}
+Peña Suipacha {'cant': 32}
+Peña Distrito Audiovisual {'cant': 41}
 Peña Ayacucho {'cant': 0}
-Peña Montevideo {'cant': 10}
-Peña Diagonal Norte {'cant': 1}
-Peña Suipacha {'cant': 11}
-Peña Independencia {'cant': 5}
-Peña Piedras {'cant': 0}
-Peña Retiro {'cant': 3}
-Peña Alsina {'cant': 0}
-Peña Juana Manso {'cant': 1}
-Peña Madero UCA {'cant': 5}
-Peña nan {'cant': 4}
-Peña Obelisco {'cant': 1}
-Peña Aduana {'cant': 0}
-Peña Plaza San Martín {'cant': 14}
-Peña Maipú {'cant': 1}
-Peña Plaza Boedo {'cant': 4}
-Peña Tucumán {'cant': 0}
-Peña Parque Lezama {'cant': 0}
-Parque Lezama Parque Lezama {'cant': 160}
-Parque Lezama Aduana {'cant': 9}
-Parque Lezama Chile {'cant': 2}
-Parque Lezama Juana Manso {'cant': 25}
-Parque Lezama Parque Centenario {'cant': 1}
-Parque Lezama Independencia {'cant': 21}
-Parque Lezama Madero UCA {'cant': 26}
-Parque Lezama Parque Las Heras {'cant': 2}
-Parque Lezama Congreso {'cant': 14}
-Parque Lezama nan {'cant': 7}
-Parque Lezama 25 de Mayo {'cant': 0}
-Parque Lezama Retiro {'cant': 10}
-Parque Lezama Ecoparque {'cant': 5}
-Parque Lezama Plaza Roma {'cant': 2}
-Parque Lezama Ingeniero Butty {'cant': 2}
-Parque Lezama Plaza Vicente López {'cant': 1}
-Parque Lezama Facultad de Medicina {'cant': 1}
-Parque Lezama Plaza Almagro {'cant': 7}
-Parque Lezama Plaza Güemes {'cant': 0}
-Parque Lezama Legislatura {'cant': 2}
-Parque Lezama Plaza Italia {'cant': 3}
+Peña Plaza Almagro {'cant': 43}
+Peña Alsina {'cant': 40}
+Peña Córdoba {'cant': 2}
+Peña Tribunales {'cant': 18}
+Peña Ricardo Rojas {'cant': 2}
+Peña Aduana {'cant': 8}
+Peña Legislatura {'cant': 17}
+Peña Emilio Mitre {'cant': 2}
+Peña Obelisco {'cant': 6}
+Peña Urquiza {'cant': 17}
+Peña Rivarola {'cant': 0}
+Peña Plaza Roma {'cant': 14}
+Peña Plaza Palermo Viejo {'cant': 3}
+Peña Galerías Pacífico {'cant': 2}
+Peña Sánchez de Bustamante {'cant': 0}
+Peña Parque Lezama {'cant': 6}
+Peña Piedras {'cant': 6}
+Peña Tucumán {'cant': 5}
+Peña Ingeniero Butty {'cant': 1}
+Peña Maipú {'cant': 2}
+Peña Sarmiento {'cant': 2}
+Peña Santiago del Estero {'cant': 0}
+Peña Cochabamba {'cant': 0}
+Peña Plaza Vicente Lopez {'cant': 0}
+Plaza Güemes Peña {'cant': 141}
+Plaza Güemes Parque Centenario {'cant': 183}
+Plaza Güemes Plaza Houssay {'cant': 90}
+Plaza Güemes Plaza Güemes {'cant': 342}
+Plaza Güemes Coronel Díaz {'cant': 5}
+Plaza Güemes Parque Lezama {'cant': 12}
+Plaza Güemes nan {'cant': 24}
+Plaza Güemes Once {'cant': 142}
+Plaza Güemes Plaza Boedo {'cant': 84}
+Plaza Güemes Urquiza {'cant': 9}
+Plaza Güemes Plaza Italia {'cant': 120}
+Plaza Güemes Plaza Almagro {'cant': 197}
+Plaza Güemes 25 de Mayo {'cant': 0}
+Plaza Güemes Parque Las Heras {'cant': 325}
+Plaza Güemes Plaza Palermo Viejo {'cant': 24}
+Plaza Güemes Ecoparque {'cant': 71}
+Plaza Güemes Pacífico {'cant': 198}
+Plaza Güemes Ayacucho {'cant': 0}
+Plaza Güemes Plaza Vicente López {'cant': 50}
+Plaza Güemes Piedras {'cant': 1}
+Plaza Güemes Retiro {'cant': 8}
+Plaza Güemes Ricardo Rojas {'cant': 6}
+Plaza Güemes Facultad de Derecho {'cant': 115}
+Plaza Güemes Distrito Audiovisual {'cant': 82}
+Plaza Güemes Montevideo {'cant': 45}
+Plaza Güemes Parque Patricios {'cant': 5}
+Plaza Güemes Arenales {'cant': 37}
+Plaza Güemes Julián Álvarez {'cant': 6}
+Plaza Güemes Ingeniero Butty {'cant': 5}
+Plaza Güemes Plaza Libertad {'cant': 22}
+Plaza Güemes Ministro Carranza {'cant': 9}
+Plaza Güemes Independencia {'cant': 27}
+Plaza Güemes Obelisco {'cant': 2}
+Plaza Güemes Tribunales {'cant': 13}
+Plaza Güemes Instituto Leloir {'cant': 0}
+Plaza Güemes Aduana {'cant': 3}
+Plaza Güemes Plaza San Martín {'cant': 23}
+Plaza Güemes Congreso {'cant': 15}
+Plaza Güemes Facultad de Medicina {'cant': 33}
+Plaza Güemes Chile {'cant': 3}
+Plaza Güemes Emilio Mitre {'cant': 22}
+Plaza Güemes Guzmán {'cant': 0}
+Plaza Güemes Diagonal Norte {'cant': 1}
+Plaza Güemes Suipacha {'cant': 12}
+Plaza Güemes Juana Manso {'cant': 1}
+Plaza Güemes Córdoba {'cant': 0}
+Plaza Güemes Madero UCA {'cant': 3}
+Plaza Güemes Legislatura {'cant': 2}
+Plaza Güemes Alsina {'cant': 7}
+Plaza Güemes Plaza Roma {'cant': 1}
+Plaza Güemes Galerías Pacífico {'cant': 0}
+Plaza Güemes Sarmiento {'cant': 2}
+Plaza Güemes Maipú {'cant': 2}
+Plaza Güemes Santiago del Estero {'cant': 0}
+Once nan {'cant': 23}
+Once Congreso {'cant': 100}
+Once Parque Centenario {'cant': 103}
+Once Pacífico {'cant': 37}
+Once Parque Lezama {'cant': 42}
+Once Tribunales {'cant': 26}
+Once Parque Las Heras {'cant': 57}
+Once Once {'cant': 148}
+Once Plaza Almagro {'cant': 78}
+Once Plaza Boedo {'cant': 59}
+Once Ayacucho {'cant': 8}
+Once Plaza Italia {'cant': 19}
+Once Independencia {'cant': 81}
+Once Peña {'cant': 31}
+Once Plaza Roma {'cant': 20}
+Once Alsina {'cant': 71}
+Once Plaza Güemes {'cant': 80}
+Once Perón {'cant': 0}
+Once Plaza Vicente López {'cant': 20}
+Once Rivarola {'cant': 3}
+Once Plaza Houssay {'cant': 40}
+Once Chile {'cant': 6}
+Once Galerías Pacífico {'cant': 0}
+Once Diagonal Norte {'cant': 2}
+Once Plaza Palermo Viejo {'cant': 1}
+Once Ecoparque {'cant': 4}
+Once Emilio Mitre {'cant': 2}
+Once Instituto Leloir {'cant': 0}
+Once Parque Patricios {'cant': 12}
+Once Distrito Audiovisual {'cant': 18}
+Once Maipú {'cant': 6}
+Once Plaza Libertad {'cant': 16}
+Once Aduana {'cant': 17}
+Once Urquiza {'cant': 15}
+Once Montevideo {'cant': 30}
+Once Julián Álvarez {'cant': 2}
+Once Obelisco {'cant': 21}
+Once Padilla {'cant': 0}
+Once Arenales {'cant': 15}
+Once Retiro {'cant': 23}
+Once Facultad de Medicina {'cant': 7}
+Once Facultad de Derecho {'cant': 15}
+Once Tucumán {'cant': 6}
+Once 25 de Mayo {'cant': 1}
+Once Suipacha {'cant': 80}
+Once Madero UCA {'cant': 4}
+Once Piedras {'cant': 3}
+Once Plaza San Martín {'cant': 23}
+Once Legislatura {'cant': 7}
+Once Santiago del Estero {'cant': 23}
+Once Juana Manso {'cant': 1}
+Once Cochabamba {'cant': 7}
+Once Catedral {'cant': 1}
+Ministro Carranza Plaza Güemes {'cant': 9}
+Ministro Carranza Pacífico {'cant': 17}
+Ministro Carranza Parque Las Heras {'cant': 16}
+Ministro Carranza Plaza Boedo {'cant': 2}
+Ministro Carranza Plaza Italia {'cant': 13}
+Ministro Carranza Distrito Audiovisual {'cant': 7}
+Ministro Carranza Ministro Carranza {'cant': 11}
+Ministro Carranza Plaza Almagro {'cant': 6}
+Ministro Carranza Plaza Palermo Viejo {'cant': 3}
+Ministro Carranza Parque Centenario {'cant': 13}
+Ministro Carranza Facultad de Derecho {'cant': 2}
+Ministro Carranza Tribunales {'cant': 0}
+Ministro Carranza Ecoparque {'cant': 5}
+Ministro Carranza Plaza Houssay {'cant': 5}
+Ministro Carranza Coronel Díaz {'cant': 0}
+Ministro Carranza Galerías Pacífico {'cant': 0}
+Ministro Carranza nan {'cant': 12}
+Ministro Carranza Congreso {'cant': 0}
+Ministro Carranza Ayacucho {'cant': 0}
+Ministro Carranza Once {'cant': 1}
+Ministro Carranza Catedral {'cant': 0}
+Ministro Carranza Juana Manso {'cant': 0}
+Parque Centenario Once {'cant': 78}
+Parque Centenario nan {'cant': 46}
+Parque Centenario Parque Centenario {'cant': 506}
+Parque Centenario Plaza Almagro {'cant': 229}
+Parque Centenario Congreso {'cant': 40}
+Parque Centenario Ecoparque {'cant': 11}
+Parque Centenario Plaza Houssay {'cant': 26}
+Parque Centenario Plaza Boedo {'cant': 77}
+Parque Centenario Plaza Italia {'cant': 69}
+Parque Centenario Parque Las Heras {'cant': 99}
+Parque Centenario Madero UCA {'cant': 3}
+Parque Centenario Distrito Audiovisual {'cant': 41}
+Parque Centenario Plaza Palermo Viejo {'cant': 17}
+Parque Centenario Plaza Güemes {'cant': 103}
+Parque Centenario Facultad de Derecho {'cant': 14}
+Parque Centenario Montevideo {'cant': 18}
+Parque Centenario Peña {'cant': 19}
+Parque Centenario Galerías Pacífico {'cant': 2}
+Parque Centenario Urquiza {'cant': 16}
+Parque Centenario Pacífico {'cant': 60}
+Parque Centenario Juana Manso {'cant': 4}
+Parque Centenario Independencia {'cant': 22}
+Parque Centenario Facultad de Medicina {'cant': 15}
+Parque Centenario Parque Lezama {'cant': 12}
+Parque Centenario Sarmiento {'cant': 1}
+Parque Centenario Ministro Carranza {'cant': 2}
+Parque Centenario Julián Álvarez {'cant': 2}
+Parque Centenario Chile {'cant': 4}
+Parque Centenario Ayacucho {'cant': 2}
+Parque Centenario Coronel Díaz {'cant': 1}
+Parque Centenario Diagonal Norte {'cant': 1}
+Parque Centenario Aduana {'cant': 2}
+Parque Centenario Parque Patricios {'cant': 24}
+Parque Centenario Legislatura {'cant': 1}
+Parque Centenario Plaza Vicente López {'cant': 10}
+Parque Centenario Retiro {'cant': 6}
+Parque Centenario Rivarola {'cant': 2}
+Parque Centenario Obelisco {'cant': 10}
+Parque Centenario Alsina {'cant': 12}
+Parque Centenario Plaza Roma {'cant': 3}
+Parque Centenario Piedras {'cant': 3}
+Parque Centenario Tribunales {'cant': 12}
+Parque Centenario Ricardo Rojas {'cant': 0}
+Parque Centenario Maipú {'cant': 8}
+Parque Centenario Córdoba {'cant': 2}
+Parque Centenario Suipacha {'cant': 5}
+Parque Centenario Arenales {'cant': 2}
+Parque Centenario Santiago del Estero {'cant': 1}
+Parque Centenario Plaza Libertad {'cant': 2}
+Parque Centenario Plaza San Martín {'cant': 0}
+Parque Centenario Cochabamba {'cant': 2}
+Facultad de Derecho nan {'cant': 89}
+Facultad de Derecho Facultad de Derecho {'cant': 170}
+Facultad de Derecho Parque Las Heras {'cant': 328}
+Facultad de Derecho Juana Manso {'cant': 22}
+Facultad de Derecho Plaza Boedo {'cant': 11}
+Facultad de Derecho Montevideo {'cant': 72}
+Facultad de Derecho Diagonal Norte {'cant': 15}
+Facultad de Derecho Plaza Palermo Viejo {'cant': 6}
+Facultad de Derecho Pacífico {'cant': 192}
+Facultad de Derecho Ecoparque {'cant': 38}
+Facultad de Derecho Ministro Carranza {'cant': 4}
+Facultad de Derecho Facultad de Medicina {'cant': 45}
+Facultad de Derecho Peña {'cant': 85}
+Facultad de Derecho Plaza Houssay {'cant': 68}
+Facultad de Derecho Plaza Vicente López {'cant': 101}
+Facultad de Derecho Congreso {'cant': 42}
+Facultad de Derecho Plaza Almagro {'cant': 91}
+Facultad de Derecho Retiro {'cant': 345}
+Facultad de Derecho Independencia {'cant': 34}
+Facultad de Derecho Ayacucho {'cant': 2}
+Facultad de Derecho Arenales {'cant': 68}
+Facultad de Derecho Plaza San Martín {'cant': 20}
+Facultad de Derecho Plaza Güemes {'cant': 144}
+Facultad de Derecho Coronel Díaz {'cant': 10}
+Facultad de Derecho Plaza Italia {'cant': 164}
+Facultad de Derecho Ricardo Rojas {'cant': 6}
+Facultad de Derecho Parque Lezama {'cant': 12}
+Facultad de Derecho Córdoba {'cant': 0}
+Facultad de Derecho Distrito Audiovisual {'cant': 53}
+Facultad de Derecho Once {'cant': 47}
+Facultad de Derecho Belgrano {'cant': 0}
+Facultad de Derecho Galerías Pacífico {'cant': 4}
+Facultad de Derecho Chile {'cant': 6}
+Facultad de Derecho Alsina {'cant': 26}
+Facultad de Derecho Suipacha {'cant': 52}
+Facultad de Derecho Parque Centenario {'cant': 28}
+Facultad de Derecho 25 de Mayo {'cant': 5}
+Facultad de Derecho Tribunales {'cant': 9}
+Facultad de Derecho Plaza Libertad {'cant': 14}
+Facultad de Derecho Madero UCA {'cant': 13}
+Facultad de Derecho Emilio Mitre {'cant': 2}
+Facultad de Derecho Padilla {'cant': 0}
+Facultad de Derecho Ingeniero Butty {'cant': 11}
+Facultad de Derecho Legislatura {'cant': 14}
+Facultad de Derecho Perón {'cant': 0}
+Facultad de Derecho Obelisco {'cant': 9}
+Facultad de Derecho Urquiza {'cant': 3}
+Facultad de Derecho Plaza Roma {'cant': 19}
+Facultad de Derecho Tucumán {'cant': 7}
+Facultad de Derecho Aduana {'cant': 15}
+Facultad de Derecho Sarmiento {'cant': 0}
+Facultad de Derecho Maipú {'cant': 7}
+Facultad de Derecho Piedras {'cant': 0}
+Facultad de Derecho Santiago del Estero {'cant': 1}
+Facultad de Derecho Parque Patricios {'cant': 0}
+Facultad de Derecho Cochabamba {'cant': 3}
+Facultad de Derecho Plaza Vicente Lopez {'cant': 0}
+Parque Las Heras Ministro Carranza {'cant': 12}
+Parque Las Heras Parque Las Heras {'cant': 572}
+Parque Las Heras Facultad de Derecho {'cant': 248}
+Parque Las Heras Once {'cant': 86}
+Parque Las Heras Plaza Güemes {'cant': 374}
+Parque Las Heras Plaza Boedo {'cant': 102}
+Parque Las Heras Plaza Almagro {'cant': 545}
+Parque Las Heras Peña {'cant': 374}
+Parque Las Heras Congreso {'cant': 74}
+Parque Las Heras Facultad de Medicina {'cant': 75}
+Parque Las Heras Independencia {'cant': 79}
+Parque Las Heras Julián Álvarez {'cant': 5}
+Parque Las Heras Madero UCA {'cant': 9}
+Parque Las Heras Parque Centenario {'cant': 295}
+Parque Las Heras Plaza Vicente López {'cant': 185}
+Parque Las Heras Parque Lezama {'cant': 34}
+Parque Las Heras Galerías Pacífico {'cant': 4}
+Parque Las Heras Tribunales {'cant': 41}
+Parque Las Heras Pacífico {'cant': 193}
+Parque Las Heras Chile {'cant': 14}
+Parque Las Heras Coronel Díaz {'cant': 12}
+Parque Las Heras Plaza Palermo Viejo {'cant': 19}
+Parque Las Heras Plaza Houssay {'cant': 70}
+Parque Las Heras Ecoparque {'cant': 56}
+Parque Las Heras Distrito Audiovisual {'cant': 45}
+Parque Las Heras Plaza Italia {'cant': 137}
+Parque Las Heras nan {'cant': 31}
+Parque Las Heras Plaza Libertad {'cant': 23}
+Parque Las Heras Montevideo {'cant': 80}
+Parque Las Heras Aduana {'cant': 5}
+Parque Las Heras Alsina {'cant': 28}
+Parque Las Heras Retiro {'cant': 30}
+Parque Las Heras Emilio Mitre {'cant': 21}
+Parque Las Heras Suipacha {'cant': 28}
+Parque Las Heras Juana Manso {'cant': 11}
+Parque Las Heras Ingeniero Butty {'cant': 87}
+Parque Las Heras Plaza Roma {'cant': 7}
+Parque Las Heras Arenales {'cant': 89}
+Parque Las Heras Ricardo Rojas {'cant': 8}
+Parque Las Heras Rivarola {'cant': 1}
+Parque Las Heras Legislatura {'cant': 3}
+Parque Las Heras Ayacucho {'cant': 0}
+Parque Las Heras Parque Patricios {'cant': 4}
+Parque Las Heras Diagonal Norte {'cant': 1}
+Parque Las Heras Plaza San Martín {'cant': 22}
+Parque Las Heras Maipú {'cant': 5}
+Parque Las Heras Urquiza {'cant': 19}
+Parque Las Heras Perón {'cant': 1}
+Parque Las Heras Obelisco {'cant': 14}
+Parque Las Heras Tucumán {'cant': 3}
+Parque Las Heras Córdoba {'cant': 3}
+Parque Las Heras 25 de Mayo {'cant': 0}
+Parque Las Heras Catedral {'cant': 1}
+Parque Las Heras Santiago del Estero {'cant': 7}
+Parque Las Heras Cochabamba {'cant': 3}
+Plaza Roma Parque Centenario {'cant': 11}
+Plaza Roma Tribunales {'cant': 10}
+Plaza Roma Plaza Roma {'cant': 39}
+Plaza Roma Madero UCA {'cant': 31}
+Plaza Roma Parque Patricios {'cant': 1}
+Plaza Roma Córdoba {'cant': 4}
+Plaza Roma Parque Las Heras {'cant': 39}
+Plaza Roma Legislatura {'cant': 17}
+Plaza Roma Retiro {'cant': 84}
+Plaza Roma Plaza Güemes {'cant': 23}
+Plaza Roma Aduana {'cant': 17}
+Plaza Roma Congreso {'cant': 19}
+Plaza Roma Plaza Houssay {'cant': 5}
+Plaza Roma Independencia {'cant': 39}
+Plaza Roma nan {'cant': 8}
+Plaza Roma Chile {'cant': 15}
+Plaza Roma Ministro Carranza {'cant': 0}
+Plaza Roma Parque Lezama {'cant': 41}
+Plaza Roma Peña {'cant': 31}
+Plaza Roma Plaza Almagro {'cant': 11}
+Plaza Roma Juana Manso {'cant': 31}
+Plaza Roma Facultad de Derecho {'cant': 23}
+Plaza Roma Pacífico {'cant': 27}
+Plaza Roma Montevideo {'cant': 16}
+Plaza Roma Once {'cant': 13}
+Plaza Roma Belgrano {'cant': 0}
+Plaza Roma Facultad de Medicina {'cant': 5}
+Plaza Roma 25 de Mayo {'cant': 3}
+Plaza Roma Galerías Pacífico {'cant': 1}
+Plaza Roma Plaza Vicente López {'cant': 27}
+Plaza Roma Plaza Palermo Viejo {'cant': 0}
+Plaza Roma Arenales {'cant': 13}
+Plaza Roma Diagonal Norte {'cant': 1}
+Plaza Roma Suipacha {'cant': 5}
+Plaza Roma Plaza Italia {'cant': 15}
+Plaza Roma Alsina {'cant': 8}
+Plaza Roma Catedral {'cant': 1}
+Plaza Roma Plaza San Martín {'cant': 10}
+Plaza Roma Ingeniero Butty {'cant': 2}
+Plaza Roma Plaza Boedo {'cant': 7}
+Plaza Roma Plaza Libertad {'cant': 4}
+Plaza Roma Sarmiento {'cant': 0}
+Plaza Roma Ecoparque {'cant': 5}
+Plaza Roma Distrito Audiovisual {'cant': 3}
+Plaza Roma Obelisco {'cant': 5}
+Plaza Roma Santiago del Estero {'cant': 1}
+Plaza Roma Emilio Mitre {'cant': 1}
+Plaza Roma Urquiza {'cant': 0}
+Plaza Roma Cochabamba {'cant': 3}
+Plaza Roma Maipú {'cant': 0}
+Pacífico Plaza Palermo Viejo {'cant': 16}
+Pacífico Plaza Almagro {'cant': 96}
+Pacífico Pacífico {'cant': 533}
+Pacífico Plaza Italia {'cant': 135}
+Pacífico Ecoparque {'cant': 55}
+Pacífico Parque Centenario {'cant': 106}
+Pacífico Facultad de Derecho {'cant': 162}
+Pacífico Plaza San Martín {'cant': 5}
+Pacífico Julián Álvarez {'cant': 6}
+Pacífico Congreso {'cant': 27}
+Pacífico Plaza Houssay {'cant': 45}
+Pacífico Peña {'cant': 100}
+Pacífico nan {'cant': 21}
+Pacífico Plaza Boedo {'cant': 54}
+Pacífico Ricardo Rojas {'cant': 6}
+Pacífico Parque Las Heras {'cant': 275}
+Pacífico Juana Manso {'cant': 7}
+Pacífico Plaza Vicente López {'cant': 56}
+Pacífico Plaza Libertad {'cant': 13}
+Pacífico Suipacha {'cant': 12}
+Pacífico Ministro Carranza {'cant': 22}
+Pacífico Independencia {'cant': 34}
+Pacífico Plaza Güemes {'cant': 223}
+Pacífico Distrito Audiovisual {'cant': 128}
+Pacífico Montevideo {'cant': 34}
+Pacífico Chile {'cant': 2}
+Pacífico Guzmán {'cant': 1}
+Pacífico Diagonal Norte {'cant': 6}
+Pacífico Alsina {'cant': 8}
+Pacífico Arenales {'cant': 12}
+Pacífico Facultad de Medicina {'cant': 21}
+Pacífico Tribunales {'cant': 18}
+Pacífico Retiro {'cant': 20}
+Pacífico Catedral {'cant': 0}
+Pacífico Once {'cant': 33}
+Pacífico Plaza Roma {'cant': 4}
+Pacífico Madero UCA {'cant': 6}
+Pacífico Parque Lezama {'cant': 6}
+Pacífico Tucumán {'cant': 0}
+Pacífico Obelisco {'cant': 13}
+Pacífico Urquiza {'cant': 6}
+Pacífico Parque Patricios {'cant': 5}
+Pacífico Coronel Díaz {'cant': 0}
+Pacífico Emilio Mitre {'cant': 7}
+Pacífico Córdoba {'cant': 0}
+Pacífico Legislatura {'cant': 5}
+Pacífico Galerías Pacífico {'cant': 2}
+Pacífico Santiago del Estero {'cant': 10}
+Pacífico Aduana {'cant': 0}
+Pacífico Cochabamba {'cant': 3}
+Pacífico Ingeniero Butty {'cant': 1}
+Pacífico Caseros {'cant': 0}
+Plaza Palermo Viejo Parque Las Heras {'cant': 25}
+Plaza Palermo Viejo Plaza Palermo Viejo {'cant': 20}
+Plaza Palermo Viejo Parque Centenario {'cant': 14}
+Plaza Palermo Viejo Plaza Güemes {'cant': 26}
+Plaza Palermo Viejo Plaza Almagro {'cant': 16}
+Plaza Palermo Viejo Plaza Boedo {'cant': 3}
+Plaza Palermo Viejo Pacífico {'cant': 8}
+Plaza Palermo Viejo Ecoparque {'cant': 1}
+Plaza Palermo Viejo Distrito Audiovisual {'cant': 13}
+Plaza Palermo Viejo Julián Álvarez {'cant': 5}
+Plaza Palermo Viejo Independencia {'cant': 1}
+Plaza Palermo Viejo Plaza Italia {'cant': 11}
+Plaza Palermo Viejo Facultad de Derecho {'cant': 3}
+Plaza Palermo Viejo Peña {'cant': 3}
+Plaza Palermo Viejo Emilio Mitre {'cant': 0}
+Plaza Palermo Viejo Congreso {'cant': 2}
+Plaza Palermo Viejo nan {'cant': 3}
+Plaza Palermo Viejo Facultad de Medicina {'cant': 2}
+Plaza Palermo Viejo Ministro Carranza {'cant': 7}
+Plaza Palermo Viejo Parque Lezama {'cant': 0}
+Plaza Palermo Viejo Coronel Díaz {'cant': 2}
+Plaza Palermo Viejo Plaza Houssay {'cant': 6}
+Plaza Palermo Viejo Legislatura {'cant': 0}
+Plaza Palermo Viejo Once {'cant': 1}
+Plaza Palermo Viejo Plaza Vicente López {'cant': 0}
+Plaza Palermo Viejo Montevideo {'cant': 0}
+Plaza Palermo Viejo Piedras {'cant': 0}
+Plaza Palermo Viejo Córdoba {'cant': 0}
+Plaza Palermo Viejo Alsina {'cant': 0}
+Plaza Palermo Viejo Chile {'cant': 1}
+Plaza Palermo Viejo Galerías Pacífico {'cant': 0}
+Plaza Palermo Viejo Tribunales {'cant': 1}
+Chile Plaza Roma {'cant': 2}
+Chile Obelisco {'cant': 7}
+Chile Congreso {'cant': 27}
+Chile Once {'cant': 14}
+Chile Chile {'cant': 61}
+Chile Facultad de Derecho {'cant': 2}
+Chile Parque Lezama {'cant': 52}
+Chile Legislatura {'cant': 21}
+Chile Plaza Boedo {'cant': 7}
+Chile Galerías Pacífico {'cant': 7}
+Chile Juana Manso {'cant': 2}
+Chile Tribunales {'cant': 4}
+Chile Parque Las Heras {'cant': 7}
+Chile Alsina {'cant': 5}
+Chile Ricardo Rojas {'cant': 0}
+Chile Independencia {'cant': 44}
+Chile Arenales {'cant': 1}
+Chile Plaza Italia {'cant': 2}
+Chile Diagonal Norte {'cant': 5}
+Chile Ayacucho {'cant': 0}
+Chile Madero UCA {'cant': 19}
+Chile Urquiza {'cant': 3}
+Chile Plaza Almagro {'cant': 7}
+Chile Facultad de Medicina {'cant': 7}
+Chile Plaza Güemes {'cant': 8}
+Chile Retiro {'cant': 8}
+Chile Perón {'cant': 1}
+Chile Pacífico {'cant': 4}
+Chile Ministro Carranza {'cant': 2}
+Chile Parque Patricios {'cant': 4}
+Chile Belgrano {'cant': 1}
+Chile Distrito Audiovisual {'cant': 1}
+Chile Plaza Palermo Viejo {'cant': 0}
+Chile Catedral {'cant': 2}
+Chile Plaza Vicente López {'cant': 2}
+Chile Parque Centenario {'cant': 3}
+Chile Plaza Houssay {'cant': 7}
+Chile Peña {'cant': 1}
+Chile Rivarola {'cant': 1}
+Chile Suipacha {'cant': 3}
+Chile Aduana {'cant': 1}
+Chile Tucumán {'cant': 0}
+Chile Sarmiento {'cant': 3}
+Chile 25 de Mayo {'cant': 0}
+Chile Maipú {'cant': 0}
+Chile Montevideo {'cant': 1}
+Chile Caseros {'cant': 0}
+Chile Plaza Libertad {'cant': 0}
+Chile nan {'cant': 1}
+Chile Plaza San Martín {'cant': 0}
+25 de Mayo Pacífico {'cant': 3}
+25 de Mayo Once {'cant': 7}
+25 de Mayo Arenales {'cant': 5}
+25 de Mayo Retiro {'cant': 9}
+25 de Mayo Ecoparque {'cant': 0}
+25 de Mayo Madero UCA {'cant': 4}
+25 de Mayo Galerías Pacífico {'cant': 1}
+25 de Mayo Facultad de Derecho {'cant': 3}
+25 de Mayo Plaza San Martín {'cant': 3}
+25 de Mayo nan {'cant': 24}
+25 de Mayo Juana Manso {'cant': 3}
+25 de Mayo Plaza Libertad {'cant': 3}
+25 de Mayo Plaza Vicente López {'cant': 8}
+25 de Mayo Ayacucho {'cant': 0}
+25 de Mayo Plaza Houssay {'cant': 0}
+25 de Mayo Perón {'cant': 0}
+25 de Mayo Parque Las Heras {'cant': 6}
+25 de Mayo Parque Lezama {'cant': 1}
+25 de Mayo 25 de Mayo {'cant': 4}
+25 de Mayo Ricardo Rojas {'cant': 0}
+25 de Mayo Plaza Güemes {'cant': 2}
+25 de Mayo Congreso {'cant': 3}
+25 de Mayo Parque Centenario {'cant': 2}
+25 de Mayo Montevideo {'cant': 3}
+25 de Mayo Plaza Almagro {'cant': 0}
+25 de Mayo Belgrano {'cant': 0}
+25 de Mayo Independencia {'cant': 3}
+25 de Mayo Plaza Italia {'cant': 0}
+25 de Mayo Córdoba {'cant': 0}
+25 de Mayo Alsina {'cant': 1}
+25 de Mayo Plaza Roma {'cant': 2}
+25 de Mayo Catedral {'cant': 1}
+25 de Mayo Tribunales {'cant': 0}
+25 de Mayo Ingeniero Butty {'cant': 1}
+25 de Mayo Chile {'cant': 0}
+25 de Mayo Piedras {'cant': 0}
+25 de Mayo Urquiza {'cant': 0}
+25 de Mayo Facultad de Medicina {'cant': 1}
+25 de Mayo Peña {'cant': 0}
+Obelisco Chile {'cant': 10}
+Obelisco Plaza Libertad {'cant': 15}
+Obelisco Retiro {'cant': 37}
+Obelisco Pacífico {'cant': 18}
+Obelisco Parque Las Heras {'cant': 55}
+Obelisco Catedral {'cant': 1}
+Obelisco Legislatura {'cant': 9}
+Obelisco Plaza Houssay {'cant': 22}
+Obelisco Congreso {'cant': 48}
+Obelisco Obelisco {'cant': 23}
+Obelisco Juana Manso {'cant': 16}
+Obelisco Plaza Almagro {'cant': 63}
+Obelisco Arenales {'cant': 18}
+Obelisco Parque Centenario {'cant': 32}
+Obelisco Independencia {'cant': 110}
+Obelisco Urquiza {'cant': 27}
+Obelisco Once {'cant': 61}
+Obelisco Piedras {'cant': 2}
+Obelisco 25 de Mayo {'cant': 3}
+Obelisco Plaza Vicente López {'cant': 19}
+Obelisco Ecoparque {'cant': 1}
+Obelisco Parque Lezama {'cant': 26}
+Obelisco Ayacucho {'cant': 4}
+Obelisco Plaza Boedo {'cant': 17}
+Obelisco Peña {'cant': 67}
+Obelisco Plaza San Martín {'cant': 19}
+Obelisco Plaza Güemes {'cant': 35}
+Obelisco Suipacha {'cant': 16}
+Obelisco Plaza Italia {'cant': 15}
+Obelisco Alsina {'cant': 31}
+Obelisco nan {'cant': 9}
+Obelisco Tucumán {'cant': 1}
+Obelisco Facultad de Derecho {'cant': 8}
+Obelisco Madero UCA {'cant': 12}
+Obelisco Montevideo {'cant': 22}
+Obelisco Galerías Pacífico {'cant': 7}
+Obelisco Maipú {'cant': 8}
+Obelisco Distrito Audiovisual {'cant': 0}
+Obelisco Facultad de Medicina {'cant': 9}
+Obelisco Tribunales {'cant': 7}
+Obelisco Perón {'cant': 1}
+Obelisco Diagonal Norte {'cant': 7}
+Obelisco Parque Patricios {'cant': 10}
+Obelisco Emilio Mitre {'cant': 3}
+Obelisco Aduana {'cant': 2}
+Obelisco Plaza Roma {'cant': 6}
+Obelisco Ingeniero Butty {'cant': 3}
+Obelisco Santiago del Estero {'cant': 18}
+Obelisco Sarmiento {'cant': 0}
+Obelisco Cochabamba {'cant': 6}
+Parque Lezama 25 de Mayo {'cant': 2}
+Parque Lezama Madero UCA {'cant': 53}
+Parque Lezama Parque Lezama {'cant': 331}
+Parque Lezama Catedral {'cant': 5}
+Parque Lezama Aduana {'cant': 45}
+Parque Lezama Plaza Almagro {'cant': 17}
+Parque Lezama nan {'cant': 13}
+Parque Lezama Juana Manso {'cant': 19}
+Parque Lezama Plaza San Martín {'cant': 3}
+Parque Lezama Galerías Pacífico {'cant': 4}
+Parque Lezama Parque Centenario {'cant': 10}
+Parque Lezama Peña {'cant': 8}
+Parque Lezama Facultad de Derecho {'cant': 9}
+Parque Lezama Plaza Güemes {'cant': 3}
+Parque Lezama Retiro {'cant': 31}
+Parque Lezama Plaza Houssay {'cant': 13}
+Parque Lezama Congreso {'cant': 23}
+Parque Lezama Diagonal Norte {'cant': 0}
+Parque Lezama Plaza Boedo {'cant': 14}
+Parque Lezama Independencia {'cant': 41}
+Parque Lezama Tribunales {'cant': 10}
+Parque Lezama Distrito Audiovisual {'cant': 2}
+Parque Lezama Chile {'cant': 15}
+Parque Lezama Plaza Roma {'cant': 14}
+Parque Lezama Ecoparque {'cant': 1}
+Parque Lezama Arenales {'cant': 4}
+Parque Lezama Urquiza {'cant': 11}
+Parque Lezama Alsina {'cant': 13}
+Parque Lezama Julián Álvarez {'cant': 0}
+Parque Lezama Once {'cant': 16}
+Parque Lezama Legislatura {'cant': 14}
+Parque Lezama Obelisco {'cant': 9}
+Parque Lezama Ricardo Rojas {'cant': 0}
 Parque Lezama Suipacha {'cant': 1}
 Parque Lezama Maipú {'cant': 1}
-Parque Lezama Catedral {'cant': 2}
 Parque Lezama Belgrano {'cant': 0}
-Parque Lezama Once {'cant': 6}
-Parque Lezama Obelisco {'cant': 1}
-Parque Lezama Plaza Boedo {'cant': 5}
-Parque Lezama Tribunales {'cant': 0}
-Parque Lezama Alsina {'cant': 2}
-Parque Lezama Parque Patricios {'cant': 1}
-Parque Lezama Distrito Audiovisual {'cant': 1}
-Parque Lezama Facultad de Derecho {'cant': 1}
-Parque Lezama Montevideo {'cant': 1}
-Parque Lezama Santiago del Estero {'cant': 0}
-Tribunales Suipacha {'cant': 7}
-Tribunales Belgrano {'cant': 4}
-Tribunales Plaza Houssay {'cant': 10}
-Tribunales Chile {'cant': 1}
-Tribunales Ricardo Rojas {'cant': 0}
-Tribunales Distrito Audiovisual {'cant': 3}
-Tribunales Pacífico {'cant': 5}
-Tribunales Peña {'cant': 5}
-Tribunales Ayacucho {'cant': 0}
-Tribunales Facultad de Medicina {'cant': 9}
-Tribunales Alsina {'cant': 5}
-Tribunales Montevideo {'cant': 11}
-Tribunales Juana Manso {'cant': 5}
-Tribunales Congreso {'cant': 15}
-Tribunales Plaza Italia {'cant': 5}
-Tribunales Ecoparque {'cant': 2}
-Tribunales Tribunales {'cant': 24}
-Tribunales Plaza Güemes {'cant': 13}
-Tribunales Legislatura {'cant': 6}
-Tribunales Ministro Carranza {'cant': 0}
-Tribunales Parque Las Heras {'cant': 8}
-Tribunales Madero UCA {'cant': 6}
-Tribunales Plaza Almagro {'cant': 5}
-Tribunales Rivarola {'cant': 0}
-Tribunales Parque Centenario {'cant': 9}
-Tribunales Once {'cant': 6}
-Tribunales Plaza Vicente López {'cant': 9}
-Tribunales Aduana {'cant': 3}
-Tribunales Facultad de Derecho {'cant': 4}
-Tribunales Independencia {'cant': 9}
-Tribunales Urquiza {'cant': 3}
-Tribunales Plaza Boedo {'cant': 6}
-Tribunales Plaza Palermo Viejo {'cant': 1}
-Tribunales Plaza Libertad {'cant': 2}
-Tribunales Parque Lezama {'cant': 3}
-Tribunales Plaza Roma {'cant': 2}
-Tribunales Galerías Pacífico {'cant': 0}
-Tribunales nan {'cant': 1}
-Tribunales Santiago del Estero {'cant': 4}
-Tribunales Obelisco {'cant': 1}
-Tribunales Arenales {'cant': 1}
-Tribunales Retiro {'cant': 0}
-Tribunales Plaza San Martín {'cant': 0}
-Tribunales Cochabamba {'cant': 1}
-Suipacha Ricardo Rojas {'cant': 0}
-Suipacha Ecoparque {'cant': 2}
-Suipacha Distrito Audiovisual {'cant': 7}
-Suipacha Rivarola {'cant': 0}
-Suipacha Peña {'cant': 13}
-Suipacha Plaza Roma {'cant': 2}
-Suipacha Plaza Güemes {'cant': 3}
-Suipacha Emilio Mitre {'cant': 2}
-Suipacha Parque Las Heras {'cant': 10}
-Suipacha Congreso {'cant': 20}
-Suipacha Plaza Boedo {'cant': 3}
-Suipacha Chile {'cant': 4}
-Suipacha Plaza Italia {'cant': 4}
-Suipacha Independencia {'cant': 10}
-Suipacha Plaza Vicente López {'cant': 5}
-Suipacha Tribunales {'cant': 1}
-Suipacha Plaza San Martín {'cant': 2}
-Suipacha Alsina {'cant': 1}
-Suipacha Montevideo {'cant': 5}
-Suipacha Parque Lezama {'cant': 5}
-Suipacha Facultad de Derecho {'cant': 4}
-Suipacha Plaza Houssay {'cant': 3}
-Suipacha Retiro {'cant': 8}
-Suipacha Once {'cant': 2}
-Suipacha Suipacha {'cant': 9}
-Suipacha Legislatura {'cant': 0}
-Suipacha Juana Manso {'cant': 2}
-Suipacha Facultad de Medicina {'cant': 0}
-Suipacha Plaza Almagro {'cant': 5}
-Suipacha Ingeniero Butty {'cant': 0}
-Suipacha Obelisco {'cant': 1}
-Suipacha Urquiza {'cant': 1}
-Suipacha nan {'cant': 0}
-Suipacha Pacífico {'cant': 2}
-Suipacha Parque Centenario {'cant': 0}
-Suipacha Maipú {'cant': 0}
-Suipacha Aduana {'cant': 1}
-Suipacha Piedras {'cant': 0}
-Suipacha Sarmiento {'cant': 4}
-Suipacha Cochabamba {'cant': 0}
-Suipacha Arenales {'cant': 1}
-Suipacha Catedral {'cant': 1}
-Suipacha Parque Patricios {'cant': 0}
-Suipacha Madero UCA {'cant': 1}
-Suipacha Plaza Libertad {'cant': 0}
-Ecoparque Facultad de Derecho {'cant': 30}
-Ecoparque Plaza Palermo Viejo {'cant': 3}
-Ecoparque Pacífico {'cant': 30}
-Ecoparque nan {'cant': 22}
-Ecoparque Plaza Güemes {'cant': 11}
-Ecoparque Plaza Italia {'cant': 27}
-Ecoparque Parque Centenario {'cant': 6}
-Ecoparque Ecoparque {'cant': 45}
-Ecoparque Plaza Almagro {'cant': 5}
-Ecoparque Parque Las Heras {'cant': 42}
-Ecoparque Facultad de Medicina {'cant': 6}
-Ecoparque Peña {'cant': 13}
-Ecoparque Coronel Díaz {'cant': 4}
-Ecoparque Plaza Houssay {'cant': 13}
-Ecoparque Tribunales {'cant': 1}
-Ecoparque Maipú {'cant': 0}
-Ecoparque Retiro {'cant': 0}
-Ecoparque Plaza Vicente López {'cant': 12}
-Ecoparque Ministro Carranza {'cant': 0}
-Ecoparque Suipacha {'cant': 2}
-Ecoparque Parque Lezama {'cant': 6}
-Ecoparque Once {'cant': 5}
-Ecoparque Plaza Boedo {'cant': 1}
-Ecoparque Congreso {'cant': 4}
-Ecoparque Montevideo {'cant': 1}
-Ecoparque Distrito Audiovisual {'cant': 2}
-Ecoparque Ingeniero Butty {'cant': 1}
-Ecoparque Arenales {'cant': 1}
-Ecoparque Juana Manso {'cant': 0}
-Ecoparque 25 de Mayo {'cant': 0}
-Congreso Plaza Boedo {'cant': 27}
-Congreso Congreso {'cant': 108}
-Congreso Catedral {'cant': 20}
-Congreso Parque Patricios {'cant': 1}
-Congreso Parque Lezama {'cant': 36}
-Congreso Alsina {'cant': 11}
-Congreso Plaza San Martín {'cant': 4}
-Congreso Plaza Almagro {'cant': 11}
-Congreso Diagonal Norte {'cant': 0}
-Congreso Plaza Güemes {'cant': 3}
-Congreso Plaza Houssay {'cant': 12}
-Congreso Plaza Italia {'cant': 8}
-Congreso Once {'cant': 21}
-Congreso Montevideo {'cant': 15}
-Congreso Tribunales {'cant': 6}
-Congreso Ayacucho {'cant': 4}
-Congreso Plaza Palermo Viejo {'cant': 1}
-Congreso Arenales {'cant': 1}
-Congreso Madero UCA {'cant': 21}
-Congreso Ecoparque {'cant': 1}
-Congreso Independencia {'cant': 45}
-Congreso Aduana {'cant': 4}
-Congreso Coronel Díaz {'cant': 0}
-Congreso Plaza Vicente López {'cant': 5}
-Congreso Juana Manso {'cant': 8}
-Congreso Pacífico {'cant': 2}
-Congreso Plaza Libertad {'cant': 9}
-Congreso Obelisco {'cant': 5}
-Congreso Tucumán {'cant': 1}
-Congreso Chile {'cant': 6}
-Congreso Parque Centenario {'cant': 21}
-Congreso Sarmiento {'cant': 0}
-Congreso Facultad de Derecho {'cant': 3}
-Congreso Legislatura {'cant': 5}
-Congreso Peña {'cant': 3}
-Congreso Parque Las Heras {'cant': 7}
-Congreso Facultad de Medicina {'cant': 5}
-Congreso Distrito Audiovisual {'cant': 3}
-Congreso Suipacha {'cant': 5}
-Congreso Ingeniero Butty {'cant': 8}
-Congreso Urquiza {'cant': 1}
-Congreso nan {'cant': 2}
-Congreso Córdoba {'cant': 0}
-Congreso Retiro {'cant': 4}
-Congreso Perón {'cant': 0}
-Congreso Piedras {'cant': 0}
-Congreso Santiago del Estero {'cant': 2}
-Congreso Maipú {'cant': 0}
-Congreso Cochabamba {'cant': 0}
-Plaza Italia Plaza Almagro {'cant': 32}
-Plaza Italia Plaza Italia {'cant': 176}
-Plaza Italia Facultad de Derecho {'cant': 53}
-Plaza Italia Peña {'cant': 31}
-Plaza Italia Ecoparque {'cant': 34}
-Plaza Italia Pacífico {'cant': 63}
-Plaza Italia Ayacucho {'cant': 1}
-Plaza Italia Parque Las Heras {'cant': 71}
-Plaza Italia Parque Centenario {'cant': 37}
-Plaza Italia Plaza Houssay {'cant': 16}
-Plaza Italia Once {'cant': 6}
-Plaza Italia Facultad de Medicina {'cant': 3}
-Plaza Italia Plaza Güemes {'cant': 43}
-Plaza Italia Coronel Díaz {'cant': 4}
-Plaza Italia Montevideo {'cant': 22}
-Plaza Italia Plaza Libertad {'cant': 1}
-Plaza Italia Plaza Palermo Viejo {'cant': 7}
-Plaza Italia Plaza Vicente López {'cant': 26}
-Plaza Italia Ministro Carranza {'cant': 7}
-Plaza Italia Distrito Audiovisual {'cant': 21}
-Plaza Italia Plaza Boedo {'cant': 6}
-Plaza Italia Alsina {'cant': 2}
-Plaza Italia Tucumán {'cant': 0}
-Plaza Italia nan {'cant': 10}
-Plaza Italia Julián Álvarez {'cant': 0}
-Plaza Italia Ingeniero Butty {'cant': 0}
-Plaza Italia Retiro {'cant': 16}
-Plaza Italia Chile {'cant': 2}
-Plaza Italia Congreso {'cant': 11}
-Plaza Italia Legislatura {'cant': 0}
-Plaza Italia Tribunales {'cant': 4}
-Plaza Italia Obelisco {'cant': 2}
-Plaza Italia Suipacha {'cant': 0}
-Plaza Italia Parque Lezama {'cant': 0}
-Plaza Italia Independencia {'cant': 5}
-Plaza Italia Madero UCA {'cant': 1}
-Plaza Italia Ricardo Rojas {'cant': 0}
-Plaza Italia Maipú {'cant': 0}
-Plaza Italia Arenales {'cant': 4}
-Plaza Italia Plaza Roma {'cant': 13}
-Plaza Italia Plaza San Martín {'cant': 2}
-Plaza Italia Piedras {'cant': 0}
-Plaza Italia Aduana {'cant': 0}
-Plaza Italia Parque Patricios {'cant': 0}
-Plaza Italia Emilio Mitre {'cant': 0}
-Madero UCA Parque Lezama {'cant': 34}
-Madero UCA Congreso {'cant': 20}
-Madero UCA Madero UCA {'cant': 73}
-Madero UCA Ricardo Rojas {'cant': 1}
-Madero UCA Ayacucho {'cant': 1}
-Madero UCA Retiro {'cant': 12}
-Madero UCA Juana Manso {'cant': 18}
-Madero UCA Tribunales {'cant': 8}
-Madero UCA Córdoba {'cant': 0}
-Madero UCA Plaza Houssay {'cant': 1}
-Madero UCA Plaza Vicente López {'cant': 3}
-Madero UCA Facultad de Derecho {'cant': 10}
-Madero UCA Legislatura {'cant': 2}
-Madero UCA Independencia {'cant': 35}
-Madero UCA Plaza Almagro {'cant': 5}
-Madero UCA Alsina {'cant': 7}
-Madero UCA Facultad de Medicina {'cant': 1}
-Madero UCA Chile {'cant': 7}
-Madero UCA Plaza Güemes {'cant': 0}
-Madero UCA Plaza Roma {'cant': 15}
+Parque Lezama Parque Patricios {'cant': 19}
+Parque Lezama Facultad de Medicina {'cant': 3}
+Parque Lezama Parque Las Heras {'cant': 7}
+Parque Lezama Montevideo {'cant': 5}
+Parque Lezama Perón {'cant': 0}
+Parque Lezama Pacífico {'cant': 2}
+Parque Lezama Plaza Libertad {'cant': 3}
+Parque Lezama Santiago del Estero {'cant': 3}
+Parque Lezama Piedras {'cant': 4}
+Parque Lezama Cochabamba {'cant': 2}
+Parque Lezama Plaza Italia {'cant': 3}
+Madero UCA Parque Lezama {'cant': 60}
+Madero UCA Tribunales {'cant': 24}
+Madero UCA Congreso {'cant': 38}
+Madero UCA Facultad de Derecho {'cant': 28}
+Madero UCA Retiro {'cant': 171}
+Madero UCA Madero UCA {'cant': 112}
+Madero UCA Plaza Italia {'cant': 24}
+Madero UCA Juana Manso {'cant': 42}
+Madero UCA Plaza Roma {'cant': 61}
+Madero UCA Plaza Almagro {'cant': 7}
+Madero UCA Legislatura {'cant': 24}
+Madero UCA Plaza San Martín {'cant': 26}
+Madero UCA Independencia {'cant': 124}
+Madero UCA Peña {'cant': 22}
+Madero UCA Plaza Vicente López {'cant': 30}
+Madero UCA Alsina {'cant': 23}
+Madero UCA Belgrano {'cant': 1}
+Madero UCA Parque Centenario {'cant': 25}
+Madero UCA 25 de Mayo {'cant': 8}
+Madero UCA Córdoba {'cant': 2}
+Madero UCA Chile {'cant': 31}
+Madero UCA Catedral {'cant': 22}
+Madero UCA Once {'cant': 17}
+Madero UCA Urquiza {'cant': 4}
+Madero UCA Suipacha {'cant': 24}
+Madero UCA Plaza Boedo {'cant': 15}
+Madero UCA Aduana {'cant': 52}
+Madero UCA Plaza Güemes {'cant': 12}
+Madero UCA Plaza Palermo Viejo {'cant': 2}
+Madero UCA Ayacucho {'cant': 0}
+Madero UCA Galerías Pacífico {'cant': 11}
+Madero UCA Plaza Libertad {'cant': 12}
+Madero UCA Arenales {'cant': 9}
 Madero UCA Rivarola {'cant': 0}
-Madero UCA Perón {'cant': 0}
-Madero UCA Suipacha {'cant': 5}
-Madero UCA Plaza Libertad {'cant': 1}
-Madero UCA Once {'cant': 3}
-Madero UCA Plaza Boedo {'cant': 3}
-Madero UCA Parque Las Heras {'cant': 6}
-Madero UCA Arenales {'cant': 4}
-Madero UCA Aduana {'cant': 11}
-Madero UCA nan {'cant': 1}
-Madero UCA 25 de Mayo {'cant': 1}
-Madero UCA Galerías Pacífico {'cant': 1}
-Madero UCA Diagonal Norte {'cant': 0}
-Madero UCA Montevideo {'cant': 4}
-Madero UCA Obelisco {'cant': 3}
-Madero UCA Ecoparque {'cant': 0}
-Madero UCA Plaza San Martín {'cant': 1}
-Madero UCA Ingeniero Butty {'cant': 7}
-Madero UCA Emilio Mitre {'cant': 1}
-Madero UCA Santiago del Estero {'cant': 4}
-Madero UCA Pacífico {'cant': 3}
-Madero UCA Peña {'cant': 1}
-Madero UCA Maipú {'cant': 0}
+Madero UCA Perón {'cant': 1}
+Madero UCA Ecoparque {'cant': 2}
+Madero UCA Maipú {'cant': 4}
+Madero UCA Parque Las Heras {'cant': 23}
+Madero UCA Montevideo {'cant': 6}
+Madero UCA Facultad de Medicina {'cant': 1}
+Madero UCA Emilio Mitre {'cant': 2}
+Madero UCA Plaza Houssay {'cant': 6}
+Madero UCA Pacífico {'cant': 9}
+Madero UCA nan {'cant': 7}
+Madero UCA Obelisco {'cant': 19}
+Madero UCA Diagonal Norte {'cant': 6}
 Madero UCA Piedras {'cant': 1}
-Madero UCA Parque Patricios {'cant': 0}
-Madero UCA Catedral {'cant': 0}
-Maipú Maipú {'cant': 9}
-Maipú Plaza Roma {'cant': 3}
-Maipú Parque Centenario {'cant': 6}
-Maipú Parque Lezama {'cant': 14}
-Maipú Juana Manso {'cant': 1}
-Maipú Plaza Almagro {'cant': 1}
-Maipú Suipacha {'cant': 3}
-Maipú Peña {'cant': 9}
-Maipú Independencia {'cant': 9}
-Maipú nan {'cant': 2}
-Maipú Pacífico {'cant': 1}
-Maipú Once {'cant': 6}
-Maipú Rivarola {'cant': 0}
-Maipú Plaza Boedo {'cant': 0}
-Maipú Plaza Italia {'cant': 0}
-Maipú Plaza Güemes {'cant': 13}
-Maipú Montevideo {'cant': 3}
-Maipú Diagonal Norte {'cant': 2}
-Maipú Chile {'cant': 7}
-Maipú Congreso {'cant': 8}
-Maipú Arenales {'cant': 4}
-Maipú Tribunales {'cant': 5}
-Maipú Plaza Libertad {'cant': 0}
-Maipú Facultad de Medicina {'cant': 2}
-Maipú Emilio Mitre {'cant': 0}
-Maipú Plaza Vicente López {'cant': 5}
-Maipú Piedras {'cant': 0}
-Maipú Retiro {'cant': 5}
-Maipú Galerías Pacífico {'cant': 0}
-Maipú Aduana {'cant': 1}
-Maipú Facultad de Derecho {'cant': 0}
-Maipú Parque Las Heras {'cant': 2}
-Maipú Madero UCA {'cant': 2}
-Maipú Plaza Houssay {'cant': 0}
-Maipú Cochabamba {'cant': 0}
-Maipú Plaza San Martín {'cant': 0}
-Maipú Ingeniero Butty {'cant': 0}
-Maipú Urquiza {'cant': 2}
-Maipú Legislatura {'cant': 1}
-Plaza Boedo Plaza Boedo {'cant': 100}
-Plaza Boedo Plaza Almagro {'cant': 58}
-Plaza Boedo Ecoparque {'cant': 0}
-Plaza Boedo Facultad de Derecho {'cant': 1}
-Plaza Boedo Parque Lezama {'cant': 14}
-Plaza Boedo Urquiza {'cant': 17}
-Plaza Boedo Once {'cant': 10}
-Plaza Boedo Parque Centenario {'cant': 18}
-Plaza Boedo Parque Patricios {'cant': 15}
-Plaza Boedo Plaza Güemes {'cant': 8}
-Plaza Boedo Galerías Pacífico {'cant': 2}
-Plaza Boedo nan {'cant': 3}
-Plaza Boedo Independencia {'cant': 7}
-Plaza Boedo Alsina {'cant': 3}
-Plaza Boedo Plaza Roma {'cant': 0}
-Plaza Boedo Retiro {'cant': 0}
-Plaza Boedo Parque Las Heras {'cant': 5}
-Plaza Boedo 25 de Mayo {'cant': 4}
-Plaza Boedo Plaza Houssay {'cant': 1}
-Plaza Boedo Legislatura {'cant': 1}
-Plaza Boedo Arenales {'cant': 1}
-Plaza Boedo Plaza Italia {'cant': 5}
-Plaza Boedo Plaza Palermo Viejo {'cant': 0}
-Plaza Boedo Congreso {'cant': 3}
-Plaza Boedo Tribunales {'cant': 1}
-Plaza Boedo Madero UCA {'cant': 1}
-Plaza Boedo Obelisco {'cant': 7}
-Plaza Boedo Aduana {'cant': 1}
-Plaza Boedo Plaza San Martín {'cant': 0}
-Plaza Boedo Chile {'cant': 3}
-Plaza Boedo Peña {'cant': 2}
-Plaza Boedo Montevideo {'cant': 2}
-Plaza Boedo Maipú {'cant': 0}
-Plaza Boedo Pacífico {'cant': 8}
-Plaza Boedo Distrito Audiovisual {'cant': 2}
-Plaza Boedo Santiago del Estero {'cant': 4}
-Plaza Boedo Plaza Vicente López {'cant': 4}
-Plaza Boedo Suipacha {'cant': 0}
-Plaza Boedo Caseros {'cant': 0}
-Plaza Boedo Cochabamba {'cant': 1}
-Plaza Güemes Plaza Güemes {'cant': 189}
-Plaza Güemes Plaza Palermo Viejo {'cant': 22}
-Plaza Güemes Plaza Italia {'cant': 41}
-Plaza Güemes Peña {'cant': 45}
-Plaza Güemes Facultad de Derecho {'cant': 29}
-Plaza Güemes Parque Las Heras {'cant': 91}
-Plaza Güemes Ecoparque {'cant': 23}
-Plaza Güemes Congreso {'cant': 9}
-Plaza Güemes Ayacucho {'cant': 2}
-Plaza Güemes Parque Centenario {'cant': 54}
-Plaza Güemes Plaza Almagro {'cant': 68}
-Plaza Güemes Retiro {'cant': 1}
-Plaza Güemes Coronel Díaz {'cant': 3}
-Plaza Güemes Plaza Houssay {'cant': 16}
-Plaza Güemes Distrito Audiovisual {'cant': 18}
-Plaza Güemes Plaza Vicente López {'cant': 13}
-Plaza Güemes Pacífico {'cant': 45}
-Plaza Güemes Parque Lezama {'cant': 19}
-Plaza Güemes nan {'cant': 12}
-Plaza Güemes Plaza Boedo {'cant': 17}
-Plaza Güemes Facultad de Medicina {'cant': 8}
-Plaza Güemes Julián Álvarez {'cant': 6}
-Plaza Güemes Plaza Libertad {'cant': 6}
-Plaza Güemes Once {'cant': 8}
-Plaza Güemes Montevideo {'cant': 5}
-Plaza Güemes Urquiza {'cant': 4}
-Plaza Güemes Plaza San Martín {'cant': 3}
-Plaza Güemes Ministro Carranza {'cant': 1}
-Plaza Güemes 25 de Mayo {'cant': 0}
-Plaza Güemes Arenales {'cant': 10}
-Plaza Güemes Suipacha {'cant': 4}
-Plaza Güemes Independencia {'cant': 9}
-Plaza Güemes Diagonal Norte {'cant': 1}
-Plaza Güemes Emilio Mitre {'cant': 0}
-Plaza Güemes Aduana {'cant': 1}
-Plaza Güemes Córdoba {'cant': 0}
-Plaza Güemes Plaza Roma {'cant': 0}
-Plaza Güemes Tribunales {'cant': 0}
-Plaza Güemes Madero UCA {'cant': 0}
-Plaza Güemes Obelisco {'cant': 0}
-Plaza Güemes Parque Patricios {'cant': 1}
-Plaza Güemes Catedral {'cant': 0}
-Plaza Güemes Alsina {'cant': 1}
-Arenales Facultad de Derecho {'cant': 10}
-Arenales Pacífico {'cant': 13}
-Arenales Facultad de Medicina {'cant': 10}
-Arenales Plaza Vicente López {'cant': 38}
-Arenales Juana Manso {'cant': 2}
-Arenales Parque Las Heras {'cant': 41}
-Arenales Independencia {'cant': 8}
-Arenales Arenales {'cant': 19}
-Arenales Ecoparque {'cant': 4}
-Arenales Plaza Houssay {'cant': 13}
-Arenales Tribunales {'cant': 5}
-Arenales Congreso {'cant': 5}
-Arenales Plaza Italia {'cant': 6}
-Arenales Tucumán {'cant': 2}
-Arenales Parque Centenario {'cant': 4}
-Arenales Peña {'cant': 60}
-Arenales Madero UCA {'cant': 3}
-Arenales Once {'cant': 4}
-Arenales Obelisco {'cant': 4}
-Arenales Plaza Libertad {'cant': 9}
-Arenales Legislatura {'cant': 7}
-Arenales Córdoba {'cant': 1}
-Arenales Montevideo {'cant': 10}
-Arenales Plaza San Martín {'cant': 8}
-Arenales Retiro {'cant': 6}
-Arenales Plaza Boedo {'cant': 2}
-Arenales nan {'cant': 0}
-Arenales Parque Lezama {'cant': 4}
-Arenales 25 de Mayo {'cant': 0}
-Arenales Ricardo Rojas {'cant': 1}
-Arenales Plaza Almagro {'cant': 2}
-Arenales Aduana {'cant': 0}
-Arenales Chile {'cant': 0}
-Arenales Alsina {'cant': 2}
-Arenales Plaza Roma {'cant': 0}
-Arenales Distrito Audiovisual {'cant': 1}
-Arenales Cochabamba {'cant': 0}
-Arenales Plaza Güemes {'cant': 9}
-Arenales Suipacha {'cant': 6}
-Arenales Emilio Mitre {'cant': 0}
-Facultad de Derecho Retiro {'cant': 39}
-Facultad de Derecho Pacífico {'cant': 99}
-Facultad de Derecho Ecoparque {'cant': 19}
-Facultad de Derecho Facultad de Medicina {'cant': 16}
-Facultad de Derecho Coronel Díaz {'cant': 2}
-Facultad de Derecho Facultad de Derecho {'cant': 132}
-Facultad de Derecho Guzmán {'cant': 0}
-Facultad de Derecho Peña {'cant': 43}
-Facultad de Derecho Plaza San Martín {'cant': 7}
-Facultad de Derecho Parque Centenario {'cant': 16}
-Facultad de Derecho Plaza Almagro {'cant': 30}
-Facultad de Derecho Legislatura {'cant': 3}
-Facultad de Derecho Galerías Pacífico {'cant': 10}
-Facultad de Derecho Julián Álvarez {'cant': 3}
-Facultad de Derecho Plaza Vicente López {'cant': 41}
-Facultad de Derecho Plaza Palermo Viejo {'cant': 3}
-Facultad de Derecho Parque Lezama {'cant': 10}
-Facultad de Derecho Independencia {'cant': 10}
-Facultad de Derecho Ministro Carranza {'cant': 1}
-Facultad de Derecho Parque Las Heras {'cant': 109}
-Facultad de Derecho Juana Manso {'cant': 5}
-Facultad de Derecho Plaza Italia {'cant': 93}
-Facultad de Derecho Plaza Houssay {'cant': 12}
-Facultad de Derecho Plaza Güemes {'cant': 59}
-Facultad de Derecho Madero UCA {'cant': 7}
-Facultad de Derecho nan {'cant': 19}
-Facultad de Derecho Once {'cant': 7}
-Facultad de Derecho Plaza Libertad {'cant': 3}
-Facultad de Derecho Plaza Boedo {'cant': 5}
-Facultad de Derecho Plaza Roma {'cant': 7}
-Facultad de Derecho Padilla {'cant': 0}
-Facultad de Derecho Congreso {'cant': 6}
-Facultad de Derecho Arenales {'cant': 13}
-Facultad de Derecho Suipacha {'cant': 11}
-Facultad de Derecho Distrito Audiovisual {'cant': 6}
-Facultad de Derecho Tribunales {'cant': 6}
-Facultad de Derecho Chile {'cant': 2}
-Facultad de Derecho 25 de Mayo {'cant': 0}
-Facultad de Derecho Ayacucho {'cant': 0}
-Facultad de Derecho Aduana {'cant': 2}
-Facultad de Derecho Emilio Mitre {'cant': 1}
-Facultad de Derecho Obelisco {'cant': 2}
-Facultad de Derecho Montevideo {'cant': 5}
-Facultad de Derecho Alsina {'cant': 1}
-Facultad de Derecho Córdoba {'cant': 0}
-Facultad de Derecho Piedras {'cant': 9}
-Facultad de Derecho Perón {'cant': 0}
-Facultad de Derecho Ingeniero Butty {'cant': 2}
-Facultad de Derecho Santiago del Estero {'cant': 3}
-Facultad de Derecho Cochabamba {'cant': 0}
-Facultad de Derecho Parque Patricios {'cant': 0}
-Plaza Vicente López Facultad de Derecho {'cant': 52}
-Plaza Vicente López Plaza Palermo Viejo {'cant': 2}
-Plaza Vicente López Parque Las Heras {'cant': 125}
-Plaza Vicente López Diagonal Norte {'cant': 2}
-Plaza Vicente López Plaza San Martín {'cant': 37}
-Plaza Vicente López Plaza Vicente López {'cant': 61}
-Plaza Vicente López Pacífico {'cant': 15}
-Plaza Vicente López Rivarola {'cant': 1}
-Plaza Vicente López Plaza Güemes {'cant': 12}
-Plaza Vicente López Plaza Houssay {'cant': 16}
-Plaza Vicente López Peña {'cant': 93}
-Plaza Vicente López Plaza Italia {'cant': 33}
-Plaza Vicente López Coronel Díaz {'cant': 1}
-Plaza Vicente López Congreso {'cant': 40}
-Plaza Vicente López Emilio Mitre {'cant': 3}
-Plaza Vicente López Arenales {'cant': 16}
-Plaza Vicente López Montevideo {'cant': 16}
-Plaza Vicente López Tucumán {'cant': 3}
-Plaza Vicente López Suipacha {'cant': 18}
-Plaza Vicente López Retiro {'cant': 31}
-Plaza Vicente López Madero UCA {'cant': 0}
-Plaza Vicente López Ecoparque {'cant': 3}
-Plaza Vicente López Independencia {'cant': 24}
-Plaza Vicente López Plaza Boedo {'cant': 2}
-Plaza Vicente López Tribunales {'cant': 5}
-Plaza Vicente López Plaza Roma {'cant': 1}
-Plaza Vicente López Ministro Carranza {'cant': 0}
-Plaza Vicente López Plaza Libertad {'cant': 7}
-Plaza Vicente López Ricardo Rojas {'cant': 17}
-Plaza Vicente López Alsina {'cant': 9}
-Plaza Vicente López Parque Centenario {'cant': 6}
-Plaza Vicente López Facultad de Medicina {'cant': 0}
-Plaza Vicente López Ingeniero Butty {'cant': 3}
-Plaza Vicente López nan {'cant': 5}
-Plaza Vicente López Piedras {'cant': 0}
-Plaza Vicente López Plaza Vicente Lopez {'cant': 0}
-Plaza Vicente López Chile {'cant': 2}
-Plaza Vicente López Once {'cant': 8}
-Plaza Vicente López Córdoba {'cant': 5}
-Plaza Vicente López Parque Lezama {'cant': 2}
-Plaza Vicente López Legislatura {'cant': 8}
-Plaza Vicente López Juana Manso {'cant': 1}
-Plaza Vicente López Plaza Almagro {'cant': 5}
-Plaza Vicente López Obelisco {'cant': 2}
-Plaza Vicente López Maipú {'cant': 2}
-Plaza Vicente López Santiago del Estero {'cant': 0}
-Plaza Vicente López Galerías Pacífico {'cant': 0}
-Plaza Vicente López Catedral {'cant': 1}
-Retiro Facultad de Derecho {'cant': 41}
-Retiro Pacífico {'cant': 45}
-Retiro Parque Centenario {'cant': 1}
-Retiro Retiro {'cant': 10}
-Retiro nan {'cant': 4}
-Retiro Arenales {'cant': 6}
-Retiro Ecoparque {'cant': 9}
-Retiro Plaza Italia {'cant': 16}
-Retiro Independencia {'cant': 6}
-Retiro Plaza Libertad {'cant': 3}
-Retiro Plaza Vicente López {'cant': 33}
-Retiro Plaza Almagro {'cant': 3}
-Retiro Plaza Houssay {'cant': 4}
-Retiro Obelisco {'cant': 4}
-Retiro Plaza Boedo {'cant': 2}
-Retiro Madero UCA {'cant': 9}
-Retiro Peña {'cant': 11}
-Retiro Parque Las Heras {'cant': 32}
-Retiro Tribunales {'cant': 1}
-Retiro Plaza Palermo Viejo {'cant': 0}
-Retiro Parque Patricios {'cant': 0}
-Retiro Piedras {'cant': 1}
-Retiro Galerías Pacífico {'cant': 0}
-Retiro Chile {'cant': 0}
-Retiro Plaza Güemes {'cant': 14}
-Retiro Aduana {'cant': 7}
-Retiro 25 de Mayo {'cant': 0}
-Retiro Parque Lezama {'cant': 6}
-Retiro Suipacha {'cant': 2}
-Retiro Plaza San Martín {'cant': 5}
-Retiro Distrito Audiovisual {'cant': 1}
-Retiro Juana Manso {'cant': 0}
-Retiro Ingeniero Butty {'cant': 1}
-Retiro Ricardo Rojas {'cant': 0}
-Retiro Alsina {'cant': 2}
-Retiro Urquiza {'cant': 3}
-Retiro Plaza Roma {'cant': 1}
-Retiro Perón {'cant': 1}
-Retiro Legislatura {'cant': 4}
-Retiro Congreso {'cant': 1}
-Retiro Emilio Mitre {'cant': 0}
-Retiro Maipú {'cant': 3}
-Retiro Montevideo {'cant': 0}
-Diagonal Norte Parque Lezama {'cant': 1}
-Diagonal Norte Once {'cant': 2}
-Diagonal Norte Plaza Italia {'cant': 1}
-Diagonal Norte Suipacha {'cant': 0}
-Diagonal Norte Congreso {'cant': 3}
-Diagonal Norte Julián Álvarez {'cant': 1}
-Diagonal Norte Diagonal Norte {'cant': 1}
-Diagonal Norte Obelisco {'cant': 0}
-Diagonal Norte Plaza Houssay {'cant': 0}
-Diagonal Norte Independencia {'cant': 0}
-Diagonal Norte Plaza Almagro {'cant': 1}
-Diagonal Norte Alsina {'cant': 0}
-Diagonal Norte Plaza Güemes {'cant': 1}
-Diagonal Norte Plaza San Martín {'cant': 1}
-Diagonal Norte Tribunales {'cant': 0}
-Diagonal Norte Parque Las Heras {'cant': 3}
-Diagonal Norte Plaza Vicente López {'cant': 0}
-Diagonal Norte Maipú {'cant': 0}
-Diagonal Norte Peña {'cant': 0}
-Diagonal Norte Madero UCA {'cant': 0}
-Diagonal Norte Retiro {'cant': 0}
-Diagonal Norte Juana Manso {'cant': 0}
-Once Parque Centenario {'cant': 16}
-Once Once {'cant': 30}
-Once Galerías Pacífico {'cant': 0}
-Once Congreso {'cant': 12}
-Once Plaza Boedo {'cant': 19}
-Once Pacífico {'cant': 10}
-Once Urquiza {'cant': 2}
-Once Rivarola {'cant': 0}
-Once Plaza Houssay {'cant': 11}
-Once Plaza Italia {'cant': 3}
-Once Belgrano {'cant': 0}
-Once Parque Lezama {'cant': 7}
-Once Catedral {'cant': 1}
-Once Plaza Vicente López {'cant': 1}
-Once Emilio Mitre {'cant': 0}
-Once Facultad de Medicina {'cant': 2}
-Once Parque Las Heras {'cant': 4}
-Once Ecoparque {'cant': 1}
-Once nan {'cant': 1}
-Once Plaza Güemes {'cant': 8}
-Once Tucumán {'cant': 2}
-Once Coronel Díaz {'cant': 0}
-Once Alsina {'cant': 9}
-Once Montevideo {'cant': 42}
-Once Facultad de Derecho {'cant': 4}
-Once Madero UCA {'cant': 2}
-Once Plaza Roma {'cant': 4}
-Once Plaza San Martín {'cant': 2}
-Once Obelisco {'cant': 5}
-Once Diagonal Norte {'cant': 6}
-Once Independencia {'cant': 11}
-Once Plaza Almagro {'cant': 10}
-Once Parque Patricios {'cant': 4}
-Once Suipacha {'cant': 0}
-Once Chile {'cant': 0}
-Once Tribunales {'cant': 3}
-Once Aduana {'cant': 4}
-Once Ingeniero Butty {'cant': 0}
-Once Retiro {'cant': 1}
-Once Peña {'cant': 2}
-Once Legislatura {'cant': 0}
-Once Maipú {'cant': 2}
-Once Piedras {'cant': 0}
-Once Santiago del Estero {'cant': 2}
-Once Juana Manso {'cant': 0}
-Once Cochabamba {'cant': 0}
-Once Distrito Audiovisual {'cant': 0}
-Parque Patricios Urquiza {'cant': 4}
-Parque Patricios Plaza Güemes {'cant': 1}
-Parque Patricios Plaza Boedo {'cant': 12}
-Parque Patricios Parque Patricios {'cant': 27}
-Parque Patricios Plaza Almagro {'cant': 1}
-Parque Patricios Ayacucho {'cant': 0}
-Parque Patricios Plaza Houssay {'cant': 0}
-Parque Patricios Peña {'cant': 0}
-Parque Patricios Congreso {'cant': 1}
-Parque Patricios Facultad de Derecho {'cant': 0}
-Parque Patricios Once {'cant': 3}
-Parque Patricios Parque Centenario {'cant': 2}
-Parque Patricios Parque Lezama {'cant': 0}
-Parque Patricios Parque Las Heras {'cant': 1}
-Parque Patricios Pacífico {'cant': 0}
-Parque Patricios Distrito Audiovisual {'cant': 0}
-Parque Patricios Caseros {'cant': 0}
-Urquiza Plaza Boedo {'cant': 24}
-Urquiza Urquiza {'cant': 45}
-Urquiza Parque Patricios {'cant': 6}
-Urquiza Plaza Güemes {'cant': 2}
-Urquiza Pacífico {'cant': 6}
-Urquiza Parque Lezama {'cant': 3}
-Urquiza Emilio Mitre {'cant': 0}
-Urquiza Aduana {'cant': 0}
-Urquiza Facultad de Medicina {'cant': 0}
-Urquiza Plaza Houssay {'cant': 0}
-Urquiza Facultad de Derecho {'cant': 0}
-Urquiza Congreso {'cant': 1}
-Urquiza Distrito Audiovisual {'cant': 2}
-Urquiza Once {'cant': 3}
-Urquiza Parque Centenario {'cant': 0}
-Urquiza nan {'cant': 0}
-Urquiza Tribunales {'cant': 0}
-Urquiza Independencia {'cant': 0}
-Urquiza Plaza Almagro {'cant': 0}
-Aduana Madero UCA {'cant': 12}
-Aduana Ecoparque {'cant': 0}
-Aduana Plaza Güemes {'cant': 2}
-Aduana Obelisco {'cant': 4}
-Aduana Aduana {'cant': 10}
-Aduana Peña {'cant': 13}
-Aduana Plaza Roma {'cant': 3}
-Aduana Independencia {'cant': 10}
-Aduana Retiro {'cant': 2}
-Aduana Juana Manso {'cant': 6}
-Aduana Plaza Almagro {'cant': 2}
-Aduana Parque Lezama {'cant': 28}
-Aduana Urquiza {'cant': 0}
-Aduana Tribunales {'cant': 6}
-Aduana Once {'cant': 5}
-Aduana Montevideo {'cant': 8}
-Aduana Diagonal Norte {'cant': 1}
-Aduana Plaza Vicente López {'cant': 4}
-Aduana Congreso {'cant': 5}
-Aduana Facultad de Derecho {'cant': 1}
-Aduana Rivarola {'cant': 0}
-Aduana Catedral {'cant': 0}
-Aduana Parque Las Heras {'cant': 1}
-Aduana Suipacha {'cant': 4}
-Aduana nan {'cant': 1}
-Aduana Perón {'cant': 1}
-Aduana Chile {'cant': 0}
-Aduana Maipú {'cant': 0}
-Aduana Plaza Boedo {'cant': 3}
-Aduana Ingeniero Butty {'cant': 1}
-Aduana Santiago del Estero {'cant': 0}
-Aduana Alsina {'cant': 3}
-Aduana Plaza Houssay {'cant': 0}
-Aduana Plaza Italia {'cant': 0}
-Aduana Piedras {'cant': 0}
-Aduana Plaza San Martín {'cant': 0}
-Aduana Parque Centenario {'cant': 0}
-Aduana Pacífico {'cant': 0}
-Aduana Cochabamba {'cant': 0}
-Distrito Audiovisual Parque Centenario {'cant': 26}
-Distrito Audiovisual Plaza Almagro {'cant': 12}
-Distrito Audiovisual Plaza Italia {'cant': 6}
-Distrito Audiovisual Parque Las Heras {'cant': 12}
-Distrito Audiovisual Distrito Audiovisual {'cant': 29}
-Distrito Audiovisual Ministro Carranza {'cant': 0}
-Distrito Audiovisual nan {'cant': 5}
-Distrito Audiovisual Alsina {'cant': 0}
-Distrito Audiovisual Once {'cant': 8}
-Distrito Audiovisual Rivarola {'cant': 0}
-Distrito Audiovisual Ecoparque {'cant': 1}
-Distrito Audiovisual Julián Álvarez {'cant': 0}
-Distrito Audiovisual Congreso {'cant': 9}
-Distrito Audiovisual Plaza Libertad {'cant': 2}
-Distrito Audiovisual Plaza Vicente López {'cant': 1}
-Distrito Audiovisual Facultad de Derecho {'cant': 3}
-Distrito Audiovisual Pacífico {'cant': 18}
-Distrito Audiovisual Plaza Palermo Viejo {'cant': 0}
-Distrito Audiovisual Plaza Güemes {'cant': 13}
-Distrito Audiovisual Galerías Pacífico {'cant': 0}
-Distrito Audiovisual Retiro {'cant': 2}
-Distrito Audiovisual Plaza San Martín {'cant': 1}
-Distrito Audiovisual Peña {'cant': 0}
-Distrito Audiovisual Emilio Mitre {'cant': 0}
-Distrito Audiovisual Arenales {'cant': 3}
-Distrito Audiovisual Tribunales {'cant': 3}
-Distrito Audiovisual Plaza Boedo {'cant': 3}
-Distrito Audiovisual Montevideo {'cant': 0}
-Distrito Audiovisual Parque Lezama {'cant': 0}
-Distrito Audiovisual Suipacha {'cant': 0}
-Distrito Audiovisual Urquiza {'cant': 0}
-Distrito Audiovisual Independencia {'cant': 0}
-Catedral Montevideo {'cant': 3}
-Catedral Juana Manso {'cant': 0}
-Catedral Galerías Pacífico {'cant': 0}
-Catedral 25 de Mayo {'cant': 1}
-Catedral Plaza Güemes {'cant': 0}
-Catedral Plaza Italia {'cant': 2}
-Catedral Chile {'cant': 2}
-Catedral Catedral {'cant': 1}
-Catedral Parque Lezama {'cant': 5}
-Catedral Plaza Almagro {'cant': 0}
-Catedral Independencia {'cant': 2}
-Catedral Retiro {'cant': 3}
-Catedral Madero UCA {'cant': 2}
-Catedral Plaza Vicente López {'cant': 2}
-Catedral Tribunales {'cant': 3}
-Catedral Arenales {'cant': 1}
-Catedral Once {'cant': 4}
-Catedral Congreso {'cant': 1}
-Catedral Urquiza {'cant': 0}
-Catedral Plaza Roma {'cant': 0}
-Catedral Parque Centenario {'cant': 1}
-Catedral Plaza Libertad {'cant': 0}
-Catedral Santiago del Estero {'cant': 0}
-Catedral Parque Patricios {'cant': 0}
-Catedral Maipú {'cant': 0}
-Catedral Cochabamba {'cant': 1}
-Catedral Ingeniero Butty {'cant': 0}
-Independencia Congreso {'cant': 23}
-Independencia Plaza Boedo {'cant': 31}
-Independencia Independencia {'cant': 74}
-Independencia Plaza Güemes {'cant': 6}
-Independencia Chile {'cant': 12}
-Independencia Obelisco {'cant': 16}
-Independencia Maipú {'cant': 2}
-Independencia Once {'cant': 13}
-Independencia Plaza Almagro {'cant': 14}
-Independencia Diagonal Norte {'cant': 1}
-Independencia nan {'cant': 8}
-Independencia Rivarola {'cant': 0}
-Independencia Legislatura {'cant': 9}
-Independencia Madero UCA {'cant': 41}
-Independencia Urquiza {'cant': 14}
-Independencia Ayacucho {'cant': 0}
-Independencia Retiro {'cant': 14}
-Independencia Montevideo {'cant': 4}
-Independencia Plaza Houssay {'cant': 3}
-Independencia Suipacha {'cant': 20}
-Independencia Parque Lezama {'cant': 24}
+Madero UCA Ingeniero Butty {'cant': 4}
+Madero UCA Sarmiento {'cant': 0}
+Madero UCA Santiago del Estero {'cant': 17}
+Madero UCA Cochabamba {'cant': 3}
+Independencia Chile {'cant': 41}
+Independencia Congreso {'cant': 130}
+Independencia Plaza Boedo {'cant': 136}
+Independencia Independencia {'cant': 310}
+Independencia Once {'cant': 144}
+Independencia Retiro {'cant': 102}
+Independencia Madero UCA {'cant': 111}
+Independencia Parque Lezama {'cant': 105}
+Independencia Plaza Almagro {'cant': 55}
+Independencia Parque Las Heras {'cant': 110}
+Independencia Plaza San Martín {'cant': 24}
+Independencia Plaza Vicente López {'cant': 38}
+Independencia Galerías Pacífico {'cant': 10}
+Independencia Maipú {'cant': 10}
+Independencia Plaza Houssay {'cant': 48}
+Independencia Montevideo {'cant': 46}
+Independencia Legislatura {'cant': 38}
+Independencia Obelisco {'cant': 101}
+Independencia Plaza Libertad {'cant': 20}
+Independencia Piedras {'cant': 2}
+Independencia Facultad de Derecho {'cant': 76}
+Independencia Urquiza {'cant': 90}
+Independencia Tribunales {'cant': 41}
+Independencia Sarmiento {'cant': 6}
+Independencia Ministro Carranza {'cant': 3}
+Independencia Parque Centenario {'cant': 37}
+Independencia Alsina {'cant': 133}
+Independencia Arenales {'cant': 16}
+Independencia Aduana {'cant': 47}
+Independencia Plaza Güemes {'cant': 61}
+Independencia Peña {'cant': 38}
+Independencia Belgrano {'cant': 4}
+Independencia Rivarola {'cant': 15}
+Independencia Pacífico {'cant': 43}
+Independencia Plaza Roma {'cant': 7}
+Independencia nan {'cant': 41}
+Independencia Plaza Italia {'cant': 20}
+Independencia Ecoparque {'cant': 4}
+Independencia Suipacha {'cant': 58}
+Independencia Juana Manso {'cant': 25}
+Independencia Diagonal Norte {'cant': 5}
+Independencia Ayacucho {'cant': 2}
 Independencia Plaza Palermo Viejo {'cant': 2}
-Independencia Distrito Audiovisual {'cant': 3}
-Independencia Alsina {'cant': 24}
-Independencia Juana Manso {'cant': 6}
-Independencia Parque Las Heras {'cant': 11}
-Independencia Galerías Pacífico {'cant': 1}
-Independencia Facultad de Derecho {'cant': 5}
-Independencia Parque Centenario {'cant': 7}
-Independencia 25 de Mayo {'cant': 15}
-Independencia Plaza Vicente López {'cant': 19}
-Independencia Aduana {'cant': 25}
-Independencia Plaza Libertad {'cant': 5}
-Independencia Peña {'cant': 5}
-Independencia Arenales {'cant': 5}
-Independencia Belgrano {'cant': 0}
-Independencia Plaza San Martín {'cant': 5}
-Independencia Plaza Italia {'cant': 2}
-Independencia Sarmiento {'cant': 0}
-Independencia Córdoba {'cant': 0}
+Independencia Facultad de Medicina {'cant': 17}
+Independencia Ricardo Rojas {'cant': 0}
+Independencia Parque Patricios {'cant': 27}
+Independencia Tucumán {'cant': 2}
+Independencia Distrito Audiovisual {'cant': 24}
+Independencia Córdoba {'cant': 6}
 Independencia Perón {'cant': 0}
-Independencia Plaza Roma {'cant': 14}
-Independencia Pacífico {'cant': 5}
-Independencia Tucumán {'cant': 1}
-Independencia Parque Patricios {'cant': 0}
-Independencia Santiago del Estero {'cant': 6}
-Independencia Tribunales {'cant': 4}
-Independencia Catedral {'cant': 0}
-Independencia Cochabamba {'cant': 5}
-Chile Sarmiento {'cant': 2}
-Chile nan {'cant': 4}
-Chile Parque Lezama {'cant': 25}
-Chile Independencia {'cant': 16}
-Chile Chile {'cant': 11}
-Chile Madero UCA {'cant': 7}
-Chile Plaza Houssay {'cant': 7}
-Chile Urquiza {'cant': 1}
-Chile Aduana {'cant': 2}
-Chile Alsina {'cant': 0}
-Chile Plaza Roma {'cant': 0}
-Chile Legislatura {'cant': 8}
-Chile Facultad de Derecho {'cant': 0}
-Chile Diagonal Norte {'cant': 1}
-Chile Congreso {'cant': 3}
-Chile Plaza San Martín {'cant': 0}
-Chile Peña {'cant': 0}
-Chile Juana Manso {'cant': 3}
-Chile Parque Las Heras {'cant': 0}
-Chile Plaza Almagro {'cant': 1}
-Chile Plaza Boedo {'cant': 1}
-Chile Pacífico {'cant': 0}
-Chile Obelisco {'cant': 3}
-Chile Once {'cant': 2}
-Chile Piedras {'cant': 2}
-Chile Facultad de Medicina {'cant': 0}
-Chile Plaza Palermo Viejo {'cant': 0}
-Chile Plaza Italia {'cant': 1}
-Chile Suipacha {'cant': 3}
-Chile Arenales {'cant': 0}
-Chile Galerías Pacífico {'cant': 0}
-Chile Montevideo {'cant': 0}
-Legislatura Independencia {'cant': 13}
-Legislatura Sarmiento {'cant': 0}
-Legislatura Suipacha {'cant': 3}
-Legislatura Parque Lezama {'cant': 33}
-Legislatura Tribunales {'cant': 2}
-Legislatura Parque Centenario {'cant': 2}
-Legislatura Chile {'cant': 7}
-Legislatura Madero UCA {'cant': 6}
-Legislatura Perón {'cant': 0}
-Legislatura Distrito Audiovisual {'cant': 0}
-Legislatura Facultad de Medicina {'cant': 1}
-Legislatura Plaza Boedo {'cant': 4}
-Legislatura Congreso {'cant': 6}
-Legislatura Ricardo Rojas {'cant': 0}
-Legislatura Legislatura {'cant': 12}
-Legislatura Parque Las Heras {'cant': 5}
-Legislatura nan {'cant': 0}
-Legislatura Retiro {'cant': 6}
-Legislatura Galerías Pacífico {'cant': 0}
-Legislatura Plaza Houssay {'cant': 0}
-Legislatura Plaza Vicente López {'cant': 3}
-Legislatura Piedras {'cant': 0}
-Legislatura Diagonal Norte {'cant': 1}
-Legislatura Obelisco {'cant': 0}
-Legislatura Plaza Roma {'cant': 3}
-Legislatura Aduana {'cant': 5}
-Legislatura Parque Patricios {'cant': 0}
-Legislatura Catedral {'cant': 1}
-Legislatura Once {'cant': 9}
-Legislatura Santiago del Estero {'cant': 1}
-Legislatura Maipú {'cant': 0}
-Legislatura Plaza Güemes {'cant': 1}
-Legislatura Plaza Almagro {'cant': 1}
-Legislatura Montevideo {'cant': 1}
-Legislatura Alsina {'cant': 0}
-Legislatura Peña {'cant': 0}
-Legislatura Cochabamba {'cant': 1}
-Legislatura Pacífico {'cant': 0}
-Plaza Libertad Plaza Vicente López {'cant': 26}
-Plaza Libertad Parque Las Heras {'cant': 12}
-Plaza Libertad Suipacha {'cant': 4}
-Plaza Libertad Facultad de Medicina {'cant': 11}
-Plaza Libertad Retiro {'cant': 2}
-Plaza Libertad Facultad de Derecho {'cant': 3}
-Plaza Libertad Pacífico {'cant': 4}
-Plaza Libertad Plaza Libertad {'cant': 6}
-Plaza Libertad Emilio Mitre {'cant': 2}
-Plaza Libertad Plaza Palermo Viejo {'cant': 0}
-Plaza Libertad Plaza Houssay {'cant': 3}
-Plaza Libertad Peña {'cant': 15}
-Plaza Libertad Diagonal Norte {'cant': 0}
-Plaza Libertad Distrito Audiovisual {'cant': 0}
-Plaza Libertad Parque Centenario {'cant': 3}
-Plaza Libertad Independencia {'cant': 5}
-Plaza Libertad Plaza San Martín {'cant': 1}
-Plaza Libertad nan {'cant': 4}
-Plaza Libertad Plaza Italia {'cant': 2}
-Plaza Libertad Congreso {'cant': 0}
-Plaza Libertad Chile {'cant': 3}
-Plaza Libertad Obelisco {'cant': 2}
-Plaza Libertad Plaza Güemes {'cant': 2}
-Plaza Libertad Tucumán {'cant': 0}
-Plaza Libertad Arenales {'cant': 4}
-Plaza Libertad Montevideo {'cant': 3}
-Plaza Libertad Plaza Almagro {'cant': 0}
-Plaza Libertad Aduana {'cant': 0}
-Plaza Libertad Tribunales {'cant': 3}
-Plaza Libertad Parque Lezama {'cant': 1}
-Plaza Libertad Alsina {'cant': 0}
-Plaza Libertad Urquiza {'cant': 0}
-Plaza Libertad Legislatura {'cant': 0}
-Plaza Libertad Once {'cant': 0}
-Plaza Libertad Plaza Roma {'cant': 2}
-Alsina Congreso {'cant': 17}
-Alsina Alsina {'cant': 14}
-Alsina Suipacha {'cant': 7}
-Alsina Juana Manso {'cant': 2}
+Independencia 25 de Mayo {'cant': 1}
+Independencia Caseros {'cant': 7}
+Independencia Emilio Mitre {'cant': 0}
+Independencia Catedral {'cant': 3}
+Independencia Ingeniero Butty {'cant': 0}
+Independencia Santiago del Estero {'cant': 18}
+Independencia Cochabamba {'cant': 8}
+Plaza Almagro Congreso {'cant': 35}
+Plaza Almagro Plaza Almagro {'cant': 329}
+Plaza Almagro Plaza Güemes {'cant': 231}
+Plaza Almagro Parque Las Heras {'cant': 219}
+Plaza Almagro Parque Centenario {'cant': 259}
+Plaza Almagro Retiro {'cant': 15}
+Plaza Almagro Plaza Houssay {'cant': 33}
+Plaza Almagro nan {'cant': 25}
+Plaza Almagro Peña {'cant': 39}
+Plaza Almagro Plaza Italia {'cant': 100}
+Plaza Almagro Ministro Carranza {'cant': 5}
+Plaza Almagro Córdoba {'cant': 2}
+Plaza Almagro Pacífico {'cant': 72}
+Plaza Almagro Plaza Boedo {'cant': 192}
+Plaza Almagro Once {'cant': 123}
+Plaza Almagro Madero UCA {'cant': 9}
+Plaza Almagro Tribunales {'cant': 12}
+Plaza Almagro Legislatura {'cant': 4}
+Plaza Almagro Coronel Díaz {'cant': 2}
+Plaza Almagro Montevideo {'cant': 65}
+Plaza Almagro Plaza Palermo Viejo {'cant': 16}
+Plaza Almagro Galerías Pacífico {'cant': 7}
+Plaza Almagro Suipacha {'cant': 11}
+Plaza Almagro Aduana {'cant': 7}
+Plaza Almagro Facultad de Derecho {'cant': 42}
+Plaza Almagro Maipú {'cant': 33}
+Plaza Almagro Rivarola {'cant': 4}
+Plaza Almagro Sarmiento {'cant': 0}
+Plaza Almagro Distrito Audiovisual {'cant': 31}
+Plaza Almagro Urquiza {'cant': 20}
+Plaza Almagro Facultad de Medicina {'cant': 17}
+Plaza Almagro Sánchez de Bustamante {'cant': 0}
+Plaza Almagro Parque Lezama {'cant': 18}
+Plaza Almagro Plaza Vicente López {'cant': 9}
+Plaza Almagro Ecoparque {'cant': 14}
+Plaza Almagro Chile {'cant': 7}
+Plaza Almagro Perón {'cant': 0}
+Plaza Almagro Ricardo Rojas {'cant': 0}
+Plaza Almagro Obelisco {'cant': 9}
+Plaza Almagro Alsina {'cant': 8}
+Plaza Almagro Plaza Libertad {'cant': 3}
+Plaza Almagro Ayacucho {'cant': 5}
+Plaza Almagro Juana Manso {'cant': 0}
+Plaza Almagro Arenales {'cant': 5}
+Plaza Almagro Independencia {'cant': 47}
+Plaza Almagro Tucumán {'cant': 0}
+Plaza Almagro Piedras {'cant': 4}
+Plaza Almagro Diagonal Norte {'cant': 1}
+Plaza Almagro Parque Patricios {'cant': 4}
+Plaza Almagro Plaza San Martín {'cant': 3}
+Plaza Almagro Plaza Roma {'cant': 1}
+Plaza Almagro Emilio Mitre {'cant': 0}
+Plaza Almagro Cochabamba {'cant': 2}
+Plaza Almagro Caseros {'cant': 0}
+Plaza Almagro Santiago del Estero {'cant': 10}
+Plaza Almagro Catedral {'cant': 1}
+Congreso Independencia {'cant': 218}
+Congreso Plaza Boedo {'cant': 80}
+Congreso Congreso {'cant': 289}
+Congreso Once {'cant': 152}
+Congreso Ministro Carranza {'cant': 4}
+Congreso Plaza Güemes {'cant': 32}
+Congreso Plaza Italia {'cant': 17}
+Congreso Parque Las Heras {'cant': 59}
+Congreso Juana Manso {'cant': 12}
+Congreso Madero UCA {'cant': 32}
+Congreso Parque Lezama {'cant': 48}
+Congreso Plaza Vicente López {'cant': 33}
+Congreso Alsina {'cant': 36}
+Congreso Plaza Almagro {'cant': 71}
+Congreso Arenales {'cant': 17}
+Congreso Retiro {'cant': 74}
+Congreso Ecoparque {'cant': 7}
+Congreso Montevideo {'cant': 75}
+Congreso Tribunales {'cant': 32}
+Congreso Plaza San Martín {'cant': 10}
+Congreso nan {'cant': 27}
+Congreso Parque Patricios {'cant': 18}
+Congreso Ayacucho {'cant': 6}
+Congreso Chile {'cant': 51}
+Congreso Tucumán {'cant': 49}
+Congreso Aduana {'cant': 12}
+Congreso Coronel Díaz {'cant': 4}
+Congreso Plaza Houssay {'cant': 57}
+Congreso Legislatura {'cant': 29}
+Congreso Plaza Roma {'cant': 4}
+Congreso Peña {'cant': 13}
+Congreso Facultad de Derecho {'cant': 18}
+Congreso Distrito Audiovisual {'cant': 14}
+Congreso Facultad de Medicina {'cant': 33}
+Congreso Parque Centenario {'cant': 80}
+Congreso Plaza Libertad {'cant': 17}
+Congreso Pacífico {'cant': 18}
+Congreso Urquiza {'cant': 21}
+Congreso Obelisco {'cant': 22}
+Congreso Belgrano {'cant': 0}
+Congreso Julián Álvarez {'cant': 0}
+Congreso Ingeniero Butty {'cant': 0}
+Congreso Plaza Palermo Viejo {'cant': 1}
+Congreso Suipacha {'cant': 20}
+Congreso Córdoba {'cant': 2}
+Congreso Galerías Pacífico {'cant': 9}
+Congreso Caseros {'cant': 3}
+Congreso Sarmiento {'cant': 5}
+Congreso Piedras {'cant': 4}
+Congreso 25 de Mayo {'cant': 1}
+Congreso Catedral {'cant': 1}
+Congreso Maipú {'cant': 2}
+Congreso Diagonal Norte {'cant': 0}
+Congreso Santiago del Estero {'cant': 14}
+Congreso Emilio Mitre {'cant': 2}
+Congreso Cochabamba {'cant': 8}
+Alsina Parque Lezama {'cant': 102}
+Alsina Alsina {'cant': 75}
+Alsina Parque Patricios {'cant': 14}
+Alsina Plaza Boedo {'cant': 44}
+Alsina Parque Centenario {'cant': 37}
+Alsina Plaza Houssay {'cant': 18}
+Alsina Obelisco {'cant': 29}
+Alsina Plaza Güemes {'cant': 42}
+Alsina Plaza Italia {'cant': 9}
+Alsina Ecoparque {'cant': 3}
+Alsina Aduana {'cant': 32}
+Alsina Facultad de Derecho {'cant': 11}
+Alsina Montevideo {'cant': 11}
+Alsina Parque Las Heras {'cant': 44}
+Alsina Chile {'cant': 11}
+Alsina Congreso {'cant': 58}
+Alsina nan {'cant': 15}
+Alsina Peña {'cant': 33}
+Alsina Independencia {'cant': 125}
+Alsina Once {'cant': 73}
+Alsina Retiro {'cant': 16}
+Alsina Diagonal Norte {'cant': 3}
+Alsina Rivarola {'cant': 4}
+Alsina Distrito Audiovisual {'cant': 13}
+Alsina Madero UCA {'cant': 31}
+Alsina Plaza Vicente López {'cant': 34}
+Alsina Juana Manso {'cant': 10}
+Alsina Arenales {'cant': 13}
+Alsina Belgrano {'cant': 0}
+Alsina Plaza Almagro {'cant': 52}
+Alsina Ayacucho {'cant': 0}
+Alsina Córdoba {'cant': 2}
+Alsina Urquiza {'cant': 11}
+Alsina Catedral {'cant': 3}
+Alsina Suipacha {'cant': 17}
+Alsina Pacífico {'cant': 12}
+Alsina 25 de Mayo {'cant': 0}
 Alsina Piedras {'cant': 1}
-Alsina Peña {'cant': 5}
-Alsina Catedral {'cant': 0}
-Alsina Chile {'cant': 3}
-Alsina Independencia {'cant': 46}
-Alsina Legislatura {'cant': 4}
-Alsina Obelisco {'cant': 5}
-Alsina Once {'cant': 8}
-Alsina Urquiza {'cant': 4}
-Alsina nan {'cant': 2}
-Alsina Parque Lezama {'cant': 17}
-Alsina Madero UCA {'cant': 4}
-Alsina 25 de Mayo {'cant': 2}
-Alsina Arenales {'cant': 1}
-Alsina Plaza Houssay {'cant': 2}
-Alsina Diagonal Norte {'cant': 1}
-Alsina Plaza Boedo {'cant': 6}
-Alsina Facultad de Derecho {'cant': 2}
-Alsina Parque Centenario {'cant': 4}
-Alsina Montevideo {'cant': 4}
-Alsina Plaza Güemes {'cant': 8}
-Alsina Pacífico {'cant': 0}
-Alsina Plaza Almagro {'cant': 5}
-Alsina Plaza Vicente López {'cant': 0}
-Alsina Plaza Libertad {'cant': 1}
-Alsina Plaza San Martín {'cant': 2}
-Alsina Maipú {'cant': 0}
-Alsina Retiro {'cant': 1}
-Alsina Plaza Roma {'cant': 0}
-Alsina Parque Las Heras {'cant': 2}
-Alsina Tribunales {'cant': 1}
-Alsina Aduana {'cant': 1}
-Alsina Santiago del Estero {'cant': 2}
-Alsina Cochabamba {'cant': 2}
-Alsina Ingeniero Butty {'cant': 0}
-Montevideo Distrito Audiovisual {'cant': 8}
-Montevideo Tucumán {'cant': 0}
-Montevideo Arenales {'cant': 4}
-Montevideo Juana Manso {'cant': 1}
-Montevideo Plaza Boedo {'cant': 13}
-Montevideo Montevideo {'cant': 30}
-Montevideo Once {'cant': 22}
-Montevideo Peña {'cant': 11}
-Montevideo Plaza Vicente López {'cant': 10}
-Montevideo Plaza Italia {'cant': 10}
-Montevideo Parque Las Heras {'cant': 26}
-Montevideo Plaza Almagro {'cant': 13}
-Montevideo Córdoba {'cant': 4}
-Montevideo Congreso {'cant': 20}
-Montevideo Independencia {'cant': 13}
-Montevideo Parque Centenario {'cant': 5}
-Montevideo Ecoparque {'cant': 5}
-Montevideo Plaza Palermo Viejo {'cant': 0}
-Montevideo Plaza Güemes {'cant': 7}
-Montevideo Plaza Houssay {'cant': 6}
-Montevideo Pacífico {'cant': 12}
-Montevideo Tribunales {'cant': 13}
-Montevideo Facultad de Derecho {'cant': 6}
-Montevideo Facultad de Medicina {'cant': 3}
-Montevideo Plaza Libertad {'cant': 7}
-Montevideo Plaza Roma {'cant': 2}
-Montevideo Chile {'cant': 1}
-Montevideo nan {'cant': 3}
-Montevideo Madero UCA {'cant': 2}
-Montevideo Suipacha {'cant': 22}
-Montevideo Galerías Pacífico {'cant': 0}
-Montevideo Retiro {'cant': 0}
-Montevideo Plaza San Martín {'cant': 0}
-Montevideo Santiago del Estero {'cant': 1}
-Montevideo Alsina {'cant': 5}
-Montevideo Parque Lezama {'cant': 7}
-Montevideo Urquiza {'cant': 1}
-Montevideo Ingeniero Butty {'cant': 1}
-Montevideo Aduana {'cant': 0}
-Montevideo Legislatura {'cant': 2}
-Montevideo Cochabamba {'cant': 3}
-Montevideo Obelisco {'cant': 0}
-Plaza San Martín Pacífico {'cant': 6}
-Plaza San Martín Alsina {'cant': 7}
-Plaza San Martín Facultad de Derecho {'cant': 7}
-Plaza San Martín Retiro {'cant': 8}
-Plaza San Martín Ingeniero Butty {'cant': 0}
-Plaza San Martín Plaza San Martín {'cant': 19}
-Plaza San Martín Montevideo {'cant': 7}
-Plaza San Martín Plaza Houssay {'cant': 9}
-Plaza San Martín Plaza Vicente López {'cant': 18}
-Plaza San Martín Parque Las Heras {'cant': 18}
-Plaza San Martín Distrito Audiovisual {'cant': 1}
-Plaza San Martín Ricardo Rojas {'cant': 2}
-Plaza San Martín Peña {'cant': 8}
-Plaza San Martín Córdoba {'cant': 6}
-Plaza San Martín Tribunales {'cant': 1}
-Plaza San Martín Facultad de Medicina {'cant': 8}
-Plaza San Martín Plaza Boedo {'cant': 1}
-Plaza San Martín Plaza Libertad {'cant': 2}
-Plaza San Martín Piedras {'cant': 2}
-Plaza San Martín Plaza Palermo Viejo {'cant': 0}
-Plaza San Martín Arenales {'cant': 5}
-Plaza San Martín Plaza Italia {'cant': 4}
-Plaza San Martín Independencia {'cant': 6}
-Plaza San Martín Congreso {'cant': 5}
-Plaza San Martín Legislatura {'cant': 28}
-Plaza San Martín nan {'cant': 2}
-Plaza San Martín Parque Lezama {'cant': 23}
-Plaza San Martín Galerías Pacífico {'cant': 2}
-Plaza San Martín Ecoparque {'cant': 0}
-Plaza San Martín Obelisco {'cant': 0}
-Plaza San Martín Plaza Almagro {'cant': 5}
-Plaza San Martín Plaza Roma {'cant': 2}
-Plaza San Martín Maipú {'cant': 2}
-Plaza San Martín Juana Manso {'cant': 2}
-Plaza San Martín Once {'cant': 2}
-Plaza San Martín 25 de Mayo {'cant': 0}
-Plaza San Martín Aduana {'cant': 2}
-Plaza San Martín Plaza Güemes {'cant': 8}
-Plaza San Martín Suipacha {'cant': 1}
-Plaza San Martín Emilio Mitre {'cant': 0}
-Plaza San Martín Madero UCA {'cant': 0}
-Plaza San Martín Parque Centenario {'cant': 1}
-Belgrano Retiro {'cant': 0}
-Belgrano Facultad de Derecho {'cant': 0}
-Belgrano Madero UCA {'cant': 0}
-Belgrano Plaza Boedo {'cant': 0}
-Belgrano Plaza Italia {'cant': 0}
-Belgrano Parque Lezama {'cant': 0}
-Belgrano Peña {'cant': 1}
-Belgrano Independencia {'cant': 0}
-Sarmiento Congreso {'cant': 1}
-Sarmiento Plaza Houssay {'cant': 0}
-Sarmiento Montevideo {'cant': 2}
-Sarmiento Madero UCA {'cant': 0}
-Sarmiento Galerías Pacífico {'cant': 0}
-Sarmiento Chile {'cant': 0}
-Sarmiento Alsina {'cant': 1}
-Sarmiento 25 de Mayo {'cant': 0}
-Sarmiento Retiro {'cant': 1}
-Sarmiento Facultad de Derecho {'cant': 0}
-Sarmiento Tribunales {'cant': 0}
-Sarmiento Plaza Boedo {'cant': 1}
-Sarmiento Parque Lezama {'cant': 0}
-Sarmiento Plaza Güemes {'cant': 0}
-Sarmiento Independencia {'cant': 0}
-Sarmiento Plaza Almagro {'cant': 0}
-Sarmiento Sarmiento {'cant': 0}
-Sarmiento Plaza Vicente López {'cant': 1}
-Juana Manso Parque Lezama {'cant': 32}
-Juana Manso Madero UCA {'cant': 19}
-Juana Manso Congreso {'cant': 5}
-Juana Manso Plaza Roma {'cant': 7}
-Juana Manso Juana Manso {'cant': 37}
-Juana Manso Pacífico {'cant': 4}
-Juana Manso Plaza Boedo {'cant': 5}
-Juana Manso Diagonal Norte {'cant': 2}
-Juana Manso Suipacha {'cant': 3}
-Juana Manso Julián Álvarez {'cant': 2}
-Juana Manso Independencia {'cant': 11}
-Juana Manso Rivarola {'cant': 0}
-Juana Manso Plaza Libertad {'cant': 1}
-Juana Manso Galerías Pacífico {'cant': 1}
-Juana Manso Aduana {'cant': 6}
-Juana Manso Córdoba {'cant': 5}
+Alsina Facultad de Medicina {'cant': 12}
+Alsina Tribunales {'cant': 12}
+Alsina Plaza Libertad {'cant': 11}
+Alsina Legislatura {'cant': 7}
+Alsina Sarmiento {'cant': 3}
+Alsina Plaza San Martín {'cant': 6}
+Alsina Ingeniero Butty {'cant': 2}
+Alsina Perón {'cant': 1}
+Alsina Maipú {'cant': 3}
+Alsina Santiago del Estero {'cant': 15}
+Alsina Plaza Roma {'cant': 4}
+Alsina Cochabamba {'cant': 3}
+Alsina Plaza Vicente Lopez {'cant': 0}
+Plaza Boedo Plaza Boedo {'cant': 257}
+Plaza Boedo Congreso {'cant': 35}
+Plaza Boedo Parque Las Heras {'cant': 72}
+Plaza Boedo nan {'cant': 21}
+Plaza Boedo Plaza Güemes {'cant': 78}
+Plaza Boedo Plaza Almagro {'cant': 109}
+Plaza Boedo Independencia {'cant': 58}
+Plaza Boedo Plaza Houssay {'cant': 16}
+Plaza Boedo Facultad de Derecho {'cant': 2}
+Plaza Boedo Plaza Italia {'cant': 76}
+Plaza Boedo Alsina {'cant': 7}
+Plaza Boedo Retiro {'cant': 3}
+Plaza Boedo Parque Centenario {'cant': 60}
+Plaza Boedo Parque Patricios {'cant': 44}
+Plaza Boedo Urquiza {'cant': 61}
+Plaza Boedo Arenales {'cant': 4}
+Plaza Boedo Coronel Díaz {'cant': 0}
+Plaza Boedo Juana Manso {'cant': 3}
+Plaza Boedo Parque Lezama {'cant': 66}
+Plaza Boedo Chile {'cant': 7}
+Plaza Boedo Pacífico {'cant': 28}
+Plaza Boedo Galerías Pacífico {'cant': 4}
+Plaza Boedo Once {'cant': 42}
+Plaza Boedo Montevideo {'cant': 6}
+Plaza Boedo Obelisco {'cant': 6}
+Plaza Boedo Ecoparque {'cant': 1}
+Plaza Boedo Plaza Libertad {'cant': 5}
+Plaza Boedo Peña {'cant': 5}
+Plaza Boedo Plaza Vicente López {'cant': 0}
+Plaza Boedo Madero UCA {'cant': 14}
+Plaza Boedo Ayacucho {'cant': 0}
+Plaza Boedo Legislatura {'cant': 5}
+Plaza Boedo Distrito Audiovisual {'cant': 12}
+Plaza Boedo Plaza Roma {'cant': 3}
+Plaza Boedo Perón {'cant': 2}
+Plaza Boedo Plaza Palermo Viejo {'cant': 3}
+Plaza Boedo Emilio Mitre {'cant': 1}
+Plaza Boedo Facultad de Medicina {'cant': 8}
+Plaza Boedo Tribunales {'cant': 6}
+Plaza Boedo Aduana {'cant': 2}
+Plaza Boedo Maipú {'cant': 1}
+Plaza Boedo Plaza San Martín {'cant': 2}
+Plaza Boedo Suipacha {'cant': 16}
+Plaza Boedo Santiago del Estero {'cant': 20}
+Plaza Boedo Ingeniero Butty {'cant': 0}
+Plaza Boedo Cochabamba {'cant': 9}
+Plaza Boedo Catedral {'cant': 1}
+Plaza Italia Juana Manso {'cant': 1}
+Plaza Italia Parque Las Heras {'cant': 157}
+Plaza Italia Independencia {'cant': 23}
+Plaza Italia Pacífico {'cant': 158}
+Plaza Italia Suipacha {'cant': 12}
+Plaza Italia Once {'cant': 33}
+Plaza Italia Congreso {'cant': 12}
+Plaza Italia Plaza Palermo Viejo {'cant': 18}
+Plaza Italia Plaza Güemes {'cant': 166}
+Plaza Italia Coronel Díaz {'cant': 5}
+Plaza Italia Urquiza {'cant': 3}
+Plaza Italia Plaza Italia {'cant': 309}
+Plaza Italia Plaza Boedo {'cant': 26}
+Plaza Italia Distrito Audiovisual {'cant': 92}
+Plaza Italia Julián Álvarez {'cant': 4}
+Plaza Italia Facultad de Derecho {'cant': 98}
+Plaza Italia Rivarola {'cant': 0}
+Plaza Italia Ayacucho {'cant': 2}
+Plaza Italia Arenales {'cant': 26}
+Plaza Italia Peña {'cant': 59}
+Plaza Italia Plaza Houssay {'cant': 48}
+Plaza Italia Montevideo {'cant': 18}
+Plaza Italia nan {'cant': 35}
+Plaza Italia Ecoparque {'cant': 69}
+Plaza Italia Parque Centenario {'cant': 84}
+Plaza Italia Parque Lezama {'cant': 12}
+Plaza Italia Plaza Almagro {'cant': 94}
+Plaza Italia Córdoba {'cant': 2}
+Plaza Italia Plaza Vicente López {'cant': 66}
+Plaza Italia Diagonal Norte {'cant': 1}
+Plaza Italia Ministro Carranza {'cant': 13}
+Plaza Italia Chile {'cant': 1}
+Plaza Italia Ingeniero Butty {'cant': 2}
+Plaza Italia Facultad de Medicina {'cant': 29}
+Plaza Italia Emilio Mitre {'cant': 4}
+Plaza Italia Padilla {'cant': 0}
+Plaza Italia Alsina {'cant': 9}
+Plaza Italia Tribunales {'cant': 8}
+Plaza Italia Retiro {'cant': 28}
+Plaza Italia Aduana {'cant': 5}
+Plaza Italia Legislatura {'cant': 5}
+Plaza Italia Maipú {'cant': 1}
+Plaza Italia Galerías Pacífico {'cant': 1}
+Plaza Italia 25 de Mayo {'cant': 0}
+Plaza Italia Plaza San Martín {'cant': 4}
+Plaza Italia Obelisco {'cant': 3}
+Plaza Italia Plaza Libertad {'cant': 5}
+Plaza Italia Madero UCA {'cant': 2}
+Plaza Italia Sarmiento {'cant': 0}
+Plaza Italia Plaza Roma {'cant': 0}
+Plaza Italia Santiago del Estero {'cant': 2}
+Plaza Italia Parque Patricios {'cant': 0}
+Plaza Italia Cochabamba {'cant': 1}
+Plaza Italia Catedral {'cant': 2}
+Juana Manso Facultad de Derecho {'cant': 6}
+Juana Manso Aduana {'cant': 12}
+Juana Manso Madero UCA {'cant': 24}
+Juana Manso Parque Lezama {'cant': 28}
+Juana Manso Plaza Almagro {'cant': 5}
+Juana Manso Juana Manso {'cant': 74}
+Juana Manso Maipú {'cant': 4}
+Juana Manso Arenales {'cant': 4}
+Juana Manso Parque Centenario {'cant': 8}
+Juana Manso Plaza Boedo {'cant': 3}
+Juana Manso Plaza Roma {'cant': 23}
+Juana Manso Plaza Vicente López {'cant': 8}
+Juana Manso Pacífico {'cant': 13}
+Juana Manso Tribunales {'cant': 17}
+Juana Manso Ministro Carranza {'cant': 0}
+Juana Manso Diagonal Norte {'cant': 3}
+Juana Manso Chile {'cant': 5}
+Juana Manso Retiro {'cant': 58}
+Juana Manso Julián Álvarez {'cant': 0}
+Juana Manso Congreso {'cant': 13}
+Juana Manso Peña {'cant': 8}
+Juana Manso Independencia {'cant': 16}
+Juana Manso Ingeniero Butty {'cant': 9}
+Juana Manso Montevideo {'cant': 7}
+Juana Manso Plaza Libertad {'cant': 10}
+Juana Manso Ayacucho {'cant': 0}
+Juana Manso Galerías Pacífico {'cant': 5}
+Juana Manso Legislatura {'cant': 8}
+Juana Manso Plaza San Martín {'cant': 13}
 Juana Manso Facultad de Medicina {'cant': 3}
-Juana Manso Plaza Vicente López {'cant': 0}
-Juana Manso Parque Las Heras {'cant': 4}
-Juana Manso Plaza Italia {'cant': 4}
-Juana Manso Montevideo {'cant': 0}
-Juana Manso Tribunales {'cant': 7}
-Juana Manso Obelisco {'cant': 5}
-Juana Manso Distrito Audiovisual {'cant': 1}
-Juana Manso Piedras {'cant': 1}
-Juana Manso Alsina {'cant': 0}
-Juana Manso nan {'cant': 1}
-Juana Manso Chile {'cant': 0}
+Juana Manso Córdoba {'cant': 6}
+Juana Manso Rivarola {'cant': 0}
+Juana Manso Plaza Italia {'cant': 1}
+Juana Manso Alsina {'cant': 12}
+Juana Manso Plaza Houssay {'cant': 2}
+Juana Manso Distrito Audiovisual {'cant': 5}
+Juana Manso Suipacha {'cant': 5}
+Juana Manso Plaza Palermo Viejo {'cant': 1}
+Juana Manso Sarmiento {'cant': 1}
+Juana Manso 25 de Mayo {'cant': 0}
+Juana Manso Parque Las Heras {'cant': 2}
+Juana Manso Catedral {'cant': 5}
+Juana Manso Obelisco {'cant': 2}
+Juana Manso Once {'cant': 2}
+Juana Manso nan {'cant': 2}
+Juana Manso Urquiza {'cant': 2}
+Juana Manso Perón {'cant': 0}
 Juana Manso Tucumán {'cant': 0}
-Juana Manso Facultad de Derecho {'cant': 3}
-Juana Manso Once {'cant': 1}
-Juana Manso Maipú {'cant': 0}
-Juana Manso Peña {'cant': 0}
-Juana Manso Plaza San Martín {'cant': 0}
-Juana Manso Arenales {'cant': 1}
-Facultad de Medicina Once {'cant': 5}
-Facultad de Medicina Ecoparque {'cant': 7}
-Facultad de Medicina Congreso {'cant': 32}
-Facultad de Medicina nan {'cant': 3}
-Facultad de Medicina Peña {'cant': 17}
-Facultad de Medicina Suipacha {'cant': 0}
-Facultad de Medicina Plaza Palermo Viejo {'cant': 1}
-Facultad de Medicina Plaza Vicente López {'cant': 9}
+Juana Manso Piedras {'cant': 0}
+Juana Manso Santiago del Estero {'cant': 1}
+Juana Manso Ecoparque {'cant': 1}
+Juana Manso Cochabamba {'cant': 0}
+Ecoparque Plaza Italia {'cant': 108}
+Ecoparque Peña {'cant': 50}
+Ecoparque Parque Las Heras {'cant': 105}
+Ecoparque Ecoparque {'cant': 72}
+Ecoparque Parque Centenario {'cant': 10}
+Ecoparque Facultad de Derecho {'cant': 38}
+Ecoparque Independencia {'cant': 8}
+Ecoparque Once {'cant': 10}
+Ecoparque nan {'cant': 52}
+Ecoparque Pacífico {'cant': 42}
+Ecoparque Plaza Palermo Viejo {'cant': 10}
+Ecoparque Plaza Vicente López {'cant': 19}
+Ecoparque Ministro Carranza {'cant': 7}
+Ecoparque Suipacha {'cant': 7}
+Ecoparque Plaza Houssay {'cant': 19}
+Ecoparque Plaza Güemes {'cant': 56}
+Ecoparque Distrito Audiovisual {'cant': 12}
+Ecoparque Retiro {'cant': 3}
+Ecoparque Ayacucho {'cant': 0}
+Ecoparque Plaza San Martín {'cant': 1}
+Ecoparque Tribunales {'cant': 2}
+Ecoparque Facultad de Medicina {'cant': 7}
+Ecoparque Plaza Almagro {'cant': 14}
+Ecoparque Arenales {'cant': 10}
+Ecoparque Julián Álvarez {'cant': 0}
+Ecoparque Plaza Libertad {'cant': 2}
+Ecoparque Congreso {'cant': 6}
+Ecoparque Montevideo {'cant': 1}
+Ecoparque Coronel Díaz {'cant': 0}
+Ecoparque Juana Manso {'cant': 1}
+Ecoparque Plaza Boedo {'cant': 2}
+Ecoparque 25 de Mayo {'cant': 0}
+Ecoparque Legislatura {'cant': 1}
+Ecoparque Ricardo Rojas {'cant': 0}
+Ecoparque Maipú {'cant': 1}
+Ecoparque Alsina {'cant': 0}
+Ecoparque Ingeniero Butty {'cant': 2}
+Ecoparque Catedral {'cant': 0}
+Ecoparque Aduana {'cant': 1}
+Suipacha Rivarola {'cant': 1}
+Suipacha Parque Centenario {'cant': 33}
+Suipacha Retiro {'cant': 37}
+Suipacha Facultad de Medicina {'cant': 8}
+Suipacha Facultad de Derecho {'cant': 13}
+Suipacha Plaza Almagro {'cant': 25}
+Suipacha Aduana {'cant': 7}
+Suipacha Suipacha {'cant': 45}
+Suipacha Congreso {'cant': 21}
+Suipacha Plaza Vicente López {'cant': 40}
+Suipacha Galerías Pacífico {'cant': 3}
+Suipacha Madero UCA {'cant': 4}
+Suipacha Tribunales {'cant': 12}
+Suipacha Parque Las Heras {'cant': 33}
+Suipacha Diagonal Norte {'cant': 11}
+Suipacha Arenales {'cant': 30}
+Suipacha Legislatura {'cant': 22}
+Suipacha Plaza Roma {'cant': 72}
+Suipacha Alsina {'cant': 112}
+Suipacha Plaza San Martín {'cant': 15}
+Suipacha 25 de Mayo {'cant': 8}
+Suipacha Juana Manso {'cant': 9}
+Suipacha Maipú {'cant': 5}
+Suipacha Pacífico {'cant': 14}
+Suipacha Independencia {'cant': 56}
+Suipacha Plaza Libertad {'cant': 15}
+Suipacha Piedras {'cant': 6}
+Suipacha Plaza Güemes {'cant': 16}
+Suipacha Chile {'cant': 5}
+Suipacha Plaza Houssay {'cant': 17}
+Suipacha Emilio Mitre {'cant': 4}
+Suipacha Peña {'cant': 33}
+Suipacha Parque Lezama {'cant': 11}
+Suipacha Obelisco {'cant': 18}
+Suipacha Once {'cant': 36}
+Suipacha Córdoba {'cant': 0}
+Suipacha Ecoparque {'cant': 0}
+Suipacha Perón {'cant': 0}
+Suipacha Urquiza {'cant': 12}
+Suipacha Ricardo Rojas {'cant': 0}
+Suipacha Montevideo {'cant': 23}
+Suipacha Plaza Boedo {'cant': 11}
+Suipacha Plaza Italia {'cant': 8}
+Suipacha nan {'cant': 4}
+Suipacha Distrito Audiovisual {'cant': 2}
+Suipacha Parque Patricios {'cant': 4}
+Suipacha Catedral {'cant': 0}
+Suipacha Santiago del Estero {'cant': 5}
+Suipacha Cochabamba {'cant': 1}
+Facultad de Medicina Facultad de Derecho {'cant': 37}
+Facultad de Medicina Plaza Italia {'cant': 21}
+Facultad de Medicina Independencia {'cant': 24}
+Facultad de Medicina Ecoparque {'cant': 11}
+Facultad de Medicina Peña {'cant': 74}
+Facultad de Medicina Plaza Güemes {'cant': 72}
+Facultad de Medicina Plaza Almagro {'cant': 32}
+Facultad de Medicina Plaza San Martín {'cant': 16}
+Facultad de Medicina Parque Las Heras {'cant': 79}
+Facultad de Medicina Retiro {'cant': 13}
+Facultad de Medicina Distrito Audiovisual {'cant': 4}
+Facultad de Medicina Ingeniero Butty {'cant': 1}
+Facultad de Medicina Pacífico {'cant': 23}
+Facultad de Medicina Facultad de Medicina {'cant': 62}
+Facultad de Medicina Aduana {'cant': 4}
 Facultad de Medicina Madero UCA {'cant': 0}
-Facultad de Medicina Plaza Güemes {'cant': 15}
-Facultad de Medicina Plaza Boedo {'cant': 0}
-Facultad de Medicina Urquiza {'cant': 7}
-Facultad de Medicina Tribunales {'cant': 3}
-Facultad de Medicina Julián Álvarez {'cant': 3}
-Facultad de Medicina Parque Las Heras {'cant': 23}
-Facultad de Medicina Parque Patricios {'cant': 2}
-Facultad de Medicina Plaza Italia {'cant': 6}
-Facultad de Medicina Plaza Almagro {'cant': 5}
-Facultad de Medicina Montevideo {'cant': 6}
-Facultad de Medicina Facultad de Medicina {'cant': 13}
-Facultad de Medicina Independencia {'cant': 6}
-Facultad de Medicina Plaza Libertad {'cant': 7}
-Facultad de Medicina Aduana {'cant': 0}
-Facultad de Medicina Perón {'cant': 0}
-Facultad de Medicina Plaza Houssay {'cant': 5}
+Facultad de Medicina Chile {'cant': 4}
+Facultad de Medicina Ministro Carranza {'cant': 0}
+Facultad de Medicina Once {'cant': 49}
+Facultad de Medicina Suipacha {'cant': 9}
+Facultad de Medicina Alsina {'cant': 5}
+Facultad de Medicina Plaza Boedo {'cant': 15}
+Facultad de Medicina Plaza Houssay {'cant': 44}
+Facultad de Medicina Montevideo {'cant': 27}
+Facultad de Medicina Coronel Díaz {'cant': 0}
+Facultad de Medicina Parque Centenario {'cant': 11}
 Facultad de Medicina Ayacucho {'cant': 0}
-Facultad de Medicina Distrito Audiovisual {'cant': 0}
-Facultad de Medicina Parque Centenario {'cant': 5}
-Facultad de Medicina Plaza San Martín {'cant': 0}
-Facultad de Medicina Pacífico {'cant': 3}
-Facultad de Medicina Maipú {'cant': 0}
-Facultad de Medicina Arenales {'cant': 2}
-Facultad de Medicina Legislatura {'cant': 2}
-Facultad de Medicina Facultad de Derecho {'cant': 3}
-Facultad de Medicina Ingeniero Butty {'cant': 0}
-Tucumán Alsina {'cant': 0}
-Tucumán Plaza Vicente López {'cant': 0}
-Tucumán Plaza Italia {'cant': 0}
-Tucumán Plaza Houssay {'cant': 2}
-Tucumán Montevideo {'cant': 1}
-Tucumán Plaza Güemes {'cant': 1}
-Tucumán Independencia {'cant': 1}
-Tucumán Congreso {'cant': 1}
-Tucumán Plaza Libertad {'cant': 0}
-Tucumán Chile {'cant': 0}
-Tucumán Plaza Almagro {'cant': 1}
-Tucumán Tribunales {'cant': 0}
-Tucumán Obelisco {'cant': 0}
-Tucumán Suipacha {'cant': 1}
-Tucumán Pacífico {'cant': 0}
-Tucumán Retiro {'cant': 1}
-Tucumán Plaza San Martín {'cant': 0}
-Tucumán nan {'cant': 0}
-Tucumán Juana Manso {'cant': 0}
-Rivarola Ayacucho {'cant': 1}
-Rivarola Legislatura {'cant': 1}
-Rivarola Madero UCA {'cant': 1}
-Rivarola Plaza Vicente López {'cant': 0}
-Rivarola Peña {'cant': 0}
-Rivarola Rivarola {'cant': 0}
-Rivarola Plaza Houssay {'cant': 0}
-Rivarola Maipú {'cant': 0}
-Rivarola Parque Centenario {'cant': 0}
-Rivarola Plaza Güemes {'cant': 0}
-Rivarola Ministro Carranza {'cant': 0}
-Rivarola Montevideo {'cant': 0}
-Galerías Pacífico Facultad de Derecho {'cant': 1}
-Galerías Pacífico Córdoba {'cant': 2}
-Galerías Pacífico 25 de Mayo {'cant': 1}
-Galerías Pacífico Galerías Pacífico {'cant': 0}
-Galerías Pacífico Parque Las Heras {'cant': 0}
-Galerías Pacífico Facultad de Medicina {'cant': 1}
-Galerías Pacífico Once {'cant': 1}
-Galerías Pacífico Juana Manso {'cant': 1}
-Galerías Pacífico Legislatura {'cant': 0}
-Galerías Pacífico Plaza San Martín {'cant': 3}
-Galerías Pacífico Peña {'cant': 2}
-Galerías Pacífico Independencia {'cant': 2}
-Galerías Pacífico Plaza Houssay {'cant': 1}
-Galerías Pacífico Maipú {'cant': 0}
-Galerías Pacífico Aduana {'cant': 1}
-Galerías Pacífico Tribunales {'cant': 1}
-Galerías Pacífico Chile {'cant': 0}
-Galerías Pacífico Plaza Almagro {'cant': 1}
-Galerías Pacífico nan {'cant': 0}
-Galerías Pacífico Plaza Vicente López {'cant': 3}
+Facultad de Medicina Plaza Roma {'cant': 2}
+Facultad de Medicina Congreso {'cant': 34}
+Facultad de Medicina Córdoba {'cant': 1}
+Facultad de Medicina Plaza Palermo Viejo {'cant': 1}
+Facultad de Medicina Urquiza {'cant': 1}
+Facultad de Medicina Parque Lezama {'cant': 7}
+Facultad de Medicina Arenales {'cant': 12}
+Facultad de Medicina Tribunales {'cant': 12}
+Facultad de Medicina Julián Álvarez {'cant': 3}
+Facultad de Medicina Plaza Libertad {'cant': 20}
+Facultad de Medicina Plaza Vicente López {'cant': 26}
+Facultad de Medicina Galerías Pacífico {'cant': 5}
+Facultad de Medicina Emilio Mitre {'cant': 3}
+Facultad de Medicina Parque Patricios {'cant': 1}
+Facultad de Medicina Rivarola {'cant': 2}
+Facultad de Medicina Obelisco {'cant': 1}
+Facultad de Medicina nan {'cant': 7}
+Facultad de Medicina Tucumán {'cant': 4}
+Facultad de Medicina Diagonal Norte {'cant': 1}
+Facultad de Medicina Sarmiento {'cant': 1}
+Facultad de Medicina Legislatura {'cant': 7}
+Facultad de Medicina Ricardo Rojas {'cant': 0}
+Facultad de Medicina Juana Manso {'cant': 1}
+Facultad de Medicina 25 de Mayo {'cant': 0}
+Facultad de Medicina Santiago del Estero {'cant': 1}
+Plaza Vicente López Facultad de Derecho {'cant': 160}
+Plaza Vicente López Parque Lezama {'cant': 34}
+Plaza Vicente López Plaza Vicente López {'cant': 231}
+Plaza Vicente López Parque Las Heras {'cant': 287}
+Plaza Vicente López Plaza Italia {'cant': 77}
+Plaza Vicente López Tribunales {'cant': 63}
+Plaza Vicente López Arenales {'cant': 83}
+Plaza Vicente López Montevideo {'cant': 90}
+Plaza Vicente López Peña {'cant': 285}
+Plaza Vicente López Plaza Güemes {'cant': 108}
+Plaza Vicente López Plaza San Martín {'cant': 42}
+Plaza Vicente López Once {'cant': 68}
+Plaza Vicente López Congreso {'cant': 68}
+Plaza Vicente López Plaza Vicente Lopez {'cant': 9}
+Plaza Vicente López Rivarola {'cant': 2}
+Plaza Vicente López Plaza Houssay {'cant': 41}
+Plaza Vicente López Pacífico {'cant': 84}
+Plaza Vicente López Galerías Pacífico {'cant': 3}
+Plaza Vicente López Parque Centenario {'cant': 38}
+Plaza Vicente López Coronel Díaz {'cant': 1}
+Plaza Vicente López Alsina {'cant': 23}
+Plaza Vicente López Independencia {'cant': 81}
+Plaza Vicente López Tucumán {'cant': 2}
+Plaza Vicente López Facultad de Medicina {'cant': 26}
+Plaza Vicente López Distrito Audiovisual {'cant': 43}
+Plaza Vicente López Urquiza {'cant': 5}
+Plaza Vicente López Legislatura {'cant': 21}
+Plaza Vicente López Retiro {'cant': 86}
+Plaza Vicente López Diagonal Norte {'cant': 4}
+Plaza Vicente López Madero UCA {'cant': 16}
+Plaza Vicente López 25 de Mayo {'cant': 12}
+Plaza Vicente López Plaza Libertad {'cant': 51}
+Plaza Vicente López nan {'cant': 22}
+Plaza Vicente López Plaza Boedo {'cant': 12}
+Plaza Vicente López Suipacha {'cant': 23}
+Plaza Vicente López Ecoparque {'cant': 31}
+Plaza Vicente López Emilio Mitre {'cant': 7}
+Plaza Vicente López Catedral {'cant': 3}
+Plaza Vicente López Córdoba {'cant': 6}
+Plaza Vicente López Ministro Carranza {'cant': 5}
+Plaza Vicente López Parque Patricios {'cant': 3}
+Plaza Vicente López Plaza Palermo Viejo {'cant': 1}
+Plaza Vicente López Plaza Roma {'cant': 29}
+Plaza Vicente López Juana Manso {'cant': 6}
+Plaza Vicente López Plaza Almagro {'cant': 23}
+Plaza Vicente López Obelisco {'cant': 8}
+Plaza Vicente López Maipú {'cant': 4}
+Plaza Vicente López Ricardo Rojas {'cant': 1}
+Plaza Vicente López Chile {'cant': 5}
+Plaza Vicente López Ayacucho {'cant': 0}
+Plaza Vicente López Aduana {'cant': 7}
+Plaza Vicente López Perón {'cant': 0}
+Plaza Vicente López Piedras {'cant': 0}
+Plaza Vicente López Santiago del Estero {'cant': 20}
+Plaza Vicente López Cochabamba {'cant': 15}
+Plaza Vicente López Sarmiento {'cant': 0}
+Plaza Vicente López Ingeniero Butty {'cant': 0}
+Distrito Audiovisual Parque Las Heras {'cant': 24}
+Distrito Audiovisual Plaza Almagro {'cant': 89}
+Distrito Audiovisual Suipacha {'cant': 7}
+Distrito Audiovisual Chile {'cant': 4}
+Distrito Audiovisual Once {'cant': 11}
+Distrito Audiovisual Parque Centenario {'cant': 44}
+Distrito Audiovisual Plaza Boedo {'cant': 33}
+Distrito Audiovisual Plaza Palermo Viejo {'cant': 9}
+Distrito Audiovisual Distrito Audiovisual {'cant': 75}
+Distrito Audiovisual Pacífico {'cant': 49}
+Distrito Audiovisual Ayacucho {'cant': 1}
+Distrito Audiovisual Ministro Carranza {'cant': 5}
+Distrito Audiovisual Montevideo {'cant': 10}
+Distrito Audiovisual Plaza Güemes {'cant': 37}
+Distrito Audiovisual Ecoparque {'cant': 8}
+Distrito Audiovisual Julián Álvarez {'cant': 3}
+Distrito Audiovisual Facultad de Derecho {'cant': 24}
+Distrito Audiovisual Plaza Italia {'cant': 31}
+Distrito Audiovisual Independencia {'cant': 19}
+Distrito Audiovisual Congreso {'cant': 21}
+Distrito Audiovisual Arenales {'cant': 3}
+Distrito Audiovisual Plaza Houssay {'cant': 7}
+Distrito Audiovisual Peña {'cant': 14}
+Distrito Audiovisual Plaza Vicente López {'cant': 9}
+Distrito Audiovisual Retiro {'cant': 3}
+Distrito Audiovisual Galerías Pacífico {'cant': 0}
+Distrito Audiovisual Emilio Mitre {'cant': 2}
+Distrito Audiovisual nan {'cant': 11}
+Distrito Audiovisual Plaza Libertad {'cant': 5}
+Distrito Audiovisual Diagonal Norte {'cant': 0}
+Distrito Audiovisual Plaza San Martín {'cant': 2}
+Distrito Audiovisual Córdoba {'cant': 0}
+Distrito Audiovisual Parque Lezama {'cant': 1}
+Distrito Audiovisual Piedras {'cant': 0}
+Distrito Audiovisual Tribunales {'cant': 1}
+Distrito Audiovisual Legislatura {'cant': 0}
+Distrito Audiovisual Urquiza {'cant': 0}
+Distrito Audiovisual Santiago del Estero {'cant': 0}
+Distrito Audiovisual Alsina {'cant': 0}
+Distrito Audiovisual Obelisco {'cant': 0}
+Catedral Parque Lezama {'cant': 10}
+Catedral Parque Centenario {'cant': 9}
+Catedral Galerías Pacífico {'cant': 14}
+Catedral Sarmiento {'cant': 4}
+Catedral Independencia {'cant': 14}
+Catedral Plaza San Martín {'cant': 4}
+Catedral Suipacha {'cant': 4}
+Catedral Retiro {'cant': 26}
+Catedral Congreso {'cant': 11}
+Catedral Madero UCA {'cant': 12}
+Catedral Juana Manso {'cant': 6}
+Catedral Chile {'cant': 9}
+Catedral Maipú {'cant': 1}
+Catedral Plaza Almagro {'cant': 2}
+Catedral Aduana {'cant': 5}
+Catedral Catedral {'cant': 11}
+Catedral Plaza Houssay {'cant': 4}
+Catedral Legislatura {'cant': 3}
+Catedral Plaza Libertad {'cant': 4}
+Catedral Tribunales {'cant': 3}
+Catedral Facultad de Medicina {'cant': 2}
+Catedral Plaza Güemes {'cant': 8}
+Catedral Parque Las Heras {'cant': 9}
+Catedral Plaza Vicente López {'cant': 6}
+Catedral Ecoparque {'cant': 0}
+Catedral Once {'cant': 13}
+Catedral Montevideo {'cant': 6}
+Catedral Peña {'cant': 10}
+Catedral Pacífico {'cant': 4}
+Catedral nan {'cant': 4}
+Catedral Obelisco {'cant': 1}
+Catedral Facultad de Derecho {'cant': 0}
+Catedral Distrito Audiovisual {'cant': 0}
+Catedral Plaza Italia {'cant': 2}
+Catedral Alsina {'cant': 6}
+Catedral Plaza Boedo {'cant': 3}
+Catedral Arenales {'cant': 4}
+Catedral 25 de Mayo {'cant': 0}
+Catedral Plaza Roma {'cant': 2}
+Catedral Piedras {'cant': 0}
+Catedral Santiago del Estero {'cant': 1}
+Catedral Urquiza {'cant': 1}
+Catedral Ingeniero Butty {'cant': 0}
+Catedral Cochabamba {'cant': 0}
+Arenales Facultad de Medicina {'cant': 45}
+Arenales Plaza Almagro {'cant': 15}
+Arenales Parque Las Heras {'cant': 215}
+Arenales Retiro {'cant': 172}
+Arenales Plaza Güemes {'cant': 51}
+Arenales Peña {'cant': 227}
+Arenales Facultad de Derecho {'cant': 79}
+Arenales Ministro Carranza {'cant': 5}
+Arenales Galerías Pacífico {'cant': 12}
+Arenales Coronel Díaz {'cant': 6}
+Arenales Ayacucho {'cant': 1}
+Arenales Plaza San Martín {'cant': 36}
+Arenales Tribunales {'cant': 15}
+Arenales Plaza Boedo {'cant': 20}
+Arenales Independencia {'cant': 65}
+Arenales Plaza Vicente López {'cant': 109}
+Arenales Parque Lezama {'cant': 16}
+Arenales Chile {'cant': 11}
+Arenales Urquiza {'cant': 18}
+Arenales Plaza Libertad {'cant': 17}
+Arenales Ecoparque {'cant': 12}
+Arenales Obelisco {'cant': 25}
+Arenales Córdoba {'cant': 4}
+Arenales Plaza Houssay {'cant': 20}
+Arenales Juana Manso {'cant': 16}
+Arenales Congreso {'cant': 42}
+Arenales Montevideo {'cant': 38}
+Arenales Plaza Roma {'cant': 29}
+Arenales Once {'cant': 46}
+Arenales Pacífico {'cant': 72}
+Arenales Plaza Palermo Viejo {'cant': 4}
+Arenales Arenales {'cant': 47}
+Arenales Parque Centenario {'cant': 13}
+Arenales Distrito Audiovisual {'cant': 19}
+Arenales Tucumán {'cant': 3}
+Arenales Legislatura {'cant': 9}
+Arenales Madero UCA {'cant': 26}
+Arenales Plaza Italia {'cant': 69}
+Arenales nan {'cant': 5}
+Arenales Ingeniero Butty {'cant': 12}
+Arenales Ricardo Rojas {'cant': 3}
+Arenales Alsina {'cant': 28}
+Arenales Emilio Mitre {'cant': 29}
+Arenales Suipacha {'cant': 27}
+Arenales Diagonal Norte {'cant': 6}
+Arenales 25 de Mayo {'cant': 6}
+Arenales Catedral {'cant': 1}
+Arenales Aduana {'cant': 1}
+Arenales Santiago del Estero {'cant': 1}
+Arenales Piedras {'cant': 0}
+Arenales Maipú {'cant': 3}
+Arenales Cochabamba {'cant': 2}
+Arenales Plaza Vicente Lopez {'cant': 0}
+Montevideo Montevideo {'cant': 73}
+Montevideo Plaza Vicente López {'cant': 95}
+Montevideo Plaza Almagro {'cant': 29}
+Montevideo Galerías Pacífico {'cant': 21}
+Montevideo Suipacha {'cant': 63}
+Montevideo Plaza Boedo {'cant': 24}
+Montevideo Juana Manso {'cant': 7}
+Montevideo Facultad de Medicina {'cant': 50}
+Montevideo Parque Las Heras {'cant': 102}
+Montevideo Arenales {'cant': 20}
+Montevideo Córdoba {'cant': 11}
+Montevideo 25 de Mayo {'cant': 0}
+Montevideo Plaza Houssay {'cant': 44}
+Montevideo nan {'cant': 24}
+Montevideo Plaza San Martín {'cant': 21}
+Montevideo Independencia {'cant': 30}
+Montevideo Peña {'cant': 96}
+Montevideo Retiro {'cant': 71}
+Montevideo Once {'cant': 45}
+Montevideo Plaza Palermo Viejo {'cant': 3}
+Montevideo Parque Patricios {'cant': 4}
+Montevideo Aduana {'cant': 13}
+Montevideo Distrito Audiovisual {'cant': 12}
+Montevideo Facultad de Derecho {'cant': 34}
+Montevideo Alsina {'cant': 23}
+Montevideo Ayacucho {'cant': 0}
+Montevideo Plaza Roma {'cant': 24}
+Montevideo Maipú {'cant': 2}
+Montevideo Congreso {'cant': 70}
+Montevideo Pacífico {'cant': 28}
+Montevideo Plaza Güemes {'cant': 72}
+Montevideo Ministro Carranza {'cant': 1}
+Montevideo Parque Centenario {'cant': 20}
+Montevideo Chile {'cant': 4}
+Montevideo Urquiza {'cant': 12}
+Montevideo Tribunales {'cant': 13}
+Montevideo Parque Lezama {'cant': 17}
+Montevideo Coronel Díaz {'cant': 0}
+Montevideo Ecoparque {'cant': 5}
+Montevideo Plaza Italia {'cant': 29}
+Montevideo Madero UCA {'cant': 9}
+Montevideo Obelisco {'cant': 18}
+Montevideo Plaza Libertad {'cant': 18}
+Montevideo Ingeniero Butty {'cant': 2}
+Montevideo Diagonal Norte {'cant': 2}
+Montevideo Legislatura {'cant': 5}
+Montevideo Tucumán {'cant': 6}
+Montevideo Sarmiento {'cant': 1}
+Montevideo Catedral {'cant': 1}
+Montevideo Santiago del Estero {'cant': 18}
+Montevideo Emilio Mitre {'cant': 3}
+Montevideo Cochabamba {'cant': 4}
+Maipú Arenales {'cant': 29}
+Maipú nan {'cant': 4}
+Maipú Parque Centenario {'cant': 42}
+Maipú Tribunales {'cant': 21}
+Maipú Aduana {'cant': 14}
+Maipú Maipú {'cant': 12}
+Maipú Plaza Roma {'cant': 11}
+Maipú Peña {'cant': 21}
+Maipú Distrito Audiovisual {'cant': 1}
+Maipú Suipacha {'cant': 8}
+Maipú Retiro {'cant': 52}
+Maipú Independencia {'cant': 36}
+Maipú Once {'cant': 41}
+Maipú Chile {'cant': 5}
+Maipú Córdoba {'cant': 1}
+Maipú Ayacucho {'cant': 1}
+Maipú Plaza Almagro {'cant': 33}
+Maipú Plaza Vicente López {'cant': 33}
+Maipú Alsina {'cant': 3}
+Maipú Pacífico {'cant': 8}
+Maipú Coronel Díaz {'cant': 0}
+Maipú Urquiza {'cant': 4}
+Maipú Parque Las Heras {'cant': 40}
+Maipú Plaza San Martín {'cant': 27}
+Maipú Madero UCA {'cant': 17}
+Maipú Piedras {'cant': 1}
+Maipú Galerías Pacífico {'cant': 8}
+Maipú Plaza Boedo {'cant': 10}
+Maipú Facultad de Medicina {'cant': 12}
+Maipú Parque Lezama {'cant': 13}
+Maipú Juana Manso {'cant': 1}
+Maipú Obelisco {'cant': 7}
+Maipú Plaza Libertad {'cant': 28}
+Maipú Diagonal Norte {'cant': 5}
+Maipú Rivarola {'cant': 0}
+Maipú Legislatura {'cant': 14}
+Maipú Montevideo {'cant': 10}
+Maipú Emilio Mitre {'cant': 4}
+Maipú Plaza Italia {'cant': 5}
+Maipú Congreso {'cant': 8}
+Maipú 25 de Mayo {'cant': 1}
+Maipú Catedral {'cant': 11}
+Maipú Plaza Houssay {'cant': 3}
+Maipú Plaza Güemes {'cant': 16}
+Maipú Parque Patricios {'cant': 0}
+Maipú Facultad de Derecho {'cant': 7}
+Maipú Santiago del Estero {'cant': 0}
+Maipú Ingeniero Butty {'cant': 2}
+Plaza Houssay Maipú {'cant': 2}
+Plaza Houssay Facultad de Derecho {'cant': 54}
+Plaza Houssay Parque Centenario {'cant': 56}
+Plaza Houssay Retiro {'cant': 27}
+Plaza Houssay Plaza Palermo Viejo {'cant': 10}
+Plaza Houssay Peña {'cant': 113}
+Plaza Houssay Parque Las Heras {'cant': 112}
+Plaza Houssay Plaza Boedo {'cant': 33}
+Plaza Houssay Independencia {'cant': 41}
+Plaza Houssay Plaza Almagro {'cant': 51}
+Plaza Houssay Once {'cant': 94}
+Plaza Houssay Congreso {'cant': 100}
+Plaza Houssay Plaza Houssay {'cant': 108}
+Plaza Houssay Plaza Vicente López {'cant': 44}
+Plaza Houssay Julián Álvarez {'cant': 4}
+Plaza Houssay Pacífico {'cant': 34}
+Plaza Houssay Plaza Italia {'cant': 43}
+Plaza Houssay Distrito Audiovisual {'cant': 11}
+Plaza Houssay nan {'cant': 16}
+Plaza Houssay Parque Lezama {'cant': 22}
+Plaza Houssay Plaza Güemes {'cant': 83}
+Plaza Houssay Montevideo {'cant': 17}
+Plaza Houssay Aduana {'cant': 4}
+Plaza Houssay Ecoparque {'cant': 8}
+Plaza Houssay Parque Patricios {'cant': 2}
+Plaza Houssay Ministro Carranza {'cant': 0}
+Plaza Houssay Plaza Libertad {'cant': 29}
+Plaza Houssay Suipacha {'cant': 31}
+Plaza Houssay Plaza San Martín {'cant': 14}
+Plaza Houssay Tribunales {'cant': 24}
+Plaza Houssay Madero UCA {'cant': 3}
+Plaza Houssay Rivarola {'cant': 3}
+Plaza Houssay Urquiza {'cant': 7}
+Plaza Houssay Arenales {'cant': 7}
+Plaza Houssay Chile {'cant': 6}
+Plaza Houssay Facultad de Medicina {'cant': 35}
+Plaza Houssay Legislatura {'cant': 18}
+Plaza Houssay Obelisco {'cant': 8}
+Plaza Houssay Galerías Pacífico {'cant': 13}
+Plaza Houssay Ayacucho {'cant': 4}
+Plaza Houssay Coronel Díaz {'cant': 0}
+Plaza Houssay Alsina {'cant': 8}
+Plaza Houssay Diagonal Norte {'cant': 2}
+Plaza Houssay Emilio Mitre {'cant': 4}
+Plaza Houssay 25 de Mayo {'cant': 1}
+Plaza Houssay Juana Manso {'cant': 4}
+Plaza Houssay Plaza Roma {'cant': 8}
+Plaza Houssay Sarmiento {'cant': 4}
+Plaza Houssay Catedral {'cant': 1}
+Plaza Houssay Santiago del Estero {'cant': 2}
+Plaza Houssay Piedras {'cant': 0}
+Urquiza Plaza Boedo {'cant': 47}
+Urquiza Plaza Roma {'cant': 0}
+Urquiza Plaza Palermo Viejo {'cant': 0}
+Urquiza Once {'cant': 11}
+Urquiza Urquiza {'cant': 52}
+Urquiza Legislatura {'cant': 0}
+Urquiza Parque Centenario {'cant': 12}
+Urquiza Plaza Almagro {'cant': 16}
+Urquiza Facultad de Derecho {'cant': 0}
+Urquiza Congreso {'cant': 6}
+Urquiza Parque Patricios {'cant': 10}
+Urquiza Plaza Italia {'cant': 22}
+Urquiza Alsina {'cant': 5}
+Urquiza Parque Lezama {'cant': 6}
+Urquiza Independencia {'cant': 5}
+Urquiza Aduana {'cant': 0}
+Urquiza Distrito Audiovisual {'cant': 0}
+Urquiza Arenales {'cant': 2}
+Urquiza Ayacucho {'cant': 0}
+Urquiza Plaza Libertad {'cant': 1}
+Urquiza Peña {'cant': 0}
+Urquiza Plaza Güemes {'cant': 12}
+Urquiza Córdoba {'cant': 0}
+Urquiza Plaza Houssay {'cant': 0}
+Urquiza Galerías Pacífico {'cant': 1}
+Urquiza Retiro {'cant': 0}
+Urquiza Parque Las Heras {'cant': 7}
+Urquiza nan {'cant': 6}
+Urquiza Facultad de Medicina {'cant': 0}
+Urquiza Plaza Vicente López {'cant': 0}
+Urquiza Pacífico {'cant': 5}
+Urquiza Santiago del Estero {'cant': 1}
+Urquiza Montevideo {'cant': 2}
+Urquiza Cochabamba {'cant': 1}
+Urquiza Suipacha {'cant': 0}
+Urquiza Obelisco {'cant': 0}
+Diagonal Norte Parque Lezama {'cant': 8}
+Diagonal Norte Plaza Vicente López {'cant': 8}
+Diagonal Norte Tribunales {'cant': 3}
+Diagonal Norte Plaza Houssay {'cant': 3}
+Diagonal Norte Maipú {'cant': 0}
+Diagonal Norte Ayacucho {'cant': 0}
+Diagonal Norte Plaza Italia {'cant': 2}
+Diagonal Norte Facultad de Derecho {'cant': 0}
+Diagonal Norte Alsina {'cant': 2}
+Diagonal Norte Once {'cant': 14}
+Diagonal Norte Madero UCA {'cant': 1}
+Diagonal Norte Diagonal Norte {'cant': 4}
+Diagonal Norte Plaza Almagro {'cant': 3}
+Diagonal Norte Ministro Carranza {'cant': 0}
+Diagonal Norte Belgrano {'cant': 1}
+Diagonal Norte Independencia {'cant': 14}
+Diagonal Norte Chile {'cant': 5}
+Diagonal Norte Ecoparque {'cant': 0}
+Diagonal Norte Parque Centenario {'cant': 6}
+Diagonal Norte Pacífico {'cant': 1}
+Diagonal Norte Plaza Palermo Viejo {'cant': 0}
+Diagonal Norte Parque Las Heras {'cant': 5}
+Diagonal Norte Plaza Güemes {'cant': 3}
+Diagonal Norte Urquiza {'cant': 2}
+Diagonal Norte Legislatura {'cant': 6}
+Diagonal Norte Plaza Boedo {'cant': 2}
+Diagonal Norte nan {'cant': 1}
+Diagonal Norte Congreso {'cant': 6}
+Diagonal Norte Obelisco {'cant': 2}
+Diagonal Norte Distrito Audiovisual {'cant': 0}
+Diagonal Norte Montevideo {'cant': 0}
+Diagonal Norte Catedral {'cant': 0}
+Diagonal Norte Retiro {'cant': 1}
+Diagonal Norte Suipacha {'cant': 4}
+Diagonal Norte Plaza San Martín {'cant': 3}
+Diagonal Norte Sarmiento {'cant': 1}
+Diagonal Norte Plaza Libertad {'cant': 1}
+Diagonal Norte Galerías Pacífico {'cant': 0}
+Diagonal Norte Arenales {'cant': 2}
+Diagonal Norte Piedras {'cant': 0}
+Diagonal Norte Emilio Mitre {'cant': 0}
+Diagonal Norte Facultad de Medicina {'cant': 1}
+Diagonal Norte Perón {'cant': 0}
+Diagonal Norte Peña {'cant': 0}
+Diagonal Norte Córdoba {'cant': 0}
+Galerías Pacífico Parque Centenario {'cant': 7}
+Galerías Pacífico Plaza Vicente López {'cant': 12}
+Galerías Pacífico Retiro {'cant': 22}
+Galerías Pacífico Córdoba {'cant': 3}
+Galerías Pacífico Facultad de Derecho {'cant': 5}
+Galerías Pacífico Maipú {'cant': 2}
+Galerías Pacífico Independencia {'cant': 26}
+Galerías Pacífico Alsina {'cant': 5}
+Galerías Pacífico Galerías Pacífico {'cant': 5}
+Galerías Pacífico Plaza Boedo {'cant': 1}
+Galerías Pacífico Plaza Libertad {'cant': 3}
+Galerías Pacífico Pacífico {'cant': 7}
+Galerías Pacífico Peña {'cant': 11}
+Galerías Pacífico Juana Manso {'cant': 9}
+Galerías Pacífico Montevideo {'cant': 5}
+Galerías Pacífico Plaza Roma {'cant': 3}
+Galerías Pacífico Ministro Carranza {'cant': 1}
+Galerías Pacífico Parque Las Heras {'cant': 14}
+Galerías Pacífico Madero UCA {'cant': 7}
+Galerías Pacífico Plaza San Martín {'cant': 9}
+Galerías Pacífico Plaza Houssay {'cant': 4}
+Galerías Pacífico Tribunales {'cant': 4}
+Galerías Pacífico Urquiza {'cant': 2}
+Galerías Pacífico nan {'cant': 3}
+Galerías Pacífico Ricardo Rojas {'cant': 0}
+Galerías Pacífico Chile {'cant': 2}
+Galerías Pacífico Ecoparque {'cant': 1}
+Galerías Pacífico 25 de Mayo {'cant': 0}
+Galerías Pacífico Suipacha {'cant': 4}
+Galerías Pacífico Arenales {'cant': 7}
+Galerías Pacífico Catedral {'cant': 5}
+Galerías Pacífico Parque Lezama {'cant': 2}
+Galerías Pacífico Once {'cant': 3}
+Galerías Pacífico Legislatura {'cant': 7}
+Galerías Pacífico Congreso {'cant': 1}
+Galerías Pacífico Plaza Italia {'cant': 0}
 Galerías Pacífico Sarmiento {'cant': 0}
-Galerías Pacífico Montevideo {'cant': 0}
-Galerías Pacífico Catedral {'cant': 0}
-Caseros nan {'cant': 0}
-Caseros Parque Patricios {'cant': 2}
-Caseros Madero UCA {'cant': 0}
-Caseros Parque Centenario {'cant': 0}
-Caseros Caseros {'cant': 0}
-Caseros Parque Las Heras {'cant': 1}
-Caseros Urquiza {'cant': 0}
-Caseros Plaza Güemes {'cant': 2}
-Caseros Peña {'cant': 0}
-Caseros Plaza Roma {'cant': 3}
-Caseros Plaza Almagro {'cant': 0}
-Plaza Roma Montevideo {'cant': 1}
-Plaza Roma Plaza Roma {'cant': 14}
-Plaza Roma Juana Manso {'cant': 7}
-Plaza Roma Pacífico {'cant': 6}
-Plaza Roma Tribunales {'cant': 11}
-Plaza Roma Peña {'cant': 5}
-Plaza Roma Piedras {'cant': 1}
-Plaza Roma Plaza Güemes {'cant': 5}
-Plaza Roma Parque Lezama {'cant': 17}
-Plaza Roma Plaza Boedo {'cant': 1}
-Plaza Roma 25 de Mayo {'cant': 1}
-Plaza Roma Belgrano {'cant': 0}
-Plaza Roma Retiro {'cant': 3}
-Plaza Roma Perón {'cant': 0}
-Plaza Roma Plaza San Martín {'cant': 3}
-Plaza Roma Chile {'cant': 1}
-Plaza Roma Rivarola {'cant': 0}
-Plaza Roma Facultad de Derecho {'cant': 3}
-Plaza Roma Parque Las Heras {'cant': 13}
-Plaza Roma Madero UCA {'cant': 9}
-Plaza Roma Galerías Pacífico {'cant': 1}
-Plaza Roma Aduana {'cant': 5}
-Plaza Roma Arenales {'cant': 2}
-Plaza Roma Plaza Libertad {'cant': 2}
-Plaza Roma Ecoparque {'cant': 1}
-Plaza Roma Independencia {'cant': 2}
-Plaza Roma Suipacha {'cant': 3}
-Plaza Roma Plaza Italia {'cant': 0}
-Plaza Roma Once {'cant': 7}
-Plaza Roma Congreso {'cant': 0}
-Plaza Roma Parque Centenario {'cant': 4}
-Plaza Roma Plaza Vicente López {'cant': 1}
-Plaza Roma Plaza Houssay {'cant': 2}
-Plaza Roma Alsina {'cant': 2}
-Plaza Roma Catedral {'cant': 0}
-Plaza Roma Plaza Almagro {'cant': 0}
-Plaza Roma Distrito Audiovisual {'cant': 0}
-Plaza Roma Obelisco {'cant': 5}
-Plaza Roma Cochabamba {'cant': 0}
-Plaza Roma Ingeniero Butty {'cant': 0}
-Ricardo Rojas Ecoparque {'cant': 1}
-Ricardo Rojas Facultad de Derecho {'cant': 2}
-Ricardo Rojas Plaza Italia {'cant': 1}
-Ricardo Rojas Legislatura {'cant': 0}
-Ricardo Rojas Plaza Vicente López {'cant': 0}
-Ricardo Rojas Ricardo Rojas {'cant': 0}
-Ricardo Rojas Pacífico {'cant': 0}
-Ricardo Rojas Plaza Libertad {'cant': 0}
-Ricardo Rojas Peña {'cant': 0}
-25 de Mayo Galerías Pacífico {'cant': 0}
-25 de Mayo Peña {'cant': 2}
-25 de Mayo 25 de Mayo {'cant': 2}
-25 de Mayo nan {'cant': 9}
-25 de Mayo Congreso {'cant': 0}
-25 de Mayo Plaza Palermo Viejo {'cant': 0}
-25 de Mayo Catedral {'cant': 2}
-25 de Mayo Plaza Libertad {'cant': 1}
-25 de Mayo Arenales {'cant': 0}
-25 de Mayo Plaza Vicente López {'cant': 0}
-25 de Mayo Parque Las Heras {'cant': 0}
-25 de Mayo Plaza Houssay {'cant': 0}
-25 de Mayo Retiro {'cant': 0}
-Córdoba Julián Álvarez {'cant': 0}
-Córdoba Galerías Pacífico {'cant': 0}
-Córdoba nan {'cant': 8}
-Córdoba Plaza Italia {'cant': 0}
-Córdoba Juana Manso {'cant': 0}
-Córdoba Chile {'cant': 1}
-Córdoba 25 de Mayo {'cant': 0}
-Córdoba Parque Las Heras {'cant': 2}
-Córdoba Plaza Vicente López {'cant': 2}
+Galerías Pacífico Plaza Almagro {'cant': 0}
+Galerías Pacífico Facultad de Medicina {'cant': 1}
+Galerías Pacífico Plaza Güemes {'cant': 0}
+Galerías Pacífico Obelisco {'cant': 1}
+Plaza Libertad Madero UCA {'cant': 4}
+Plaza Libertad Parque Centenario {'cant': 7}
+Plaza Libertad Diagonal Norte {'cant': 4}
+Plaza Libertad Distrito Audiovisual {'cant': 12}
+Plaza Libertad Once {'cant': 20}
+Plaza Libertad Retiro {'cant': 47}
+Plaza Libertad Peña {'cant': 48}
+Plaza Libertad Coronel Díaz {'cant': 1}
+Plaza Libertad Independencia {'cant': 27}
+Plaza Libertad Facultad de Medicina {'cant': 20}
+Plaza Libertad Tribunales {'cant': 19}
+Plaza Libertad Arenales {'cant': 15}
+Plaza Libertad Rivarola {'cant': 0}
+Plaza Libertad Urquiza {'cant': 8}
+Plaza Libertad 25 de Mayo {'cant': 8}
+Plaza Libertad Alsina {'cant': 10}
+Plaza Libertad Tucumán {'cant': 10}
+Plaza Libertad Facultad de Derecho {'cant': 20}
+Plaza Libertad nan {'cant': 30}
+Plaza Libertad Pacífico {'cant': 26}
+Plaza Libertad Montevideo {'cant': 35}
+Plaza Libertad Ministro Carranza {'cant': 1}
+Plaza Libertad Plaza Libertad {'cant': 37}
+Plaza Libertad Catedral {'cant': 3}
+Plaza Libertad Plaza Vicente López {'cant': 46}
+Plaza Libertad Galerías Pacífico {'cant': 7}
+Plaza Libertad Parque Las Heras {'cant': 26}
+Plaza Libertad Plaza Italia {'cant': 23}
+Plaza Libertad Obelisco {'cant': 12}
+Plaza Libertad Parque Lezama {'cant': 6}
+Plaza Libertad Chile {'cant': 0}
+Plaza Libertad Maipú {'cant': 2}
+Plaza Libertad Ingeniero Butty {'cant': 9}
+Plaza Libertad Congreso {'cant': 16}
+Plaza Libertad Plaza Boedo {'cant': 13}
+Plaza Libertad Suipacha {'cant': 9}
+Plaza Libertad Plaza Houssay {'cant': 12}
+Plaza Libertad Córdoba {'cant': 1}
+Plaza Libertad Plaza Güemes {'cant': 11}
+Plaza Libertad Plaza Almagro {'cant': 9}
+Plaza Libertad Emilio Mitre {'cant': 0}
+Plaza Libertad Legislatura {'cant': 7}
+Plaza Libertad Aduana {'cant': 2}
+Plaza Libertad Plaza San Martín {'cant': 13}
+Plaza Libertad Perón {'cant': 0}
+Plaza Libertad Juana Manso {'cant': 3}
+Plaza Libertad Ecoparque {'cant': 0}
+Plaza Libertad Sarmiento {'cant': 0}
+Plaza Libertad Piedras {'cant': 1}
+Plaza Libertad Plaza Roma {'cant': 6}
+Plaza Libertad Parque Patricios {'cant': 0}
+Plaza Libertad Santiago del Estero {'cant': 2}
+Parque Patricios Facultad de Medicina {'cant': 0}
+Parque Patricios Parque Patricios {'cant': 38}
+Parque Patricios Plaza Almagro {'cant': 1}
+Parque Patricios Plaza Boedo {'cant': 47}
+Parque Patricios Urquiza {'cant': 18}
+Parque Patricios Independencia {'cant': 17}
+Parque Patricios Once {'cant': 9}
+Parque Patricios Congreso {'cant': 5}
+Parque Patricios Parque Lezama {'cant': 12}
+Parque Patricios Parque Centenario {'cant': 5}
+Parque Patricios Plaza Libertad {'cant': 0}
+Parque Patricios Maipú {'cant': 0}
+Parque Patricios Chile {'cant': 0}
+Parque Patricios Retiro {'cant': 2}
+Parque Patricios Plaza Italia {'cant': 1}
+Parque Patricios Belgrano {'cant': 1}
+Parque Patricios Diagonal Norte {'cant': 1}
+Parque Patricios Peña {'cant': 2}
+Parque Patricios Plaza Güemes {'cant': 1}
+Parque Patricios Plaza Vicente López {'cant': 1}
+Parque Patricios Distrito Audiovisual {'cant': 2}
+Parque Patricios Galerías Pacífico {'cant': 0}
+Parque Patricios Parque Las Heras {'cant': 0}
+Parque Patricios Aduana {'cant': 0}
+Parque Patricios Suipacha {'cant': 2}
+Parque Patricios Cochabamba {'cant': 0}
+Parque Patricios nan {'cant': 1}
+Parque Patricios Montevideo {'cant': 1}
+Parque Patricios Alsina {'cant': 3}
+Parque Patricios Tribunales {'cant': 1}
+Parque Patricios Santiago del Estero {'cant': 0}
+Parque Patricios Facultad de Derecho {'cant': 0}
+Parque Patricios Caseros {'cant': 0}
+Sarmiento Galerías Pacífico {'cant': 5}
+Sarmiento Plaza Houssay {'cant': 2}
+Sarmiento Suipacha {'cant': 3}
+Sarmiento Parque Centenario {'cant': 1}
+Sarmiento Independencia {'cant': 2}
+Sarmiento Tucumán {'cant': 0}
+Sarmiento Catedral {'cant': 1}
+Sarmiento Plaza Almagro {'cant': 6}
+Sarmiento Juana Manso {'cant': 3}
+Sarmiento Once {'cant': 7}
+Sarmiento Retiro {'cant': 10}
+Sarmiento Maipú {'cant': 2}
+Sarmiento Sarmiento {'cant': 1}
+Sarmiento nan {'cant': 1}
+Sarmiento Diagonal Norte {'cant': 1}
+Sarmiento Plaza San Martín {'cant': 1}
+Sarmiento Madero UCA {'cant': 2}
+Sarmiento Plaza Libertad {'cant': 2}
+Sarmiento Obelisco {'cant': 2}
+Sarmiento Alsina {'cant': 4}
+Sarmiento Congreso {'cant': 3}
+Sarmiento Facultad de Derecho {'cant': 1}
+Sarmiento Plaza Roma {'cant': 0}
+Sarmiento Montevideo {'cant': 0}
+Sarmiento Parque Las Heras {'cant': 5}
+Sarmiento Perón {'cant': 0}
+Sarmiento Arenales {'cant': 0}
+Sarmiento Plaza Boedo {'cant': 0}
+Sarmiento Plaza Güemes {'cant': 0}
+Sarmiento Tribunales {'cant': 0}
+Sarmiento Pacífico {'cant': 0}
+Sarmiento Legislatura {'cant': 0}
+Sarmiento Facultad de Medicina {'cant': 0}
+Ingeniero Butty Parque Las Heras {'cant': 8}
+Ingeniero Butty Facultad de Derecho {'cant': 6}
+Ingeniero Butty 25 de Mayo {'cant': 3}
+Ingeniero Butty Retiro {'cant': 24}
+Ingeniero Butty Plaza Vicente López {'cant': 6}
+Ingeniero Butty Once {'cant': 1}
+Ingeniero Butty Legislatura {'cant': 1}
+Ingeniero Butty Madero UCA {'cant': 13}
+Ingeniero Butty Ecoparque {'cant': 1}
+Ingeniero Butty Plaza Italia {'cant': 3}
+Ingeniero Butty Distrito Audiovisual {'cant': 0}
+Ingeniero Butty Alsina {'cant': 3}
+Ingeniero Butty Juana Manso {'cant': 10}
+Ingeniero Butty Plaza Roma {'cant': 7}
+Ingeniero Butty Plaza Libertad {'cant': 2}
+Ingeniero Butty Ingeniero Butty {'cant': 7}
+Ingeniero Butty Montevideo {'cant': 2}
+Ingeniero Butty Congreso {'cant': 1}
+Ingeniero Butty Peña {'cant': 11}
+Ingeniero Butty Urquiza {'cant': 3}
+Ingeniero Butty Catedral {'cant': 0}
+Ingeniero Butty Plaza Boedo {'cant': 1}
+Ingeniero Butty Chile {'cant': 1}
+Ingeniero Butty Córdoba {'cant': 0}
+Ingeniero Butty Plaza Güemes {'cant': 2}
+Ingeniero Butty Facultad de Medicina {'cant': 2}
+Ingeniero Butty Aduana {'cant': 3}
+Ingeniero Butty nan {'cant': 0}
+Ingeniero Butty Piedras {'cant': 0}
+Ingeniero Butty Sarmiento {'cant': 0}
+Ingeniero Butty Suipacha {'cant': 0}
+Ingeniero Butty Plaza San Martín {'cant': 0}
+Ingeniero Butty Arenales {'cant': 0}
+Ingeniero Butty Independencia {'cant': 2}
+Ingeniero Butty Pacífico {'cant': 3}
+Ingeniero Butty Emilio Mitre {'cant': 0}
+Ingeniero Butty Parque Centenario {'cant': 0}
+Ingeniero Butty Obelisco {'cant': 0}
+Ingeniero Butty Plaza Houssay {'cant': 0}
+Rivarola Rivarola {'cant': 4}
+Rivarola Ayacucho {'cant': 1}
+Rivarola Plaza Almagro {'cant': 0}
+Rivarola Congreso {'cant': 5}
+Rivarola Plaza Palermo Viejo {'cant': 0}
+Rivarola Plaza Vicente López {'cant': 3}
+Rivarola Facultad de Derecho {'cant': 0}
+Rivarola Madero UCA {'cant': 0}
+Rivarola Plaza Houssay {'cant': 0}
+Rivarola 25 de Mayo {'cant': 0}
+Rivarola Tribunales {'cant': 0}
+Rivarola Suipacha {'cant': 0}
+Rivarola Diagonal Norte {'cant': 0}
+Rivarola Independencia {'cant': 4}
+Rivarola Once {'cant': 1}
+Rivarola Parque Centenario {'cant': 4}
+Rivarola Pacífico {'cant': 0}
+Rivarola Maipú {'cant': 0}
+Rivarola Montevideo {'cant': 5}
+Rivarola Facultad de Medicina {'cant': 0}
+Rivarola Belgrano {'cant': 0}
+Rivarola Parque Patricios {'cant': 1}
+Rivarola Urquiza {'cant': 0}
+Rivarola Plaza Italia {'cant': 1}
+Rivarola Plaza Boedo {'cant': 1}
+Rivarola Parque Las Heras {'cant': 1}
+Rivarola nan {'cant': 11}
+Rivarola Córdoba {'cant': 0}
+Rivarola Perón {'cant': 0}
+Rivarola Retiro {'cant': 1}
+Rivarola Chile {'cant': 0}
+Rivarola Parque Lezama {'cant': 1}
+Rivarola Legislatura {'cant': 0}
+Rivarola Plaza Libertad {'cant': 0}
+Legislatura Independencia {'cant': 56}
+Legislatura Pacífico {'cant': 8}
+Legislatura Facultad de Derecho {'cant': 6}
+Legislatura Chile {'cant': 31}
+Legislatura Plaza Almagro {'cant': 23}
+Legislatura Parque Lezama {'cant': 58}
+Legislatura Rivarola {'cant': 0}
+Legislatura Ingeniero Butty {'cant': 4}
+Legislatura nan {'cant': 4}
+Legislatura Plaza Boedo {'cant': 19}
+Legislatura Plaza Roma {'cant': 3}
+Legislatura Once {'cant': 42}
+Legislatura Belgrano {'cant': 3}
+Legislatura Suipacha {'cant': 9}
+Legislatura Madero UCA {'cant': 18}
+Legislatura Tribunales {'cant': 10}
+Legislatura Aduana {'cant': 12}
+Legislatura Congreso {'cant': 37}
+Legislatura Plaza Güemes {'cant': 15}
+Legislatura Catedral {'cant': 2}
+Legislatura Parque Centenario {'cant': 19}
+Legislatura Sarmiento {'cant': 3}
+Legislatura 25 de Mayo {'cant': 1}
+Legislatura Legislatura {'cant': 25}
+Legislatura Córdoba {'cant': 5}
+Legislatura Plaza San Martín {'cant': 8}
+Legislatura Plaza Vicente López {'cant': 8}
+Legislatura Peña {'cant': 7}
+Legislatura Parque Las Heras {'cant': 19}
+Legislatura Juana Manso {'cant': 3}
+Legislatura Ricardo Rojas {'cant': 0}
+Legislatura Diagonal Norte {'cant': 3}
+Legislatura Retiro {'cant': 21}
+Legislatura Montevideo {'cant': 13}
+Legislatura Plaza Libertad {'cant': 14}
+Legislatura Plaza Italia {'cant': 1}
+Legislatura Alsina {'cant': 9}
+Legislatura Facultad de Medicina {'cant': 1}
+Legislatura Obelisco {'cant': 6}
+Legislatura Distrito Audiovisual {'cant': 0}
+Legislatura Plaza Houssay {'cant': 1}
+Legislatura Perón {'cant': 1}
+Legislatura Piedras {'cant': 1}
+Legislatura Galerías Pacífico {'cant': 0}
+Legislatura Urquiza {'cant': 2}
+Legislatura Arenales {'cant': 4}
+Legislatura Maipú {'cant': 1}
+Legislatura Cochabamba {'cant': 3}
+Legislatura Parque Patricios {'cant': 0}
+Legislatura Santiago del Estero {'cant': 2}
+Piedras Parque Centenario {'cant': 4}
+Piedras Congreso {'cant': 6}
+Piedras nan {'cant': 0}
+Piedras Independencia {'cant': 12}
+Piedras Once {'cant': 8}
+Piedras Catedral {'cant': 1}
+Piedras Obelisco {'cant': 1}
+Piedras Legislatura {'cant': 0}
+Piedras Plaza Houssay {'cant': 0}
+Piedras Chile {'cant': 2}
+Piedras Peña {'cant': 4}
+Piedras Juana Manso {'cant': 2}
+Piedras Plaza Almagro {'cant': 3}
+Piedras Piedras {'cant': 6}
+Piedras Suipacha {'cant': 6}
+Piedras Plaza Boedo {'cant': 3}
+Piedras Parque Lezama {'cant': 4}
+Piedras Facultad de Medicina {'cant': 0}
+Piedras Arenales {'cant': 0}
+Piedras Parque Patricios {'cant': 0}
+Piedras Facultad de Derecho {'cant': 0}
+Piedras Plaza Libertad {'cant': 1}
+Piedras Santiago del Estero {'cant': 0}
+Piedras Retiro {'cant': 4}
+Piedras Madero UCA {'cant': 1}
+Piedras Alsina {'cant': 2}
+Piedras Aduana {'cant': 1}
+Piedras Plaza Vicente López {'cant': 2}
+Piedras Plaza Italia {'cant': 2}
+Piedras Plaza San Martín {'cant': 0}
+Piedras Maipú {'cant': 1}
+Piedras Pacífico {'cant': 4}
+Piedras Parque Las Heras {'cant': 1}
+Piedras Tribunales {'cant': 0}
+Plaza San Martín Montevideo {'cant': 29}
+Plaza San Martín Parque Las Heras {'cant': 91}
+Plaza San Martín Once {'cant': 34}
+Plaza San Martín Peña {'cant': 92}
+Plaza San Martín Plaza San Martín {'cant': 49}
+Plaza San Martín Coronel Díaz {'cant': 2}
+Plaza San Martín Parque Centenario {'cant': 14}
+Plaza San Martín Juana Manso {'cant': 10}
+Plaza San Martín Ministro Carranza {'cant': 0}
+Plaza San Martín Pacífico {'cant': 39}
+Plaza San Martín Madero UCA {'cant': 11}
+Plaza San Martín Galerías Pacífico {'cant': 7}
+Plaza San Martín Plaza Vicente López {'cant': 117}
+Plaza San Martín Tribunales {'cant': 10}
+Plaza San Martín Chile {'cant': 10}
+Plaza San Martín Plaza Güemes {'cant': 106}
+Plaza San Martín Parque Lezama {'cant': 5}
+Plaza San Martín Facultad de Medicina {'cant': 17}
+Plaza San Martín Plaza Almagro {'cant': 9}
+Plaza San Martín Facultad de Derecho {'cant': 27}
+Plaza San Martín Plaza Roma {'cant': 12}
+Plaza San Martín Congreso {'cant': 21}
+Plaza San Martín Retiro {'cant': 66}
+Plaza San Martín Plaza Houssay {'cant': 17}
+Plaza San Martín Plaza Boedo {'cant': 7}
+Plaza San Martín Córdoba {'cant': 6}
+Plaza San Martín Arenales {'cant': 41}
+Plaza San Martín Independencia {'cant': 37}
+Plaza San Martín Distrito Audiovisual {'cant': 8}
+Plaza San Martín Suipacha {'cant': 17}
+Plaza San Martín Urquiza {'cant': 10}
+Plaza San Martín Plaza Libertad {'cant': 12}
+Plaza San Martín Plaza Palermo Viejo {'cant': 0}
+Plaza San Martín Maipú {'cant': 5}
+Plaza San Martín Plaza Italia {'cant': 33}
+Plaza San Martín Legislatura {'cant': 12}
+Plaza San Martín Julián Álvarez {'cant': 1}
+Plaza San Martín Alsina {'cant': 9}
+Plaza San Martín nan {'cant': 6}
+Plaza San Martín Diagonal Norte {'cant': 4}
+Plaza San Martín Obelisco {'cant': 12}
+Plaza San Martín Ricardo Rojas {'cant': 1}
+Plaza San Martín Ecoparque {'cant': 3}
+Plaza San Martín Piedras {'cant': 1}
+Plaza San Martín Sarmiento {'cant': 1}
+Plaza San Martín 25 de Mayo {'cant': 3}
+Plaza San Martín Catedral {'cant': 2}
+Plaza San Martín Aduana {'cant': 1}
+Plaza San Martín Emilio Mitre {'cant': 11}
+Plaza San Martín Parque Patricios {'cant': 1}
+Belgrano Retiro {'cant': 4}
+Belgrano Distrito Audiovisual {'cant': 0}
+Belgrano Plaza Boedo {'cant': 0}
+Belgrano Pacífico {'cant': 1}
+Belgrano Congreso {'cant': 3}
+Belgrano Plaza Güemes {'cant': 1}
+Belgrano Once {'cant': 1}
+Belgrano Obelisco {'cant': 1}
+Belgrano Plaza San Martín {'cant': 0}
+Belgrano Legislatura {'cant': 1}
+Belgrano Parque Centenario {'cant': 2}
+Belgrano Parque Lezama {'cant': 2}
+Belgrano Plaza Almagro {'cant': 3}
+Belgrano Arenales {'cant': 0}
+Belgrano Aduana {'cant': 0}
+Belgrano Peña {'cant': 1}
+Belgrano Independencia {'cant': 1}
+Belgrano Facultad de Derecho {'cant': 0}
+Belgrano Madero UCA {'cant': 1}
+Belgrano 25 de Mayo {'cant': 0}
+Belgrano Alsina {'cant': 0}
+Belgrano Plaza Roma {'cant': 0}
+Perón Juana Manso {'cant': 0}
+Perón Parque Lezama {'cant': 2}
+Perón Perón {'cant': 2}
+Perón Congreso {'cant': 2}
+Perón Tribunales {'cant': 1}
+Perón Plaza Boedo {'cant': 0}
+Perón Plaza Vicente López {'cant': 1}
+Perón Plaza San Martín {'cant': 1}
+Perón Obelisco {'cant': 4}
+Perón Aduana {'cant': 3}
+Perón Retiro {'cant': 2}
+Perón Plaza Houssay {'cant': 1}
+Perón Diagonal Norte {'cant': 1}
+Perón Ministro Carranza {'cant': 0}
+Perón Plaza Almagro {'cant': 0}
+Perón Chile {'cant': 0}
+Perón Madero UCA {'cant': 1}
+Perón Independencia {'cant': 0}
+Perón Catedral {'cant': 1}
+Perón Suipacha {'cant': 2}
+Perón Parque Las Heras {'cant': 0}
+Perón Peña {'cant': 0}
+Perón Montevideo {'cant': 0}
+Perón Urquiza {'cant': 0}
+Perón Plaza Libertad {'cant': 0}
+Perón Parque Centenario {'cant': 0}
+Córdoba Madero UCA {'cant': 3}
+Córdoba Plaza Houssay {'cant': 3}
+Córdoba Córdoba {'cant': 5}
+Córdoba Parque Las Heras {'cant': 6}
 Córdoba Congreso {'cant': 1}
+Córdoba Plaza Palermo Viejo {'cant': 0}
+Córdoba Plaza Almagro {'cant': 2}
+Córdoba Montevideo {'cant': 6}
+Córdoba nan {'cant': 37}
+Córdoba Facultad de Medicina {'cant': 3}
+Córdoba Legislatura {'cant': 3}
+Córdoba Plaza Roma {'cant': 1}
+Córdoba Alsina {'cant': 0}
+Córdoba Maipú {'cant': 3}
+Córdoba Retiro {'cant': 8}
+Córdoba Once {'cant': 1}
+Córdoba Independencia {'cant': 4}
+Córdoba Tribunales {'cant': 1}
+Córdoba Suipacha {'cant': 1}
+Córdoba Plaza Güemes {'cant': 2}
+Córdoba Ricardo Rojas {'cant': 2}
+Córdoba Diagonal Norte {'cant': 0}
+Córdoba Plaza San Martín {'cant': 5}
 Córdoba Parque Centenario {'cant': 0}
-Córdoba Plaza Houssay {'cant': 0}
-Obelisco Plaza Roma {'cant': 2}
-Obelisco Plaza Vicente López {'cant': 3}
-Obelisco Juana Manso {'cant': 5}
-Obelisco Alsina {'cant': 5}
-Obelisco Independencia {'cant': 35}
-Obelisco Facultad de Derecho {'cant': 4}
-Obelisco Piedras {'cant': 0}
-Obelisco Ayacucho {'cant': 0}
-Obelisco 25 de Mayo {'cant': 0}
-Obelisco Congreso {'cant': 19}
-Obelisco Chile {'cant': 1}
-Obelisco Plaza Libertad {'cant': 2}
-Obelisco Once {'cant': 16}
-Obelisco Parque Centenario {'cant': 9}
-Obelisco Parque Lezama {'cant': 13}
-Obelisco Obelisco {'cant': 4}
-Obelisco Suipacha {'cant': 0}
-Obelisco Tribunales {'cant': 1}
-Obelisco Plaza Almagro {'cant': 7}
-Obelisco Rivarola {'cant': 0}
-Obelisco Peña {'cant': 4}
-Obelisco Pacífico {'cant': 2}
-Obelisco Retiro {'cant': 5}
-Obelisco Urquiza {'cant': 0}
-Obelisco Plaza Italia {'cant': 1}
-Obelisco Diagonal Norte {'cant': 3}
-Obelisco Galerías Pacífico {'cant': 2}
-Obelisco Plaza Houssay {'cant': 1}
-Obelisco Plaza Güemes {'cant': 8}
-Obelisco Parque Las Heras {'cant': 8}
-Obelisco Emilio Mitre {'cant': 0}
-Obelisco Madero UCA {'cant': 9}
-Obelisco Parque Patricios {'cant': 0}
-Obelisco Legislatura {'cant': 0}
-Obelisco Tucumán {'cant': 0}
-Obelisco nan {'cant': 0}
-Obelisco Aduana {'cant': 3}
-Obelisco Maipú {'cant': 3}
-Obelisco Santiago del Estero {'cant': 5}
-Obelisco Plaza San Martín {'cant': 1}
-Obelisco Montevideo {'cant': 1}
-Ministro Carranza Tribunales {'cant': 0}
-Ministro Carranza Parque Las Heras {'cant': 3}
-Ministro Carranza Pacífico {'cant': 4}
-Ministro Carranza Ministro Carranza {'cant': 2}
-Ministro Carranza Peña {'cant': 0}
-Ministro Carranza Congreso {'cant': 1}
-Ministro Carranza Facultad de Derecho {'cant': 0}
-Ministro Carranza Plaza Vicente López {'cant': 0}
-Ministro Carranza Parque Centenario {'cant': 1}
-Ministro Carranza Once {'cant': 0}
-Ministro Carranza nan {'cant': 7}
-Ministro Carranza Independencia {'cant': 0}
-Ministro Carranza Plaza Almagro {'cant': 0}
-Ministro Carranza Plaza Palermo Viejo {'cant': 0}
-Ministro Carranza Ecoparque {'cant': 1}
-Ministro Carranza Ayacucho {'cant': 0}
-Ministro Carranza Plaza Güemes {'cant': 1}
-Ministro Carranza Distrito Audiovisual {'cant': 0}
-Emilio Mitre Parque Centenario {'cant': 1}
-Emilio Mitre Plaza Vicente López {'cant': 1}
-Emilio Mitre Plaza Libertad {'cant': 2}
-Emilio Mitre Parque Las Heras {'cant': 4}
-Emilio Mitre Plaza Italia {'cant': 2}
-Emilio Mitre Peña {'cant': 1}
-Emilio Mitre Plaza Houssay {'cant': 1}
-Emilio Mitre Pacífico {'cant': 3}
-Emilio Mitre Ministro Carranza {'cant': 1}
-Emilio Mitre Congreso {'cant': 2}
-Emilio Mitre Plaza Boedo {'cant': 0}
-Emilio Mitre Plaza Güemes {'cant': 1}
-Emilio Mitre Facultad de Medicina {'cant': 6}
-Emilio Mitre Emilio Mitre {'cant': 2}
-Emilio Mitre Retiro {'cant': 0}
-Emilio Mitre Distrito Audiovisual {'cant': 3}
-Emilio Mitre Facultad de Derecho {'cant': 2}
+Córdoba Juana Manso {'cant': 1}
+Córdoba Pacífico {'cant': 2}
+Córdoba Plaza Vicente López {'cant': 1}
+Córdoba Ingeniero Butty {'cant': 0}
+Córdoba Peña {'cant': 2}
+Córdoba Chile {'cant': 3}
+Córdoba Piedras {'cant': 0}
+Córdoba Plaza Italia {'cant': 0}
+Córdoba Arenales {'cant': 1}
+Córdoba Plaza Libertad {'cant': 0}
+Córdoba Urquiza {'cant': 1}
+Córdoba Aduana {'cant': 0}
+Tucumán Alsina {'cant': 2}
+Tucumán Independencia {'cant': 4}
+Tucumán Ministro Carranza {'cant': 0}
+Tucumán Suipacha {'cant': 7}
+Tucumán Plaza Almagro {'cant': 2}
+Tucumán Pacífico {'cant': 3}
+Tucumán Arenales {'cant': 2}
+Tucumán Tucumán {'cant': 1}
+Tucumán Plaza Italia {'cant': 3}
+Tucumán Tribunales {'cant': 2}
+Tucumán Congreso {'cant': 9}
+Tucumán Retiro {'cant': 5}
+Tucumán Peña {'cant': 12}
+Tucumán Parque Lezama {'cant': 1}
+Tucumán Galerías Pacífico {'cant': 0}
+Tucumán Parque Centenario {'cant': 0}
+Tucumán Plaza Houssay {'cant': 5}
+Tucumán Plaza Vicente López {'cant': 2}
+Tucumán Córdoba {'cant': 0}
+Tucumán Juana Manso {'cant': 1}
+Tucumán Montevideo {'cant': 3}
+Tucumán Once {'cant': 9}
+Tucumán Aduana {'cant': 2}
+Tucumán Legislatura {'cant': 0}
+Tucumán Parque Las Heras {'cant': 0}
+Tucumán Obelisco {'cant': 0}
+Tucumán Ingeniero Butty {'cant': 0}
+Tucumán Plaza Libertad {'cant': 1}
+Tucumán Facultad de Medicina {'cant': 0}
+Tucumán Piedras {'cant': 0}
+Tucumán Plaza Boedo {'cant': 0}
+Ricardo Rojas Legislatura {'cant': 1}
+Ricardo Rojas Ecoparque {'cant': 0}
+Ricardo Rojas Ricardo Rojas {'cant': 4}
+Ricardo Rojas Suipacha {'cant': 2}
+Ricardo Rojas Córdoba {'cant': 1}
+Ricardo Rojas Once {'cant': 1}
+Ricardo Rojas Pacífico {'cant': 2}
+Ricardo Rojas Chile {'cant': 2}
+Ricardo Rojas Plaza Almagro {'cant': 0}
+Ricardo Rojas Plaza Boedo {'cant': 0}
+Ricardo Rojas Parque Lezama {'cant': 0}
+Ricardo Rojas Plaza Houssay {'cant': 0}
+Ricardo Rojas Retiro {'cant': 5}
+Ricardo Rojas Galerías Pacífico {'cant': 1}
+Ricardo Rojas Parque Las Heras {'cant': 2}
+Ricardo Rojas Plaza San Martín {'cant': 3}
+Ricardo Rojas nan {'cant': 0}
+Ricardo Rojas Plaza Vicente López {'cant': 0}
+Ricardo Rojas Facultad de Medicina {'cant': 0}
+Ricardo Rojas Piedras {'cant': 0}
+Ricardo Rojas Ingeniero Butty {'cant': 0}
+Ricardo Rojas Facultad de Derecho {'cant': 1}
+Ricardo Rojas Plaza Italia {'cant': 1}
+Ricardo Rojas Congreso {'cant': 1}
+Ricardo Rojas Independencia {'cant': 5}
+Ricardo Rojas Sarmiento {'cant': 0}
+Ricardo Rojas Juana Manso {'cant': 0}
+Ricardo Rojas Arenales {'cant': 0}
+Ricardo Rojas Peña {'cant': 0}
+Plaza Vicente Lopez Distrito Audiovisual {'cant': 1}
+Plaza Vicente Lopez Santiago del Estero {'cant': 0}
+Emilio Mitre Aduana {'cant': 1}
+Emilio Mitre Arenales {'cant': 5}
+Emilio Mitre Retiro {'cant': 15}
+Emilio Mitre Parque Centenario {'cant': 8}
+Emilio Mitre Plaza Güemes {'cant': 18}
+Emilio Mitre Plaza Italia {'cant': 15}
+Emilio Mitre Independencia {'cant': 2}
+Emilio Mitre Plaza Vicente López {'cant': 6}
+Emilio Mitre Pacífico {'cant': 9}
+Emilio Mitre Facultad de Derecho {'cant': 8}
+Emilio Mitre Parque Las Heras {'cant': 23}
+Emilio Mitre Tribunales {'cant': 2}
+Emilio Mitre Distrito Audiovisual {'cant': 5}
+Emilio Mitre Alsina {'cant': 8}
+Emilio Mitre Plaza Houssay {'cant': 10}
+Emilio Mitre Plaza Roma {'cant': 3}
+Emilio Mitre Congreso {'cant': 8}
+Emilio Mitre Ayacucho {'cant': 0}
+Emilio Mitre Facultad de Medicina {'cant': 1}
+Emilio Mitre Urquiza {'cant': 0}
+Emilio Mitre Madero UCA {'cant': 1}
+Emilio Mitre Plaza Almagro {'cant': 1}
+Emilio Mitre Peña {'cant': 10}
+Emilio Mitre Emilio Mitre {'cant': 4}
+Emilio Mitre Plaza Boedo {'cant': 5}
+Emilio Mitre nan {'cant': 4}
+Emilio Mitre Montevideo {'cant': 1}
+Emilio Mitre Suipacha {'cant': 5}
 Emilio Mitre Ecoparque {'cant': 0}
 Emilio Mitre Tucumán {'cant': 0}
-Emilio Mitre Montevideo {'cant': 0}
-Emilio Mitre Arenales {'cant': 0}
-Ingeniero Butty Arenales {'cant': 0}
-Ingeniero Butty Ministro Carranza {'cant': 0}
-Ingeniero Butty Retiro {'cant': 2}
-Ingeniero Butty Plaza Roma {'cant': 2}
-Ingeniero Butty Parque Lezama {'cant': 2}
-Ingeniero Butty Ingeniero Butty {'cant': 1}
-Ingeniero Butty Pacífico {'cant': 0}
-Ingeniero Butty Peña {'cant': 4}
-Ingeniero Butty Tribunales {'cant': 0}
-Ingeniero Butty Montevideo {'cant': 0}
-Ingeniero Butty Chile {'cant': 0}
-Ingeniero Butty Parque Las Heras {'cant': 2}
-Ingeniero Butty Plaza Boedo {'cant': 0}
-Ingeniero Butty Facultad de Derecho {'cant': 0}
-Ingeniero Butty Madero UCA {'cant': 0}
-Ingeniero Butty Juana Manso {'cant': 0}
-Ingeniero Butty Plaza Vicente López {'cant': 0}
-Ingeniero Butty Plaza Almagro {'cant': 0}
-Ingeniero Butty Independencia {'cant': 0}
-Piedras Piedras {'cant': 2}
-Piedras Retiro {'cant': 0}
-Piedras Legislatura {'cant': 1}
-Piedras nan {'cant': 0}
-Piedras Once {'cant': 2}
-Piedras Plaza Houssay {'cant': 1}
-Piedras Suipacha {'cant': 0}
-Piedras Madero UCA {'cant': 0}
-Piedras Plaza Almagro {'cant': 0}
-Piedras 25 de Mayo {'cant': 0}
-Piedras Congreso {'cant': 1}
-Piedras Independencia {'cant': 0}
-Piedras Parque Centenario {'cant': 0}
-Piedras Urquiza {'cant': 1}
-Piedras Montevideo {'cant': 0}
-Piedras Peña {'cant': 2}
-Piedras Facultad de Derecho {'cant': 1}
-Piedras Cochabamba {'cant': 0}
-Piedras Parque Patricios {'cant': 0}
-Piedras Plaza Vicente López {'cant': 1}
-Piedras Aduana {'cant': 0}
-Piedras Arenales {'cant': 0}
-Perón Facultad de Medicina {'cant': 0}
-Perón Plaza Houssay {'cant': 0}
-Perón Madero UCA {'cant': 2}
-Perón Aduana {'cant': 0}
-Perón Perón {'cant': 0}
-Perón Retiro {'cant': 0}
-Perón Parque Lezama {'cant': 0}
-Perón Obelisco {'cant': 0}
-Plaza Vicente Lopez Montevideo {'cant': 0}
-Plaza Vicente Lopez Congreso {'cant': 0}
-Santiago del Estero Galerías Pacífico {'cant': 0}
-Santiago del Estero Plaza Houssay {'cant': 0}
-Santiago del Estero Santiago del Estero {'cant': 10}
-Santiago del Estero Suipacha {'cant': 0}
-Santiago del Estero Plaza Güemes {'cant': 4}
-Santiago del Estero Tribunales {'cant': 3}
-Santiago del Estero Montevideo {'cant': 3}
-Santiago del Estero Plaza Italia {'cant': 1}
+Emilio Mitre Once {'cant': 3}
+Emilio Mitre Parque Lezama {'cant': 1}
+Emilio Mitre Obelisco {'cant': 0}
+Caseros Plaza Italia {'cant': 4}
+Caseros Madero UCA {'cant': 1}
+Caseros Congreso {'cant': 0}
+Caseros Plaza Güemes {'cant': 4}
+Caseros Caseros {'cant': 2}
+Caseros Plaza Libertad {'cant': 0}
+Caseros Arenales {'cant': 0}
+Caseros Parque Centenario {'cant': 2}
+Caseros nan {'cant': 3}
+Caseros Urquiza {'cant': 1}
+Caseros Independencia {'cant': 0}
+Caseros Legislatura {'cant': 0}
+Caseros Cochabamba {'cant': 1}
+Caseros Pacífico {'cant': 0}
+Caseros Obelisco {'cant': 0}
+Caseros Plaza Vicente López {'cant': 0}
+Caseros Santiago del Estero {'cant': 0}
+Caseros Plaza Almagro {'cant': 0}
+Caseros Once {'cant': 0}
+Santiago del Estero Plaza Houssay {'cant': 2}
+Santiago del Estero nan {'cant': 1}
+Santiago del Estero Plaza Vicente López {'cant': 9}
+Santiago del Estero Plaza Boedo {'cant': 16}
+Santiago del Estero Facultad de Medicina {'cant': 1}
+Santiago del Estero Suipacha {'cant': 4}
+Santiago del Estero Parque Patricios {'cant': 6}
+Santiago del Estero Legislatura {'cant': 10}
+Santiago del Estero Plaza Almagro {'cant': 35}
+Santiago del Estero Santiago del Estero {'cant': 31}
+Santiago del Estero Independencia {'cant': 22}
+Santiago del Estero Congreso {'cant': 13}
+Santiago del Estero Once {'cant': 40}
+Santiago del Estero Tribunales {'cant': 9}
+Santiago del Estero Madero UCA {'cant': 25}
+Santiago del Estero Retiro {'cant': 15}
+Santiago del Estero Plaza San Martín {'cant': 10}
 Santiago del Estero Aduana {'cant': 1}
-Santiago del Estero Parque Lezama {'cant': 5}
-Santiago del Estero Congreso {'cant': 6}
-Santiago del Estero Alsina {'cant': 1}
-Santiago del Estero Once {'cant': 4}
-Santiago del Estero Plaza Almagro {'cant': 8}
-Santiago del Estero Peña {'cant': 3}
-Santiago del Estero Plaza Boedo {'cant': 5}
-Santiago del Estero Madero UCA {'cant': 1}
-Santiago del Estero Parque Centenario {'cant': 0}
-Santiago del Estero Urquiza {'cant': 2}
-Santiago del Estero Independencia {'cant': 2}
-Santiago del Estero Pacífico {'cant': 1}
+Santiago del Estero Peña {'cant': 19}
+Santiago del Estero Parque Las Heras {'cant': 19}
+Santiago del Estero Arenales {'cant': 1}
+Santiago del Estero Plaza Libertad {'cant': 2}
+Santiago del Estero Urquiza {'cant': 12}
+Santiago del Estero Parque Lezama {'cant': 13}
+Santiago del Estero Ingeniero Butty {'cant': 2}
+Santiago del Estero Montevideo {'cant': 17}
+Santiago del Estero Alsina {'cant': 10}
+Santiago del Estero Obelisco {'cant': 8}
+Santiago del Estero Plaza Güemes {'cant': 9}
+Santiago del Estero Pacífico {'cant': 3}
+Santiago del Estero Plaza Italia {'cant': 1}
+Santiago del Estero Distrito Audiovisual {'cant': 1}
+Santiago del Estero Facultad de Derecho {'cant': 5}
+Santiago del Estero Cochabamba {'cant': 3}
+Santiago del Estero Parque Centenario {'cant': 2}
+Santiago del Estero Catedral {'cant': 0}
 Santiago del Estero Juana Manso {'cant': 0}
-Santiago del Estero Legislatura {'cant': 0}
-Santiago del Estero Facultad de Derecho {'cant': 2}
-Santiago del Estero Obelisco {'cant': 0}
-Santiago del Estero Plaza Vicente López {'cant': 1}
-Santiago del Estero Parque Las Heras {'cant': 1}
-Santiago del Estero Plaza Libertad {'cant': 0}
-Cochabamba Santiago del Estero {'cant': 0}
-Cochabamba Cochabamba {'cant': 5}
+Santiago del Estero Plaza Roma {'cant': 0}
+Cochabamba Congreso {'cant': 3}
+Cochabamba Madero UCA {'cant': 5}
+Cochabamba Once {'cant': 9}
+Cochabamba Independencia {'cant': 9}
+Cochabamba Plaza Boedo {'cant': 2}
+Cochabamba Parque Lezama {'cant': 1}
+Cochabamba Tribunales {'cant': 4}
+Cochabamba Plaza Italia {'cant': 0}
+Cochabamba nan {'cant': 1}
+Cochabamba Cochabamba {'cant': 18}
+Cochabamba Alsina {'cant': 0}
+Cochabamba Plaza Vicente López {'cant': 1}
+Cochabamba Plaza San Martín {'cant': 0}
+Cochabamba Plaza Almagro {'cant': 3}
+Cochabamba Retiro {'cant': 4}
+Cochabamba Plaza Roma {'cant': 1}
 Cochabamba Legislatura {'cant': 0}
-Cochabamba Congreso {'cant': 0}
-Cochabamba Montevideo {'cant': 0}
-Cochabamba Madero UCA {'cant': 1}
-Cochabamba Independencia {'cant': 0}
-Cochabamba Plaza Boedo {'cant': 1}
+Cochabamba Distrito Audiovisual {'cant': 1}
+Cochabamba Plaza Güemes {'cant': 1}
+Cochabamba Aduana {'cant': 0}
+Cochabamba Santiago del Estero {'cant': 0}
+Cochabamba Parque Las Heras {'cant': 1}
+Cochabamba Obelisco {'cant': 1}
+Cochabamba Plaza Libertad {'cant': 0}
+Cochabamba Parque Patricios {'cant': 0}
+Cochabamba Suipacha {'cant': 0}
