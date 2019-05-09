@@ -12,6 +12,8 @@
 
 - https://preview.redd.it/mg9vjzibfuu21.png?width=960&crop=smart&auto=webp&s=a09bfd4c3132590ad9a791b045609a100ff45a12 
 
+- Ademas de las estaciones como puntos en el mapa, pensar una forma de unirlas (ejes) de forma tal que la red quede graficada sobre un layer (mapa dinamico o estatico)
+
 **Paper Familiar Strangers**
 https://www.aaai.org/ocs/index.php/ICWSM/09/paper/viewPaper/184
 
