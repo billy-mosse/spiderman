@@ -53,4 +53,7 @@ Sarasa:
 Alternativa: comparar data de distintos días/meses usando TDA para clasificar la data, por ejemplo, en días de paro y días de no paro.
 
 
+M[as sarasa:
+
 Che, podríamos ver qué pasa los días de paro de transporte, y findes.
+Para ver la evolucion en el tiempo podriamos ir poniendo fotos para ver una especie de pelicula.
