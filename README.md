@@ -49,3 +49,6 @@ Sarasa:
 
 - Usar topological data analysis (https://arxiv.org/abs/1707.04041) para predecir género (https://arxiv.org/abs/1101.3291) de las personas en base a patrones de movimiento de cada persona. Tal vez tratar de entender por qué se predice esto? Comparar topological data analysis con redes neuronales. Pensar otros grafos posibles para esto.
 Alternativa: comparar data de distintos días/meses usando TDA para clasificar la data, por ejemplo, en días de paro y días de no paro.
+
+
+Che, podríamos ver qué pasa los días de paro de transporte, y findes.
