@@ -1,5 +1,12 @@
 # spiderman
 
+Bienvenidos al README del proyecto SPIDERMAN.
+
+
+(...)
+
+*Borrador para nosotros*
+
 **Posibles datasets**:
 
 - Bicis -> https://data.buenosaires.gob.ar/dataset/bicicletas-publicas/archivo/22.9
