@@ -62,7 +62,17 @@ Sarasa:
 Alternativa: comparar data de distintos días/meses usando TDA para clasificar la data, por ejemplo, en días de paro y días de no paro.
 
 
-M[as sarasa:
+Más sarasa:
 
 Che, podríamos ver qué pasa los días de paro de transporte, y findes.
 Para ver la evolucion en el tiempo podriamos ir poniendo fotos para ver una especie de pelicula.
+
+**Marchas**
+
+- Fijar nodos, curvar edges isométricamente para visualización (con networkx). La curvatura es simplemente la fraccioon entre el promedio usual de tiempo de un día normal, y el del día de hoy.
+- Que los ejes sean resortes de la longitud adecuada, y "soltamos" el grafo en R3. Cuando se estabiliza, idealmente aparece una superficie con montañitas en los lugares problemáticos. Si esto pasa, es útil para la visualización.
+Si no, igual podemos pensar los nodos como un sample de una superficie (variedad) y estudiar la topología (que no cambió) y/o la curvatura. Ni idea cómo calcular la curvatura.
+
+Temas de curvatura tal vez aparezcan en el campo PLANARIDAD (ver Knuth).
+Tal vez también en multidimensional scaling.
+
