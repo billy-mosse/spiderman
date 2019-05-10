@@ -67,11 +67,13 @@ Más sarasa:
 Che, podríamos ver qué pasa los días de paro de transporte, y findes.
 Para ver la evolucion en el tiempo podriamos ir poniendo fotos para ver una especie de pelicula.
 
-**Marchas**
+**Marchas** (Autor: Billy)
 
 - Fijar nodos, curvar edges isométricamente para visualización (con networkx). La curvatura es simplemente la fraccioon entre el promedio usual de tiempo de un día normal, y el del día de hoy.
 - Que los ejes sean resortes de la longitud adecuada, y "soltamos" el grafo en R3. Cuando se estabiliza, idealmente aparece una superficie con montañitas en los lugares problemáticos. Si esto pasa, es útil para la visualización.
 Si no, igual podemos pensar los nodos como un sample de una superficie (variedad) y estudiar la topología (que no cambió) y/o la curvatura. Ni idea cómo calcular la curvatura.
+
+"N-spring, M-point mass system. Such a system can be modeled in terms of a set of N 2nd order linear differential equations and further expressed as a linear state space system. In linear systems theory the observability and contollability of the the state space system can be determined and given the availability of sensors and actuators and synthesis of control laws, the ability to stabilize and control the object. These techniques are largely described under the discipline of control system engineering"
 
 Temas de curvatura tal vez aparezcan en el campo PLANARIDAD (ver Knuth).
 Tal vez también en multidimensional scaling:
