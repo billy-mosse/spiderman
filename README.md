@@ -74,5 +74,7 @@ Para ver la evolucion en el tiempo podriamos ir poniendo fotos para ver una espe
 Si no, igual podemos pensar los nodos como un sample de una superficie (variedad) y estudiar la topología (que no cambió) y/o la curvatura. Ni idea cómo calcular la curvatura.
 
 Temas de curvatura tal vez aparezcan en el campo PLANARIDAD (ver Knuth).
-Tal vez también en multidimensional scaling.
+Tal vez también en multidimensional scaling:
+
+Given a distance matrix with the distances between each pair of objects in a set, and a chosen number of dimensions, N, an MDS algorithm places each object into N-dimensional space such that the between-object distances are preserved as well as possible. If N is one or two, then 2D scatter plots of the resulting points are possible
 
