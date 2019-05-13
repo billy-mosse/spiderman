@@ -80,3 +80,4 @@ Tal vez también en multidimensional scaling:
 
 Given a distance matrix with the distances between each pair of objects in a set, and a chosen number of dimensions, N, an MDS algorithm places each object into N-dimensional space such that the between-object distances are preserved as well as possible. If N is one or two, then 2D scatter plots of the resulting points are possible
 
+Ver también https://towardsdatascience.com/why-is-ayasdi-topological-data-analyses-the-source-of-so-many-breakthroughs-in-science-5fdc6b8a6f57 (TDA)
